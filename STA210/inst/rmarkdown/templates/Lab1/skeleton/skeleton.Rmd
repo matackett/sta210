@@ -52,14 +52,16 @@ library("STA210")
 ```
 
 ## Question 6
-
-<!-- Fill in your response. -->
-
-## Question 7
 ```{r}
 # Fill in the R code to calculate the numerical summaries.
 # You can see the output by clicking the green play button 
 #on the top right of this code chunk.
 # You will also see the output once you knit the file.
 ```
+
+## Question 7
+
+<!-- Fill in your response. -->
+
+
 
