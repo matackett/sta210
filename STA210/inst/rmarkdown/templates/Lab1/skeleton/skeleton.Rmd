@@ -1,0 +1,65 @@
+---
+title: "STA 210: Lab 1"
+author: "Your Name"
+date: "The Date"
+output: pdf_document
+fontsize: 12pt
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r libraries,echo=F}
+# loads necessary libraries
+# echo=F: R code in this chunk will execute but will not display in the final PDF
+library("tibble")
+library("dplyr")
+library("ggplot2")
+library("STA210")
+```
+
+
+## Question 1
+
+```{r}
+# Fill in the R code to see an overview of the dataset.
+# You can see the output by clicking the green play button 
+#on the top right of this code chunk.
+# You will also see the output once you knit the file.
+```
+
+
+## Question 2
+
+<!-- Fill in your response. -->
+
+## Question 3
+
+<!-- Fill in your response. -->
+
+## Question 4
+
+<!-- Fill in your response. -->
+
+## Question 5
+
+```{r}
+# Fill in the R code to create your plot. 
+# You can see the plot by clicking the green play button 
+#on the top right of this code chunk.
+# You will also see your plot once you knit the file.
+```
+
+## Question 6
+
+<!-- Fill in your response. -->
+
+## Question 7
+```{r}
+# Fill in the R code to calculate the numerical summaries.
+# You can see the output by clicking the green play button 
+#on the top right of this code chunk.
+# You will also see the output once you knit the file.
+```
+
