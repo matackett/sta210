@@ -10,58 +10,98 @@ fontsize: 12pt
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```{r libraries,echo=F}
-# loads necessary libraries
-# echo=F: R code in this chunk will execute but will not display in the final PDF
+```{r libraries,include=F}
 library("tibble")
 library("dplyr")
 library("ggplot2")
 library("STA210")
+library("Sleuth3") #data sets from the book 
+#include any additional packages you used in the homework
 ```
 
 
-## Question 1
+## Question 1: Ex. 2.18
+```{r,include=FALSE}
+#use ex0218 data set from the Sleuth3 library
+```
+
+### a
 
 ```{r}
-# Fill in the R code to see an overview of the dataset.
-# You can see the output by clicking the green play button 
-#on the top right of this code chunk.
-# You will also see the output once you knit the file.
+# Use t.test function to conduct two-sample inference
+# Type ?t.test to learn more about the function and its syntax
 ```
 
-
-## Question 2
-
-<!-- Fill in your response. -->
-
-## Question 3
-
-<!-- Fill in your response. -->
-
-## Question 4
-
-<!-- Fill in your response. -->
-
-## Question 5
+### b
 
 ```{r}
-# Fill in the R code to create your plot. 
-# You can see the plot by clicking the green play button 
-#on the top right of this code chunk.
-# You will also see your plot once you knit the file.
+
 ```
 
-## Question 6
+### c
+
 ```{r}
-# Fill in the R code to calculate the numerical summaries.
-# You can see the output by clicking the green play button 
-#on the top right of this code chunk.
-# You will also see the output once you knit the file.
+
 ```
 
-## Question 7
+### d
 
-<!-- Fill in your response. -->
+```{r}
+
+```
+
+### e
+
+<!-- Fill in response. -->
+
+
+## Question 2: Ex. 2.16
+
+```{r}
+# Use case0101 data set to answer this question
+# Include code used to verify the statements
+```
+
+### Comments on the p-value
+<!-- Fill in response. -->
+
+
+### Comments on the estimated treatment effect
+<!-- Fill in response. -->
+
+
+## Question 3: Ocars, Age, and Gender
+
+### a
+
+```{r}
+# Use the oscar_winners data set
+
+```
+
+<!-- Fill in response. -->
+
+### b
+
+```{r}
+
+```
+
+
+### c
+
+```{r}
+
+```
+
+
+### d
+
+<!-- Fill in response. -->
+
+
+
+
 
 
 
