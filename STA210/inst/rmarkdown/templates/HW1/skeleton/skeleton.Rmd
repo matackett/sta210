@@ -20,54 +20,12 @@ library("Sleuth3") #data sets from the book
 ```
 
 
-## Question 1: Ex. 2.18
+## Question 1: Ex. #2.16
 ```{r,include=FALSE}
-#use ex0218 data set from the Sleuth3 library
+#use case0101 data set from the Sleuth3 library
 ```
 
-### a
-
-```{r}
-# Use t.test function to conduct two-sample inference
-# Type ?t.test to learn more about the function and its syntax
-```
-
-### b
-
-```{r}
-
-```
-
-### c
-
-```{r}
-
-```
-
-### d
-
-```{r}
-
-```
-
-### e
-
-<!-- Fill in response. -->
-
-
-## Question 2: Ex. 2.16
-
-```{r}
-# Use case0101 data set to answer this question
-# Include code used to verify the statements
-```
-
-### Comments on the p-value
-<!-- Fill in response. -->
-
-
-### Comments on the estimated treatment effect
-<!-- Fill in response. -->
+## Question 2: Oscars and Age
 
 
 ## Question 3: Ocars, Age, and Gender
@@ -83,22 +41,33 @@ library("Sleuth3") #data sets from the book
 
 ### b
 
+<!-- Fill in hypotheses. -->
+
 ```{r}
 
 ```
 
+<!-- Fill in conclusion. -->
 
 ### c
-
-```{r}
-
-```
+<!-- Fill in response. -->
 
 
 ### d
 
 <!-- Fill in response. -->
 
+### e
+
+
+## Question 3: Ex #3.33
+```{r}
+# Use the ex0333 dataset from the Sleuth3 package
+
+```
+
+<!-- Be sure to include any relevant code/ output you used for the analysis. -->
+<!-- Be sure to state any conclusions in the context of the problem. -->
 
 
 
