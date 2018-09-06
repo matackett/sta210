@@ -6,7 +6,7 @@ output: pdf_document
 fontsize: 12pt
 ---
 
-```{r setup, include=FALSE}
+```{r setup, message=F,warning=F,include=F}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
@@ -21,9 +21,11 @@ library("Sleuth3") #data sets from the book
 
 
 ## Question 1: Ex. #2.16
-```{r,include=FALSE}
+```{r}
 #use case0101 data set from the Sleuth3 library
 ```
+
+
 
 ## Question 2: Oscars and Age
 
