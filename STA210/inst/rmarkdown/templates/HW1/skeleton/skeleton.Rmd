@@ -29,9 +29,6 @@ library("Sleuth3") #data sets from the book
 
 ## Question 2: Oscars and Age
 
-
-## Question 3: Ocars, Age, and Gender
-
 ### a
 
 ```{r}
