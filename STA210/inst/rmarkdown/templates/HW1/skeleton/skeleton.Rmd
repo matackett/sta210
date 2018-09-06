@@ -6,11 +6,11 @@ output: pdf_document
 fontsize: 12pt
 ---
 
-```{r setup, message=F,warning=F,include=F}
+```{r setup, message=F,include=F}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```{r libraries,include=F}
+```{r libraries,message=F,include=F}
 library("tibble")
 library("dplyr")
 library("ggplot2")
