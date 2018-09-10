@@ -34,30 +34,22 @@ library("Sleuth3") #data sets from the book
 ```{r}
 # Use the oscar_winners data set
 
+
 ```
 
 <!-- Fill in response. -->
 
 ### b
 
-<!-- Fill in hypotheses. -->
 
 ```{r}
-
 ```
-
-<!-- Fill in conclusion. -->
-
-### c
-<!-- Fill in response. -->
 
 
 ### d
+```{r}
 
-<!-- Fill in response. -->
-
-### e
-
+```
 
 ## Question 3: Ex #3.33
 ```{r}
