@@ -21,11 +21,12 @@ library("dplyr")
 library("ggplot2")
 library("readr")
 library("broom")
+library("STA210")
 ```
 
 ```{r,include=FALSE}
-bikeshare <- 
-  read_csv("https://www2.stat.duke.edu/courses/Fall18/sta210.001/data/bike_day.csv")
+# view the first 10 rows of the bikeshare data set
+bikeshare
 ```
 
 ## Question 1
@@ -130,4 +131,12 @@ holiday <- bikeshare %>% filter(holiday.new=="holiday")
 
 ## Question 6
 
+### a
+
 <!-- Fill in answer -->
+
+### b
+
+<!-- Fill in answer -->
+
+
