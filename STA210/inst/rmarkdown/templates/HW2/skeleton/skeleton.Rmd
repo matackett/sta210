@@ -1,0 +1,81 @@
+---
+title: "STA 210: HW 2"
+author: "Your Name"
+date: "Date"
+output: pdf_document
+fontsize: 12pt
+---
+
+```{r setup, message=F,include=F}
+knitr::opts_chunk$set(echo = TRUE)
+options(knitr.kable.NA = '')
+```
+
+```{r libraries,message=F,include=F}
+library("tibble")
+library("dplyr")
+library("ggplot2")
+library("broom")
+library("knitr")
+library("Sleuth3") #data sets from the book 
+```
+
+
+## Question 1: Ex. #5.14
+```{r}
+avg <- c(14.62,34.12,33.61,29.1,27,26.97,26.8)
+sd <- c(5.039,11.942,6.582,4.593,3.818,9.010,5.969)
+n <- c(9,5,6,9,2,6,9)
+judges <- bind_cols(avg=avg,sd=sd,n=n)
+```
+
+### a
+```{r}
+```
+
+### b
+```{r}
+
+```
+
+## Question 2: Ex. #5.17
+
+```{r}
+#values provided by book
+dfw <- 24 #DF within 
+dft <- 31 #DF total
+ssw <- 35088 #Sum of squares within 
+sst <- 70907 #Sum of squares total 
+```
+
+```{r}
+#fill in equations to calculate remaning values
+dfb <-  #DF between
+ssb <-  #Sum of squares between
+msb <-  #Mean square between 
+msw <-  #Mean square within 
+f_stat <- #F -statistic 
+p_val <- # p-value
+```
+
+```{r}
+# create each column of the ANOVA table
+#Each column must have same number of rows, 
+#Use NA to hold a space for the blank parts of the ANOVA table
+source <- c("Between Groups", "Within Groups", "Total")
+df <- c(dfb, dfw,dft)
+ss <- c(ssb, ssw, sst)
+ms <- c(msb, msw,NA)  
+f.statistic <- c(f_stat, NA, NA)
+p.value <- c(p_val,NA,NA)
+
+# combine the columns to make a table called "anova"
+anova <- bind_cols("Source"=source,"df"=df,"Sum of squares"=ss,
+            "Mean square"=ms,"F-statistic"=f.statistic,"p-value"=p.value)
+
+# print the table 
+kable(anova) 
+```
+
+##  Question 3: Ex. #5.23
+
