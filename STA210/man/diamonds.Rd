@@ -6,6 +6,7 @@ Price and Characteristics of Round Cut Diamonds
 }
 \description{
 This data set contains the price and other characteristics of about 54,000 diamonds.
+}
 \usage{data("diamonds")}
 \format{
   A data frame with 53940 observations and 10 variables:
@@ -24,6 +25,6 @@ This data set contains the price and other characteristics of about 54,000 diamo
 }
 
 \source{
-Data originally in the diamonds data set in the ggplot2 package.
+H. Wickham. ggplot2: elegant graphics for data analysis. Springer New York, 2009.
 }
 \keyword{sta210}
