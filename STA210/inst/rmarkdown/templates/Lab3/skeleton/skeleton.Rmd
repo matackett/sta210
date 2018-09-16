@@ -18,6 +18,7 @@ knitr::opts_chunk$set(message=FALSE)
 library("dplyr")
 library("ggplot2")
 library("broom")
+library("STA210")
 ```
 
 ### Question 1 
