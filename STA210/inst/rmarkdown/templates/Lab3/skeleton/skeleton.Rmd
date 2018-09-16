@@ -1,0 +1,132 @@
+---
+title: "STA 210: Lab 3"
+author: "Name"
+date: "Date"
+output: pdf_document
+fontsize: 12pt
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(message=FALSE)
+```
+
+```{r,include=FALSE,message=FALSE}
+# loads the libraries necessary for this lab.
+# include=FALSE executes the code but does not print the code or resulting output.
+# message=FALSE suppreses any message output
+library("dplyr")
+library("ggplot2")
+library("broom")
+```
+
+### Question 1 
+```{r}
+
+```
+
+## Question 2
+
+### a
+
+
+### b
+```{r}
+
+```
+
+## Question 3
+
+```{r}
+
+```
+
+## Question 4
+
+
+### a
+
+```{r}
+
+```
+
+### b
+
+
+## Question 5
+```{r}
+
+```
+
+### a
+
+
+### b
+
+
+### c
+
+
+
+## Question 6
+
+```{r}
+glance(model1)
+```
+
+
+## Question 7
+
+### a
+```{r}
+
+```
+
+### b
+```{r}
+
+```
+
+### c
+
+
+## Question 8
+
+### a
+```{r}
+
+```
+
+
+### b
+```{r}
+
+```
+ 
+ 
+### c
+```{r}
+
+```
+
+### d
+```{r}
+
+```
+
+
+### e
+
+
+## Question 9 
+
+```{r}
+newcarat <- 0.75
+newdata=data.frame(carat=newcarat,carat2=newcarat^2)
+#Note: the variable name(s) in the data frame must match the variable name(s) in the model exactly
+```
+
+
+```{r}
+predict.lm(model2,newdata)
+```
