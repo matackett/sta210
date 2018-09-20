@@ -1,0 +1,48 @@
+---
+title: "STA 210: HW 3"
+author: "Your Name"
+date: "Date"
+output: pdf_document
+fontsize: 12pt
+---
+
+```{r setup, message=F,include=F}
+knitr::opts_chunk$set(echo = TRUE)
+options(knitr.kable.NA = '')
+```
+
+```{r libraries,message=F,include=F}
+library("tibble")
+library("dplyr")
+library("ggplot2")
+library("broom")
+library("knitr")
+library("Sleuth3") #data sets from the book 
+```
+
+
+## Question 1: Ex. 7.24
+```{r}
+#use ex0724 data set
+```
+
+## Question 2: Ex. 7.27
+```{r}
+#use ex0727 data set
+```
+
+## Question 3: Ex. 7.28
+```{r}
+#use ex0728 data set
+```
+
+## Question 4: Ex. 8.25
+```{r}
+#use ex0825 data set
+```
+
+
+```{r}
+# Create a new data set with the Palm Beach observation removed 
+# for the regression analysis
+```
