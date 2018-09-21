@@ -22,9 +22,24 @@ library("Sleuth3") #data sets from the book
 
 
 ## Question 1: Ex. 7.24
+
+### a
 ```{r}
 #use ex0724 data set
 ```
+
+### b
+
+
+### c
+
+
+### d
+
+
+### e
+
+
 
 ## Question 2: Ex. 7.27
 ```{r}
