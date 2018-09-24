@@ -1,0 +1,109 @@
+---
+title: "STA 210: Lab 4"
+author: "Your Name"
+date: "Date"
+output: pdf_document
+fontsize: 12pt
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(message=FALSE)
+knitr::opts_chunk$set(warning=FALSE)
+```
+
+```{r,include=FALSE}
+# loads the libraries necessary for this lab.
+# include=FALSE executes the code but does not print the code or resulting output.
+# message=FALSE suppreses any message output
+library("dplyr")
+library("ggplot2")
+library("broom")
+library("knitr")
+library('STA210')
+```
+
+\vspace{20pt}
+\textbf{Part I}
+
+
+## Question 1
+
+
+```{r}
+
+```
+
+## Question 2
+
+```{r}
+
+```
+
+
+## Question 3
+```{r}
+
+```
+
+## Question 4
+```{r}
+
+```
+
+
+
+## Question 5
+```{r}
+
+```
+
+
+
+## Question 6
+
+```{r}
+
+```
+
+
+\vspace{20pt}
+\textbf{Part II}
+
+
+## Question 7
+
+<!-- Fill in response. -->
+
+## Question 8 
+
+```{r}
+
+```
+
+## Question 9
+
+### a
+```{r}
+
+```
+
+### b
+```{r}
+
+```
+
+### c
+
+<!-- Fill in response. -->
+
+## Question 10
+
+### a
+```{r}
+
+```
+
+
+### b
+<!-- Fill in response. -->
