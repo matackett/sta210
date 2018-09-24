@@ -1,7 +1,7 @@
 \name{textmessages}
 \alias{textmessages}
 \docType{data}
-\title{sd
+\title{
 Daily CapitalBike Share Rentals (2011-2012)
 }
 \description{
