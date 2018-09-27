@@ -1,0 +1,64 @@
+---
+title: "STA 210: HW 4"
+author: "Your Name"
+date: "Date"
+output: pdf_document
+fontsize: 12pt
+---
+
+```{r setup, message=F,include=F}
+knitr::opts_chunk$set(echo = TRUE)
+options(knitr.kable.NA = '')
+```
+
+```{r libraries,message=F,include=F}
+library("tibble")
+library("dplyr")
+library("ggplot2")
+library("broom")
+library("knitr")
+library("Sleuth3") #data sets from the book 
+```
+
+
+## Question 1: Ex. 9.12 
+```{r}
+#use case0902 data set
+```
+
+### a
+
+### b
+
+### c
+
+## Question 2: Ex 9.14
+```{r}
+#use ex0914 data set
+```
+
+## a
+
+## b
+
+## c
+
+## d
+
+## Question 3: Ex. 9.20
+```{r}
+#use ex0920 data set
+```
+
+## Question 4: Ex. 9.21
+```{r}
+#use ex0921 data set
+```
+
+## Question 4: Ex. 10.9
+
+## a
+
+## b
+
+## c
