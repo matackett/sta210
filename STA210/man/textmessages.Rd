@@ -1,22 +1,22 @@
 \name{textmessages}
 \alias{textmessages}
 \docType{data}
-\title{
-Daily CapitalBike Share Rentals (2011-2012)
+\title{ 
+Effect of Text Messaging on Grammar Scores
 }
 \description{
-This data contains daily information about the rentals in the Capital Bikeshare in 2011 and 2012.
-}
+This data contain the scores of 50 students on a grammar test before and after a six-month experiment. Data can be used to examine the relationship between frequent text messaging and grammar skills (as determined by a a score on a gramma test).}
 \usage{data("textmessages")}
 \format{
-  A data frame with 731 observations and 16 variables. Please see @source<https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset> for the full data dictionary.
+  A data frame with 50 observations and 3 variables.
+  \describe{
+    \item{\code{Group}}{Text Messagers: allowed to freely text message. \cr  Control: Text messaging limited during experiment}
+    \item{\code{Baseline}}{Score on grammar test before start of experiment}
+    \item{\code{Six_months}}{Score on grammar test at the end of the six-month experiment}
+  }
 }
 
 \source{
-Data obtained from the UCI Machine Learning Repository @source<https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset>
-Original Source: @source<http://capitalbikeshare.com/system-data>
-Weather Information: @source<http://www.freemeteo.com>
-Holiday Schedule: @source<http://dchr.dc.gov/page/holiday-schedule>
-Paper Citation: Fanaee-T, Hadi, and Gama, Joao, 'Event labeling combining ensemble detectors and background knowledge', Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg
-}
+@source Data obtained from the Discovering Statistics Using R \url{https://studysites.sagepub.com/dsur/study/articles.htm}
 \keyword{sta210}
+
