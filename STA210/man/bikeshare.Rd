@@ -5,7 +5,7 @@
 Daily Capital Bikeshare Rentals (2011-2012)
 }
 \description{
-This data contains daily information about the rentals in the Capital Bikeshare in 2011 and 2012.
+This data contains daily information about the rentals in the Capital Bikeshare in 2011 and 2012.}
 \usage{data("bikeshare")}
 \format{
   A data frame with 731 observations and 16 variables.

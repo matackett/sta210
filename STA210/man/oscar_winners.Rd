@@ -5,7 +5,7 @@
 Best Actor and Best Actress Winners: 1929 - 2018
 }
 \description{
-All of the winners for the Best Actor and Best Actress categories at the Academy Awards, 1929 - 2018. The award year corresponds to the year of the awards ceremony.
+All of the winners for the Best Actor and Best Actress categories at the Academy Awards, 1929 - 2018. The award year corresponds to the year of the awards ceremony.}
 \usage{data("oscar_winners")}
 \format{
   A data frame with 180 observations on the following 5 variables.

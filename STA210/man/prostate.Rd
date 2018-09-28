@@ -4,8 +4,7 @@
 \title{ 
 Detecting Prostate Cancer in 67 Men
 }
-\description{
-Identifying risk factors of prostate cancer.
+\description{Identifying risk factors of prostate cancer.}
 \usage{data("prostate")}
 \format{
   A data frame with 67 observations and 3 variables.
