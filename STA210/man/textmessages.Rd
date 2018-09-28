@@ -18,5 +18,5 @@
 #'
 #'\source{
 #'@source Data obtained from the Discovering Statistics Using R \url{https://studysites.sagepub.com/dsur/study/articles.htm}
-#'\keyword{sta210}
+
 
