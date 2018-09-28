@@ -1,22 +1,24 @@
 \name{prostate}
 \alias{prostate}
 \docType{data}
-\title{
-Daily CapitalBike Share Rentals (2011-2012)
+\title{ 
+Detecting Prostate Cancer in 67 Men
 }
 \description{
-This data contains daily information about the rentals in the Capital Bikeshare in 2011 and 2012.
-}
+Identifying risk factors of prostate cancer.
 \usage{data("prostate")}
 \format{
-  A data frame with 731 observations and 16 variables. Please see @source<https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset> for the full data dictionary.
+  A data frame with 67 observations and 3 variables.
+  \describe{
+    \item{\code{age}}{Age in years}
+    \item{\code{cavol}}{Cancer volume - percentage of prostate taken up by the tumor.}
+    \item{\code{psa}}{Prostate specific antigen - an antigenic enzyme released by the prostate and found in abnormally high concentrations in the blood of men with prostate cancer. Measured in nanograms per milliliter (ng/mL) of blood.}
 }
 
 \source{
-Data obtained from the UCI Machine Learning Repository @source<https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset>
-Original Source: @source<http://capitalbikeshare.com/system-data>
-Weather Information: @source<http://www.freemeteo.com>
-Holiday Schedule: @source<http://dchr.dc.gov/page/holiday-schedule>
-Paper Citation: Fanaee-T, Hadi, and Gama, Joao, 'Event labeling combining ensemble detectors and background knowledge', Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg
+@source Data obtained from the "Elements of Statistical Learning" data sets webpage \url{https://web.stanford.edu/~hastie/ElemStatLearn/data.html} \cr
+Stamey, T., Kabalin, J., McNeal, J., Johnstone, I., Freiha, F., Redwine, E. and Yang, N. (1989). Prostate specific antigen in the diagnosis and treatment of adenocarcinoma of the prostate II radical prostatectomy treated patients, Journal of Urology 16: 1076–1083.
 }
 \keyword{sta210}
+
+
