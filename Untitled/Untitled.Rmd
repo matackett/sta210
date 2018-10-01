@@ -22,6 +22,11 @@ library("broom")
 library("knitr")
 library("readr")
 ```
+## Question 2
+
+### a
+
+<!-- Fill in the remaining question parts using the format above. -->
 ## Question 0
 
 ## Question 1
@@ -34,7 +39,7 @@ library("readr")
 ## Question 2
 
 ### a
-
+=
 <!-- Fill in the remaining question parts using the format above. -->
 
 ## Question 3
