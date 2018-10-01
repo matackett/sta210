@@ -1,0 +1,61 @@
+---
+title: "STA 210: Lab 5"
+author: "Your Name"
+date: "Date"
+output: pdf_document
+fontsize: 12pt
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(message=FALSE)
+knitr::opts_chunk$set(warning=FALSE)
+```
+
+```{r,include=FALSE}
+library("dplyr")
+library("ggplot2")
+library("broom")
+library("knitr")
+library("readr")
+```
+
+## Question 0
+
+## Question 1
+
+### a
+
+### b
+
+
+## Question 2
+
+### a
+
+<!-- Fill in the remaining parts of the question using the ### format. -->
+## Question 3
+
+### a
+
+
+<!-- Fill in the remaining parts of the question using the ### format. -->
+## Question 4
+
+### a
+
+<!-- Fill in the remaining parts of the question using the ### format. -->
+
+
+## Question 5
+
+### a
+
+<!-- Fill in the remaining parts of the question using the ### format. -->
+
+
+## Question 6
+
+
+
+
