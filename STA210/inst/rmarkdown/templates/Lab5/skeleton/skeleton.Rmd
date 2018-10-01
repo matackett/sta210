@@ -13,6 +13,12 @@ knitr::opts_chunk$set(warning=FALSE)
 ```
 
 ```{r,include=FALSE}
+<<<<<<< HEAD
+=======
+# loads the libraries necessary for this lab.
+# include=FALSE executes the code but does not print the code or resulting output.
+# message=FALSE suppreses any message output
+>>>>>>> staging
 library("dplyr")
 library("ggplot2")
 library("broom")
@@ -20,7 +26,10 @@ library("knitr")
 library("readr")
 ```
 
+<<<<<<< HEAD
 ## Question 0
+=======
+>>>>>>> staging
 
 ## Question 1
 
@@ -33,24 +42,39 @@ library("readr")
 
 ### a
 
+<<<<<<< HEAD
 <!-- Fill in the remaining parts of the question using the ### format. -->
+=======
+<!-- Fill in the remaining question parts using the format above. -->
+
+>>>>>>> staging
 ## Question 3
 
 ### a
 
+<<<<<<< HEAD
 
 <!-- Fill in the remaining parts of the question using the ### format. -->
+=======
+<!-- Fill in the remaining question parts using the format above. -->
+
+>>>>>>> staging
 ## Question 4
 
 ### a
 
+<<<<<<< HEAD
 <!-- Fill in the remaining parts of the question using the ### format. -->
 
+=======
+<!-- Fill in the remaining question parts using the format above. -->
+>>>>>>> staging
 
 ## Question 5
 
 ### a
 
+<<<<<<< HEAD
 <!-- Fill in the remaining parts of the question using the ### format. -->
 
 
@@ -59,3 +83,9 @@ library("readr")
 
 
 
+=======
+<!-- Fill in the remaining question parts using the format above. -->
+
+## Question 6
+
+>>>>>>> staging
