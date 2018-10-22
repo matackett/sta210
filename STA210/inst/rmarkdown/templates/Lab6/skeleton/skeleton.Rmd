@@ -1,0 +1,54 @@
+---
+title: "STA 210: Lab 6"
+author: "Your Name"
+date: "Date"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(message=FALSE)
+knitr::opts_chunk$set(warning=FALSE)
+```
+
+```{r,include=FALSE}
+# loads the libraries necessary for this lab.
+# include=FALSE executes the code but does not print the code or resulting output.
+# message=FALSE suppreses any message output
+library("dplyr")
+library("ggplot2")
+library("broom")
+library("knitr")
+library("readr")
+```
+
+# Part I: R Markdown
+
+# Question 1
+
+# Question 2
+
+<!-- You will update the YAML header for Question 2. -->
+
+
+# Question 3
+
+## a
+
+
+## b
+
+
+# Question 4
+
+
+
+# Part II: Reporting Statistical Results
+
+<!-- Use headers to label each section of your analysis. The sections included are  -->
+
+<!-- + Exploratory Data Analysis -->
+<!-- + Regression Model  -->
+<!-- + Assumptions  -->
+<!-- + Additional Work (optional) -->
+
