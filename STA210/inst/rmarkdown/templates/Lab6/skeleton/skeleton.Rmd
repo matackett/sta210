@@ -59,10 +59,10 @@ gapminder2011 <- gapminder %>% filter(year==2011)
 ```
 
 ```{r,echo=F}
-# remove countries with missing gdp
+# remove countries with missing data
 # create variable with log-transformed gdp
 # echo=F: R code will not display in the html document
-gapminder2011 <- gapminder2011 %>% filter(!is.na(gdp)) %>% 
+gapminder2011 <- gapminder2011 %>% filter(!is.na(gdp), !is.na(infant_mortality)) %>% 
   mutate(log_gdp = log(gdp)) 
 ```
 
