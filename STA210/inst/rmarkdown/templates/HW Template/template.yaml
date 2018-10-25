@@ -1,0 +1,4 @@
+name: STA 210 HW Template
+description: >
+   This template is a general template for STA 210 homework assignments. It is intended to be used for later homeowrks after students have gained more experience with R Markdown syntax. 
+create_dir: FALSE
