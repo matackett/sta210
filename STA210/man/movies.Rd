@@ -6,14 +6,14 @@
 \title{IMDB Movie Data: 1986 - 2016}
 \format{A data frame with 6820 observations and 15 variables
   \describe{
-   \item{budget}{Total budget (in US dollars). Budget recorded as 0 if information is missing from IMDB.com}
+   \item{budget}{Total budget (in US dollars). Budget recorded as 0 if information is missing from IMDb.com}
    \item{company}{Production company}
    \item{country}{Country of origin}
    \item{director}{Movie director}
-   \item{genre}{Main genre of movie}
-   \item{gross}{Total US Gross (in US dollars)}
+   \item{genre}{Primary genre classification}
+   \item{gross}{Total US gross revenue (in US dollars)}
    \item{name}{Movie title}
-   \item{rating}{Movie rating (G, PG, PG-13, R, etc.)}
+   \item{rating}{Motion Picture Association of American (MPAA) rating (G, PG, PG-13, R, etc.)}
    \item{released}{Original release date (YYYY-MM-DD)}
    \item{runtime}{Duration of movie (in minutes)}
    \item{score}{IMDb user rating}
