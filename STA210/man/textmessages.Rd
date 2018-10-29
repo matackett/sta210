@@ -20,3 +20,4 @@ textmessages
 This data contain the scores of 50 students on a grammar test before and after a six -month experiment. Data can be used to examine the relationship between frequent text messaging and grammar skills (as determined by a a score on a gramma test).
 }
 \keyword{datasets}
+
