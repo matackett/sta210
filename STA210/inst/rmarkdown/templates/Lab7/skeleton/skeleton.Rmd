@@ -1,0 +1,116 @@
+---
+title: "STA 210: Lab 7"
+author: "Your Name"
+date: "Date"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(message=FALSE)
+knitr::opts_chunk$set(warning=FALSE)
+```
+
+```{r,include=FALSE}
+library("readr")
+library("dplyr")
+library("ggplot2")
+library("broom")
+library("knitr")
+library("olsrr")
+#Include any additional libraries you need
+```
+
+# Part I: Data Preparation
+
+# Question 1
+
+
+
+# Question 2
+
+## a
+
+
+## b
+
+
+## c
+
+
+## d
+
+
+# Question 3
+
+## a
+
+
+## b
+
+
+# Question 4
+
+## a
+
+
+## b
+
+
+## c
+
+
+
+
+# Part II: Regression
+
+# Question 5
+
+## a
+
+
+## b
+
+
+# Question 6
+
+## a
+
+
+## b
+
+
+## c
+
+
+## d
+
+
+
+# Question 7
+
+
+
+# Part III: Prediction
+
+# Question 8
+
+## a
+
+
+## b
+
+
+
+# Question 9
+
+## a
+
+
+## b
+
+
+
+# Question 10
+
+
