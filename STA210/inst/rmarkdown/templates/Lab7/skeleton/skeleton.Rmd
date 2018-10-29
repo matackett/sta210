@@ -25,6 +25,10 @@ library("olsrr")
 
 # Question 1
 
+## a
+
+
+## b
 
 
 # Question 2
@@ -58,6 +62,12 @@ library("olsrr")
 
 
 ## c
+
+
+## d
+
+
+## e
 
 
 
@@ -112,5 +122,15 @@ library("olsrr")
 
 
 # Question 10
+
+## a
+
+
+## b
+
+
+
+# Question 11
+
 
 
