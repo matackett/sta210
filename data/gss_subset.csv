@@ -6,17 +6,17 @@ Too Little,72,Male,66.099998,Pacific,Liberal
 Too Little,26,Female,78.5,Pacific,Liberal
 About Right,31,Male,53.400002,Middle Atlantic,Slightly Conservative
 Too Little,54,Female,59,Pacific,Moderate
-Too Little,41,Male,61.900002,Pacific,Extrmly Conservative
+Too Little,41,Male,61.900002,Pacific,Extremely Conservative
 About Right,68,Female,73.199997,E. Sou. Central,Moderate
 Too Little,39,Male,63.5,New England,Conservative
 Too Little,78,Female,29.299999,South Atlantic,Liberal
 About Right,34,Male,35.400002,Pacific,Slightly Liberal
-Too Little,47,Male,37.299999,South Atlantic,Extrmly Conservative
+Too Little,47,Male,37.299999,South Atlantic,Extremely Conservative
 Too Much,37,Male,48.799999,New England,Moderate
 About Right,83,Female,32.400002,W. Sou. Central,Conservative
 About Right,39,Male,61.900002,E. Sou. Central,Conservative
 About Right,24,Male,40,South Atlantic,Moderate
-Too Little,24,Female,36.700001,Pacific,Extrmly Conservative
+Too Little,24,Female,36.700001,Pacific,Extremely Conservative
 About Right,82,Female,63.5,South Atlantic,Moderate
 About Right,81,Female,38.900002,E. Sou. Central,Moderate
 Too Little,56,Female,36.5,Middle Atlantic,Moderate
@@ -44,7 +44,7 @@ About Right,38,Female,32.400002,Pacific,Moderate
 Too Little,53,Male,32.299999,E. Nor. Central,Conservative
 About Right,30,Male,63.200001,South Atlantic,Slightly Liberal
 Too Much,78,Male,28.4,Middle Atlantic,Slightly Liberal
-About Right,62,Female,38.400002,Middle Atlantic,Extrmly Conservative
+About Right,62,Female,38.400002,Middle Atlantic,Extremely Conservative
 Too Little,41,Male,56.5,E. Nor. Central,Moderate
 Too Little,86,Female,73.199997,E. Nor. Central,Liberal
 Too Little,49,Male,63.200001,South Atlantic,Conservative
@@ -118,14 +118,14 @@ About Right,39,Female,78.5,South Atlantic,Moderate
 About Right,38,Female,73.199997,Middle Atlantic,Moderate
 About Right,39,Male,31.4,E. Nor. Central,Conservative
 About Right,80,Female,36.5,W. Sou. Central,Slightly Conservative
-Too Much,76,Female,34.599998,Mountain,Extrmly Conservative
+Too Much,76,Female,34.599998,Mountain,Extremely Conservative
 About Right,31,Female,68.099998,E. Sou. Central,Moderate
 About Right,47,Male,63.5,W. Nor. Central,Slightly Conservative
 Too Little,30,Female,85.099998,Pacific,Moderate
 Too Little,40,Male,34.200001,W. Nor. Central,Moderate
 About Right,33,Female,63.5,New England,Slightly Conservative
 About Right,55,Female,37.299999,Pacific,Moderate
-Too Little,45,Male,28.4,E. Nor. Central,Extrmly Conservative
+Too Little,45,Male,28.4,E. Nor. Central,Extremely Conservative
 Too Much,32,Female,73.199997,E. Nor. Central,Slightly Conservative
 Too Little,38,Male,44.700001,Middle Atlantic,Moderate
 Too Little,39,Female,76.400002,E. Nor. Central,Slightly Conservative
@@ -161,7 +161,7 @@ Too Little,24,Male,44.700001,Pacific,Slightly Liberal
 About Right,75,Female,31.4,E. Nor. Central,Moderate
 Too Little,36,Female,73.199997,Mountain,Slightly Conservative
 About Right,46,Male,34.200001,W. Sou. Central,Conservative
-Too Little,61,Female,76.400002,E. Sou. Central,Extrmly Conservative
+Too Little,61,Female,76.400002,E. Sou. Central,Extremely Conservative
 About Right,83,Male,63.5,South Atlantic,Moderate
 Too Little,24,Male,34.200001,E. Nor. Central,Slightly Liberal
 Too Little,35,Female,87,New England,Liberal
@@ -237,12 +237,12 @@ About Right,54,Male,70.5,South Atlantic,Moderate
 About Right,37,Female,73.199997,E. Nor. Central,Conservative
 Too Little,60,Female,82.699997,New England,Slightly Liberal
 About Right,52,Female,38.400002,Pacific,Slightly Conservative
-About Right,74,Male,49.900002,South Atlantic,Extrmly Conservative
+About Right,74,Male,49.900002,South Atlantic,Extremely Conservative
 About Right,21,Male,32.299999,E. Nor. Central,Moderate
 Too Much,58,Female,22.5,E. Sou. Central,Moderate
 About Right,23,Male,37.599998,W. Sou. Central,Conservative
 About Right,39,Female,38.400002,South Atlantic,Moderate
-Too Little,66,Male,56.5,South Atlantic,Extrmly Conservative
+Too Little,66,Male,56.5,South Atlantic,Extremely Conservative
 Too Little,40,Male,31.5,E. Nor. Central,Slightly Liberal
 About Right,75,Female,50.700001,E. Nor. Central,Moderate
 Too Little,53,Male,78.5,W. Sou. Central,Conservative
@@ -280,7 +280,7 @@ Too Much,77,Male,50.200001,Middle Atlantic,Conservative
 Too Little,44,Female,85.099998,W. Sou. Central,Moderate
 Too Little,70,Female,37.700001,South Atlantic,Slightly Conservative
 Too Little,67,Male,78.5,Middle Atlantic,Slightly Conservative
-Too Much,39,Male,70.5,Mountain,Extrmly Conservative
+Too Much,39,Male,70.5,Mountain,Extremely Conservative
 About Right,31,Female,73.199997,Middle Atlantic,Slightly Conservative
 About Right,35,Male,39.400002,South Atlantic,Extremely Liberal
 Too Little,38,Male,28.4,E. Sou. Central,Moderate
@@ -294,7 +294,7 @@ Too Much,73,Male,39.400002,W. Sou. Central,Conservative
 About Right,34,Male,31.4,South Atlantic,Conservative
 Too Little,18,Female,29,Middle Atlantic,Moderate
 Too Little,42,Female,38.900002,E. Nor. Central,Moderate
-Too Little,42,Male,43.200001,Mountain,Extrmly Conservative
+Too Little,42,Male,43.200001,Mountain,Extremely Conservative
 Too Little,53,Female,38.5,New England,Moderate
 Too Little,71,Female,80.300003,Middle Atlantic,Moderate
 About Right,23,Female,38.400002,E. Nor. Central,Slightly Liberal
@@ -311,7 +311,7 @@ Too Little,36,Male,29.200001,E. Nor. Central,Moderate
 About Right,35,Female,33.099998,W. Sou. Central,Moderate
 About Right,82,Male,28,W. Sou. Central,Slightly Liberal
 Too Little,31,Female,64.800003,South Atlantic,Liberal
-Too Little,43,Male,38.799999,W. Nor. Central,Extrmly Conservative
+Too Little,43,Male,38.799999,W. Nor. Central,Extremely Conservative
 Too Much,48,Female,63.5,Mountain,Conservative
 About Right,38,Male,29.200001,Pacific,Moderate
 Too Little,53,Male,29.799999,New England,Moderate
@@ -333,7 +333,7 @@ About Right,63,Male,29.799999,South Atlantic,Moderate
 Too Much,34,Male,62.5,E. Nor. Central,Moderate
 About Right,26,Male,44.700001,South Atlantic,Moderate
 About Right,57,Female,63.5,South Atlantic,Conservative
-About Right,54,Female,37.299999,E. Nor. Central,Extrmly Conservative
+About Right,54,Female,37.299999,E. Nor. Central,Extremely Conservative
 About Right,34,Male,38.5,Middle Atlantic,Slightly Liberal
 Too Much,36,Female,63.5,W. Sou. Central,Conservative
 About Right,46,Male,73.199997,E. Nor. Central,Moderate
@@ -342,8 +342,8 @@ Too Much,60,Female,50.700001,Middle Atlantic,Moderate
 Too Much,75,Male,49.599998,W. Sou. Central,Slightly Conservative
 About Right,56,Female,73.199997,South Atlantic,Moderate
 Too Little,69,Female,80.300003,South Atlantic,Moderate
-About Right,47,Female,78.5,W. Sou. Central,Extrmly Conservative
-About Right,67,Female,38,E. Nor. Central,Extrmly Conservative
+About Right,47,Female,78.5,W. Sou. Central,Extremely Conservative
+About Right,67,Female,38,E. Nor. Central,Extremely Conservative
 About Right,44,Female,50.700001,E. Nor. Central,Slightly Conservative
 About Right,30,Female,33.099998,W. Sou. Central,Moderate
 Too Little,21,Female,30.799999,Pacific,Conservative
@@ -472,7 +472,7 @@ Too Little,28,Male,38.200001,E. Nor. Central,Slightly Conservative
 Too Little,76,Female,62.099998,Mountain,Moderate
 Too Little,23,Male,67,South Atlantic,Slightly Liberal
 Too Little,60,Male,31.4,Mountain,Moderate
-About Right,61,Male,45.799999,E. Nor. Central,Extrmly Conservative
+About Right,61,Male,45.799999,E. Nor. Central,Extremely Conservative
 About Right,60,Female,55.099998,South Atlantic,Moderate
 Too Little,56,Female,81.900002,New England,Liberal
 Too Much,46,Female,57.099998,Pacific,Liberal
@@ -494,14 +494,14 @@ Too Little,49,Female,21.200001,W. Sou. Central,Slightly Conservative
 About Right,22,Female,36.5,W. Sou. Central,Moderate
 Too Little,62,Male,32.299999,South Atlantic,Liberal
 About Right,35,Male,29.200001,E. Nor. Central,Slightly Conservative
-Too Much,79,Male,71.599998,New England,Extrmly Conservative
+Too Much,79,Male,71.599998,New England,Extremely Conservative
 About Right,60,Female,50.700001,E. Nor. Central,Liberal
 Too Much,24,Female,63.200001,W. Nor. Central,Moderate
 Too Little,65,Female,36.5,E. Nor. Central,Conservative
 About Right,42,Female,38,Mountain,Moderate
 About Right,31,Female,38,Middle Atlantic,Moderate
 Too Little,31,Male,29,W. Nor. Central,Conservative
-Too Much,39,Female,29.799999,South Atlantic,Extrmly Conservative
+Too Much,39,Female,29.799999,South Atlantic,Extremely Conservative
 About Right,20,Male,21.200001,Pacific,Moderate
 About Right,42,Male,44.700001,South Atlantic,Conservative
 About Right,23,Female,30.799999,Pacific,Moderate
@@ -618,7 +618,7 @@ Too Little,41,Female,38,Middle Atlantic,Liberal
 About Right,32,Male,62,E. Nor. Central,Slightly Conservative
 Too Little,68,Male,29.799999,Mountain,Moderate
 About Right,19,Female,33.099998,New England,Moderate
-Too Little,41,Male,52.400002,E. Nor. Central,Extrmly Conservative
+Too Little,41,Male,52.400002,E. Nor. Central,Extremely Conservative
 Too Little,67,Male,93.300003,W. Nor. Central,Slightly Conservative
 Too Little,56,Female,76.400002,Pacific,Slightly Conservative
 Too Little,39,Male,34.200001,Pacific,Moderate
@@ -635,7 +635,7 @@ Too Much,76,Male,65.800003,New England,Conservative
 About Right,28,Male,32.299999,W. Sou. Central,Conservative
 About Right,63,Female,33.099998,South Atlantic,Slightly Conservative
 Too Little,54,Female,66.099998,W. Nor. Central,Slightly Conservative
-Too Little,33,Male,49.599998,Pacific,Extrmly Conservative
+Too Little,33,Male,49.599998,Pacific,Extremely Conservative
 Too Little,41,Female,38.400002,Pacific,Liberal
 About Right,31,Female,29.299999,Middle Atlantic,Moderate
 Too Little,25,Female,32.299999,E. Nor. Central,Slightly Conservative
@@ -695,14 +695,14 @@ Too Little,46,Female,26.4,Pacific,Moderate
 About Right,28,Female,38.900002,Mountain,Conservative
 About Right,45,Male,35.099998,South Atlantic,Moderate
 About Right,41,Female,39.400002,Pacific,Slightly Conservative
-About Right,30,Male,28.4,W. Sou. Central,Extrmly Conservative
+About Right,30,Male,28.4,W. Sou. Central,Extremely Conservative
 About Right,84,Female,42.400002,E. Sou. Central,Liberal
 Too Much,67,Male,56.5,Middle Atlantic,Extremely Liberal
 Too Little,70,Male,68.800003,Pacific,Slightly Conservative
 About Right,28,Female,36.5,Middle Atlantic,Moderate
 About Right,45,Male,63.5,E. Nor. Central,Liberal
 Too Little,32,Female,80.300003,Pacific,Liberal
-Too Much,83,Female,64.199997,South Atlantic,Extrmly Conservative
+Too Much,83,Female,64.199997,South Atlantic,Extremely Conservative
 Too Much,38,Male,35.400002,Pacific,Slightly Conservative
 About Right,37,Female,50.700001,New England,Liberal
 About Right,46,Female,30.799999,E. Nor. Central,Slightly Liberal
@@ -779,7 +779,7 @@ Too Little,38,Male,90.099998,W. Sou. Central,Moderate
 About Right,24,Female,36.5,W. Sou. Central,Slightly Conservative
 Too Little,58,Female,29.799999,E. Nor. Central,Slightly Conservative
 Too Little,35,Male,81,Middle Atlantic,Slightly Liberal
-Too Little,35,Male,45.400002,E. Sou. Central,Extrmly Conservative
+Too Little,35,Male,45.400002,E. Sou. Central,Extremely Conservative
 About Right,48,Female,38.400002,E. Nor. Central,Moderate
 Too Little,46,Male,28.6,South Atlantic,Extremely Liberal
 Too Little,49,Female,63.5,Middle Atlantic,Conservative
@@ -796,7 +796,7 @@ Too Little,36,Male,44.700001,W. Sou. Central,Moderate
 Too Little,39,Male,49.599998,Pacific,Slightly Liberal
 About Right,36,Female,29.4,E. Sou. Central,Conservative
 Too Much,60,Male,53.700001,Pacific,Slightly Conservative
-About Right,43,Female,37.700001,Pacific,Extrmly Conservative
+About Right,43,Female,37.700001,Pacific,Extremely Conservative
 About Right,29,Female,32.400002,Middle Atlantic,Slightly Conservative
 Too Little,75,Female,33.900002,W. Nor. Central,Moderate
 About Right,56,Female,36.900002,South Atlantic,Liberal
@@ -820,7 +820,7 @@ About Right,20,Female,38.900002,E. Nor. Central,Moderate
 About Right,69,Female,30.5,Middle Atlantic,Moderate
 About Right,50,Female,33.099998,Pacific,Conservative
 About Right,61,Male,73.199997,Pacific,Liberal
-About Right,55,Male,26.5,W. Sou. Central,Extrmly Conservative
+About Right,55,Male,26.5,W. Sou. Central,Extremely Conservative
 About Right,55,Male,28.4,W. Nor. Central,Moderate
 Too Much,60,Female,38.400002,W. Sou. Central,Moderate
 About Right,62,Male,32.299999,E. Sou. Central,Slightly Conservative
@@ -833,10 +833,10 @@ Too Little,44,Male,34.200001,New England,Conservative
 About Right,26,Male,83.699997,W. Nor. Central,Slightly Conservative
 Too Much,38,Male,51,W. Nor. Central,Slightly Conservative
 About Right,56,Male,63.5,E. Nor. Central,Conservative
-Too Little,28,Male,37.599998,South Atlantic,Extrmly Conservative
+Too Little,28,Male,37.599998,South Atlantic,Extremely Conservative
 About Right,38,Male,86.599998,Mountain,Conservative
 About Right,50,Male,31.5,South Atlantic,Conservative
-About Right,62,Female,37.299999,E. Nor. Central,Extrmly Conservative
+About Right,62,Female,37.299999,E. Nor. Central,Extremely Conservative
 Too Much,88,Male,50.700001,Pacific,Conservative
 About Right,20,Male,35.099998,E. Nor. Central,Slightly Liberal
 About Right,66,Male,41.299999,W. Nor. Central,Slightly Conservative
@@ -874,7 +874,7 @@ Too Little,40,Female,22.5,E. Sou. Central,Slightly Conservative
 Too Little,54,Male,35.099998,E. Sou. Central,Slightly Conservative
 About Right,29,Female,25.299999,South Atlantic,Slightly Liberal
 About Right,44,Female,78.5,Pacific,Moderate
-Too Little,61,Female,26.700001,E. Nor. Central,Extrmly Conservative
+Too Little,61,Female,26.700001,E. Nor. Central,Extremely Conservative
 About Right,74,Female,43.700001,E. Nor. Central,Slightly Conservative
 About Right,41,Male,31.5,E. Nor. Central,Conservative
 About Right,59,Female,32.400002,South Atlantic,Moderate
@@ -890,12 +890,12 @@ About Right,23,Male,29.200001,E. Sou. Central,Slightly Conservative
 Too Little,22,Male,39.400002,South Atlantic,Conservative
 About Right,25,Female,63.5,Middle Atlantic,Slightly Conservative
 About Right,39,Male,43.200001,E. Nor. Central,Slightly Conservative
-About Right,34,Female,32,E. Nor. Central,Extrmly Conservative
+About Right,34,Female,32,E. Nor. Central,Extremely Conservative
 Too Much,32,Female,41.599998,E. Nor. Central,Conservative
 About Right,64,Female,78.5,Middle Atlantic,Moderate
 About Right,36,Male,22.9,E. Nor. Central,Slightly Conservative
 Too Little,51,Male,53.700001,E. Nor. Central,Moderate
-Too Little,71,Female,22.9,Middle Atlantic,Extrmly Conservative
+Too Little,71,Female,22.9,Middle Atlantic,Extremely Conservative
 About Right,77,Female,73.199997,South Atlantic,Slightly Conservative
 Too Little,78,Female,29.299999,Pacific,Moderate
 Too Little,39,Female,65.800003,W. Nor. Central,Conservative
@@ -907,13 +907,13 @@ About Right,68,Male,53.900002,W. Nor. Central,Moderate
 Too Little,49,Female,30.799999,W. Sou. Central,Slightly Conservative
 Too Little,23,Male,40,Mountain,Slightly Liberal
 Too Much,41,Male,30,Pacific,Slightly Conservative
-Too Much,34,Male,32.299999,Pacific,Extrmly Conservative
+Too Much,34,Male,32.299999,Pacific,Extremely Conservative
 Too Little,58,Female,38.400002,Pacific,Liberal
 Too Little,38,Male,53.700001,Pacific,Liberal
 About Right,27,Male,28.4,Mountain,Liberal
 About Right,40,Female,50.700001,W. Nor. Central,Slightly Conservative
 Too Little,87,Female,22.700001,Mountain,Conservative
-About Right,49,Male,31.5,Mountain,Extrmly Conservative
+About Right,49,Male,31.5,Mountain,Extremely Conservative
 About Right,75,Female,53.700001,South Atlantic,Moderate
 About Right,45,Male,17.1,South Atlantic,Liberal
 About Right,35,Female,62.5,Mountain,Conservative
@@ -928,7 +928,7 @@ About Right,24,Female,53.700001,South Atlantic,Moderate
 Too Little,58,Female,32.400002,New England,Moderate
 About Right,34,Female,63.5,South Atlantic,Moderate
 About Right,35,Male,53.900002,Middle Atlantic,Moderate
-Too Much,41,Male,33.099998,E. Nor. Central,Extrmly Conservative
+Too Much,41,Male,33.099998,E. Nor. Central,Extremely Conservative
 About Right,50,Male,73.300003,South Atlantic,Slightly Conservative
 Too Little,31,Female,92.300003,Middle Atlantic,Slightly Conservative
 Too Little,31,Male,30.4,Pacific,Conservative
@@ -952,7 +952,7 @@ Too Little,46,Female,78.5,E. Nor. Central,Slightly Conservative
 Too Little,36,Male,86.599998,South Atlantic,Liberal
 Too Little,54,Male,76.400002,E. Nor. Central,Moderate
 Too Much,42,Female,32.400002,South Atlantic,Slightly Liberal
-Too Little,47,Male,46.799999,New England,Extrmly Conservative
+Too Little,47,Male,46.799999,New England,Extremely Conservative
 About Right,77,Female,38.400002,South Atlantic,Conservative
 About Right,40,Female,33.099998,Middle Atlantic,Conservative
 About Right,42,Female,80.300003,Mountain,Slightly Conservative
@@ -998,7 +998,7 @@ Too Little,54,Female,81,W. Sou. Central,Moderate
 Too Little,21,Male,26.5,E. Nor. Central,Moderate
 About Right,61,Female,34.599998,W. Sou. Central,Slightly Liberal
 About Right,76,Female,32.400002,South Atlantic,Conservative
-Too Little,20,Female,38.900002,South Atlantic,Extrmly Conservative
+Too Little,20,Female,38.900002,South Atlantic,Extremely Conservative
 Too Little,50,Female,63.200001,Pacific,Slightly Liberal
 Too Little,48,Female,65.800003,E. Nor. Central,Slightly Conservative
 About Right,26,Female,63.5,Middle Atlantic,Slightly Conservative
@@ -1037,11 +1037,11 @@ About Right,53,Female,39.599998,Pacific,Slightly Liberal
 Too Little,75,Female,73.199997,New England,Liberal
 About Right,40,Male,31.4,New England,Slightly Liberal
 About Right,72,Female,50.700001,Middle Atlantic,Liberal
-Too Little,71,Male,31.5,W. Nor. Central,Extrmly Conservative
+Too Little,71,Male,31.5,W. Nor. Central,Extremely Conservative
 About Right,53,Female,37.700001,South Atlantic,Liberal
 About Right,35,Female,31.200001,Middle Atlantic,Slightly Conservative
-About Right,27,Female,33.099998,Middle Atlantic,Extrmly Conservative
-Too Much,37,Male,38.099998,E. Sou. Central,Extrmly Conservative
+About Right,27,Female,33.099998,Middle Atlantic,Extremely Conservative
+Too Much,37,Male,38.099998,E. Sou. Central,Extremely Conservative
 Too Much,43,Female,63.5,South Atlantic,Slightly Conservative
 Too Little,81,Male,37.299999,New England,Moderate
 About Right,30,Female,43.700001,E. Nor. Central,Slightly Conservative
@@ -1071,7 +1071,7 @@ Too Little,49,Male,80.300003,Pacific,Extremely Liberal
 About Right,51,Female,32.400002,New England,Slightly Conservative
 About Right,28,Female,32.400002,E. Nor. Central,Conservative
 About Right,24,Female,36.5,W. Nor. Central,Liberal
-About Right,27,Male,29.200001,E. Sou. Central,Extrmly Conservative
+About Right,27,Male,29.200001,E. Sou. Central,Extremely Conservative
 Too Much,48,Female,38.900002,W. Sou. Central,Slightly Conservative
 Too Much,58,Male,28.4,E. Sou. Central,Moderate
 Too Little,26,Male,29.5,South Atlantic,Conservative
@@ -1090,12 +1090,12 @@ About Right,24,Male,49.599998,New England,Conservative
 About Right,37,Female,43.700001,Pacific,Moderate
 Too Little,57,Male,33.200001,E. Nor. Central,Conservative
 About Right,36,Male,48.900002,New England,Moderate
-About Right,77,Female,38.400002,Mountain,Extrmly Conservative
+About Right,77,Female,38.400002,Mountain,Extremely Conservative
 Too Little,33,Female,38.400002,New England,Liberal
 About Right,33,Female,64.400002,W. Nor. Central,Moderate
 Too Little,69,Female,78.5,W. Nor. Central,Moderate
 Too Little,37,Female,38.400002,W. Nor. Central,Conservative
-Too Much,36,Female,38,E. Sou. Central,Extrmly Conservative
+Too Much,36,Female,38,E. Sou. Central,Extremely Conservative
 Too Little,39,Male,59.099998,W. Nor. Central,Slightly Liberal
 About Right,56,Female,64.199997,E. Nor. Central,Slightly Conservative
 Too Little,29,Female,46.700001,E. Nor. Central,Moderate
@@ -1183,7 +1183,7 @@ Too Much,20,Male,34.299999,South Atlantic,Slightly Conservative
 Too Little,59,Female,17.1,Middle Atlantic,Moderate
 Too Little,23,Female,57.099998,South Atlantic,Slightly Liberal
 About Right,64,Female,63.5,Mountain,Moderate
-About Right,77,Female,55.299999,Mountain,Extrmly Conservative
+About Right,77,Female,55.299999,Mountain,Extremely Conservative
 About Right,29,Female,69.199997,New England,Slightly Liberal
 About Right,44,Female,63.5,E. Sou. Central,Slightly Conservative
 Too Little,22,Female,73.199997,South Atlantic,Moderate
@@ -1203,7 +1203,7 @@ Too Little,44,Male,28.4,Pacific,Conservative
 Too Little,66,Male,63.5,W. Sou. Central,Conservative
 Too Little,28,Female,38.400002,Pacific,Slightly Liberal
 About Right,32,Male,80,W. Nor. Central,Moderate
-About Right,39,Female,21.200001,South Atlantic,Extrmly Conservative
+About Right,39,Female,21.200001,South Atlantic,Extremely Conservative
 About Right,50,Male,26.5,Pacific,Moderate
 Too Little,21,Male,41.299999,South Atlantic,Slightly Conservative
 Too Little,32,Male,29.4,E. Nor. Central,Moderate
@@ -1240,7 +1240,7 @@ About Right,42,Female,36.5,E. Sou. Central,Moderate
 Too Little,62,Female,38.5,Mountain,Slightly Conservative
 About Right,49,Female,38.5,South Atlantic,Moderate
 Too Little,31,Female,54.200001,Mountain,Moderate
-Too Little,56,Female,37,W. Sou. Central,Extrmly Conservative
+Too Little,56,Female,37,W. Sou. Central,Extremely Conservative
 Too Much,74,Female,38.900002,South Atlantic,Conservative
 Too Much,31,Male,34.299999,E. Sou. Central,Slightly Liberal
 About Right,35,Female,78.5,W. Sou. Central,Moderate
@@ -1287,7 +1287,7 @@ Too Much,56,Female,63.5,W. Sou. Central,Slightly Liberal
 Too Little,47,Female,76.300003,South Atlantic,Moderate
 About Right,33,Female,33.099998,W. Nor. Central,Moderate
 About Right,19,Male,59.299999,South Atlantic,Slightly Conservative
-Too Little,23,Male,34.299999,Pacific,Extrmly Conservative
+Too Little,23,Male,34.299999,Pacific,Extremely Conservative
 Too Much,20,Female,33.099998,E. Nor. Central,Slightly Liberal
 Too Little,40,Male,27.5,E. Nor. Central,Moderate
 About Right,51,Female,58.299999,W. Nor. Central,Slightly Liberal
@@ -1458,7 +1458,7 @@ About Right,41,Male,26.4,South Atlantic,Moderate
 About Right,32,Female,33.900002,E. Nor. Central,Moderate
 About Right,19,Male,29.5,W. Nor. Central,Liberal
 About Right,44,Male,31.5,W. Sou. Central,Slightly Conservative
-About Right,56,Female,63.5,E. Sou. Central,Extrmly Conservative
+About Right,56,Female,63.5,E. Sou. Central,Extremely Conservative
 About Right,42,Female,37.700001,Mountain,Moderate
 About Right,66,Female,33.099998,W. Nor. Central,Conservative
 Too Little,67,Female,54.200001,W. Nor. Central,Liberal
@@ -1480,8 +1480,8 @@ Too Little,36,Female,30.700001,E. Nor. Central,Liberal
 About Right,47,Female,38.400002,Middle Atlantic,Moderate
 Too Little,47,Male,75.199997,Pacific,Slightly Liberal
 Too Little,28,Male,83.900002,Mountain,Moderate
-About Right,58,Male,31.299999,Mountain,Extrmly Conservative
-About Right,51,Female,54.700001,E. Nor. Central,Extrmly Conservative
+About Right,58,Male,31.299999,Mountain,Extremely Conservative
+About Right,51,Female,54.700001,E. Nor. Central,Extremely Conservative
 About Right,35,Female,68.099998,W. Nor. Central,Slightly Liberal
 Too Little,47,Male,73.300003,Mountain,Slightly Conservative
 About Right,32,Male,59,Mountain,Moderate
@@ -1498,13 +1498,13 @@ About Right,51,Male,42.200001,E. Nor. Central,Liberal
 Too Much,47,Male,20.1,Pacific,Slightly Conservative
 Too Little,52,Female,57.099998,E. Nor. Central,Moderate
 Too Little,36,Female,50.700001,South Atlantic,Moderate
-Too Little,50,Male,73.900002,South Atlantic,Extrmly Conservative
+Too Little,50,Male,73.900002,South Atlantic,Extremely Conservative
 Too Much,67,Male,31.5,E. Nor. Central,Conservative
 Too Much,36,Female,63.5,Middle Atlantic,Slightly Liberal
 About Right,32,Male,63.200001,New England,Moderate
 About Right,76,Male,86.599998,Pacific,Slightly Liberal
 About Right,28,Male,63.5,W. Nor. Central,Slightly Liberal
-Too Much,59,Female,38.5,Pacific,Extrmly Conservative
+Too Much,59,Female,38.5,Pacific,Extremely Conservative
 Too Little,49,Female,63.5,Middle Atlantic,Moderate
 About Right,62,Female,37.900002,Middle Atlantic,Liberal
 Too Little,71,Female,43.5,E. Sou. Central,Moderate
@@ -1581,10 +1581,10 @@ Too Much,41,Male,48.799999,W. Sou. Central,Moderate
 About Right,65,Male,33.599998,Middle Atlantic,Moderate
 Too Little,41,Female,27.5,E. Sou. Central,Extremely Liberal
 About Right,58,Female,17.1,E. Sou. Central,Slightly Conservative
-Too Little,65,Male,38,W. Sou. Central,Extrmly Conservative
+Too Little,65,Male,38,W. Sou. Central,Extremely Conservative
 About Right,47,Male,92.300003,E. Nor. Central,Moderate
 Too Little,41,Male,26.9,E. Sou. Central,Conservative
-Too Little,68,Male,63.5,Middle Atlantic,Extrmly Conservative
+Too Little,68,Male,63.5,Middle Atlantic,Extremely Conservative
 Too Little,48,Male,92.300003,E. Nor. Central,Moderate
 Too Little,57,Female,36.900002,E. Nor. Central,Slightly Liberal
 About Right,35,Male,63.5,W. Nor. Central,Moderate
@@ -1642,15 +1642,15 @@ Too Little,22,Male,76.400002,New England,Moderate
 About Right,27,Female,26.6,E. Nor. Central,Moderate
 About Right,58,Female,26.4,South Atlantic,Conservative
 About Right,43,Female,32.400002,Mountain,Extremely Liberal
-Too Little,55,Female,29.299999,Pacific,Extrmly Conservative
+Too Little,55,Female,29.299999,Pacific,Extremely Conservative
 Too Little,26,Female,63.5,W. Sou. Central,Extremely Liberal
 Too Little,38,Female,64.099998,W. Sou. Central,Slightly Liberal
-Too Little,47,Male,38.200001,E. Sou. Central,Extrmly Conservative
+Too Little,47,Male,38.200001,E. Sou. Central,Extremely Conservative
 About Right,56,Male,38.099998,W. Nor. Central,Moderate
 Too Little,43,Male,62,E. Nor. Central,Moderate
 Too Much,38,Male,63.5,Pacific,Extremely Liberal
 Too Little,40,Male,28.4,New England,Moderate
-About Right,35,Female,38.400002,Pacific,Extrmly Conservative
+About Right,35,Female,38.400002,Pacific,Extremely Conservative
 About Right,38,Male,28.6,Middle Atlantic,Moderate
 About Right,32,Male,33.599998,W. Sou. Central,Moderate
 About Right,44,Male,57.099998,W. Nor. Central,Conservative
@@ -1676,7 +1676,7 @@ Too Little,67,Male,76.400002,E. Nor. Central,Slightly Conservative
 About Right,39,Male,25.799999,E. Nor. Central,Liberal
 Too Little,41,Male,35.400002,E. Sou. Central,Slightly Conservative
 Too Much,47,Female,80.300003,E. Nor. Central,Moderate
-About Right,69,Female,64.199997,E. Nor. Central,Extrmly Conservative
+About Right,69,Female,64.199997,E. Nor. Central,Extremely Conservative
 Too Little,68,Female,38,Pacific,Moderate
 Too Little,80,Female,33.099998,E. Sou. Central,Moderate
 Too Little,68,Male,53.700001,South Atlantic,Slightly Liberal
@@ -1709,7 +1709,7 @@ Too Little,76,Female,37.700001,Middle Atlantic,Conservative
 Too Little,70,Female,26.700001,New England,Liberal
 About Right,34,Female,39,Middle Atlantic,Slightly Liberal
 About Right,58,Female,38.900002,South Atlantic,Slightly Liberal
-Too Little,55,Female,82.699997,Pacific,Extrmly Conservative
+Too Little,55,Female,82.699997,Pacific,Extremely Conservative
 About Right,24,Female,26.700001,E. Nor. Central,Moderate
 About Right,42,Male,48.799999,Mountain,Conservative
 Too Much,36,Female,38.900002,South Atlantic,Conservative
@@ -1721,7 +1721,7 @@ Too Much,50,Female,63.5,Pacific,Moderate
 Too Little,77,Female,38.900002,New England,Slightly Conservative
 About Right,82,Male,28.6,South Atlantic,Conservative
 Too Much,89,Female,58.299999,Mountain,Slightly Liberal
-Too Little,28,Female,39.400002,Middle Atlantic,Extrmly Conservative
+Too Little,28,Female,39.400002,Middle Atlantic,Extremely Conservative
 About Right,31,Female,32.400002,W. Sou. Central,Moderate
 About Right,55,Female,63.5,Middle Atlantic,Moderate
 About Right,61,Male,39.700001,Pacific,Moderate
@@ -1787,12 +1787,12 @@ About Right,45,Female,78.5,South Atlantic,Conservative
 About Right,44,Male,29.200001,Mountain,Liberal
 About Right,22,Female,63.5,South Atlantic,Liberal
 About Right,41,Female,62.5,South Atlantic,Extremely Liberal
-Too Much,60,Female,85.099998,South Atlantic,Extrmly Conservative
+Too Much,60,Female,85.099998,South Atlantic,Extremely Conservative
 About Right,21,Female,25.799999,E. Sou. Central,Slightly Conservative
 About Right,45,Male,29.200001,E. Nor. Central,Slightly Conservative
 Too Little,36,Male,44.700001,South Atlantic,Conservative
 Too Much,41,Male,50.200001,Middle Atlantic,Moderate
-About Right,55,Male,73.300003,South Atlantic,Extrmly Conservative
+About Right,55,Male,73.300003,South Atlantic,Extremely Conservative
 Too Little,35,Male,36.099998,W. Nor. Central,Liberal
 About Right,36,Female,26.4,E. Nor. Central,Moderate
 About Right,54,Female,39.599998,Pacific,Moderate
@@ -1868,10 +1868,10 @@ About Right,31,Male,74,E. Nor. Central,Slightly Conservative
 About Right,27,Female,53.299999,South Atlantic,Moderate
 Too Little,52,Male,33.599998,Middle Atlantic,Slightly Liberal
 Too Much,37,Male,28.6,Middle Atlantic,Conservative
-About Right,24,Male,62,Middle Atlantic,Extrmly Conservative
+About Right,24,Male,62,Middle Atlantic,Extremely Conservative
 Too Little,25,Female,38.400002,Mountain,Slightly Conservative
 Too Little,63,Male,59,Pacific,Slightly Liberal
-Too Much,56,Male,86.5,Mountain,Extrmly Conservative
+Too Much,56,Male,86.5,Mountain,Extremely Conservative
 About Right,43,Male,31.299999,W. Sou. Central,Conservative
 About Right,44,Male,60.599998,E. Nor. Central,Liberal
 Too Little,47,Female,73.199997,Pacific,Liberal
@@ -1881,17 +1881,17 @@ Too Little,41,Female,55.099998,Middle Atlantic,Moderate
 Too Little,65,Male,31.5,W. Sou. Central,Liberal
 About Right,48,Male,64.199997,Mountain,Slightly Conservative
 Too Little,42,Female,50.700001,Pacific,Moderate
-About Right,50,Female,63.5,Middle Atlantic,Extrmly Conservative
+About Right,50,Female,63.5,Middle Atlantic,Extremely Conservative
 About Right,49,Male,50.700001,Pacific,Moderate
 About Right,42,Female,63.5,South Atlantic,Conservative
 Too Little,66,Male,48.5,Pacific,Moderate
 Too Much,42,Male,29.4,E. Nor. Central,Slightly Liberal
 About Right,33,Female,29.200001,W. Nor. Central,Slightly Conservative
 About Right,32,Female,38.400002,Middle Atlantic,Moderate
-About Right,37,Female,28.4,South Atlantic,Extrmly Conservative
+About Right,37,Female,28.4,South Atlantic,Extremely Conservative
 Too Little,48,Male,74.900002,South Atlantic,Slightly Liberal
 Too Little,34,Female,38.900002,South Atlantic,Moderate
-Too Much,68,Male,63.5,New England,Extrmly Conservative
+Too Much,68,Male,63.5,New England,Extremely Conservative
 About Right,64,Female,63.5,Middle Atlantic,Slightly Liberal
 Too Little,59,Female,78.5,E. Nor. Central,Moderate
 About Right,39,Female,31.4,Pacific,Slightly Liberal
@@ -1902,7 +1902,7 @@ Too Little,43,Female,29.4,Middle Atlantic,Moderate
 About Right,23,Male,34.200001,E. Nor. Central,Moderate
 About Right,43,Male,31.5,E. Sou. Central,Extremely Liberal
 About Right,42,Female,50.5,E. Nor. Central,Moderate
-About Right,63,Female,17.1,South Atlantic,Extrmly Conservative
+About Right,63,Female,17.1,South Atlantic,Extremely Conservative
 Too Little,74,Male,86.599998,South Atlantic,Slightly Conservative
 About Right,35,Male,62.099998,E. Sou. Central,Slightly Liberal
 About Right,49,Male,37.299999,E. Nor. Central,Moderate
@@ -1921,13 +1921,13 @@ Too Much,59,Female,63.5,W. Sou. Central,Moderate
 About Right,22,Male,42.400002,South Atlantic,Conservative
 About Right,51,Male,63.200001,E. Nor. Central,Slightly Conservative
 Too Much,48,Male,60.599998,Pacific,Moderate
-About Right,59,Male,78.5,W. Sou. Central,Extrmly Conservative
+About Right,59,Male,78.5,W. Sou. Central,Extremely Conservative
 Too Little,24,Male,32.299999,New England,Slightly Conservative
 About Right,45,Female,55.099998,Middle Atlantic,Conservative
 Too Little,81,Female,78.5,Middle Atlantic,Moderate
 About Right,47,Male,31.9,South Atlantic,Extremely Liberal
 About Right,36,Male,50.700001,South Atlantic,Slightly Conservative
-Too Much,48,Male,63.200001,South Atlantic,Extrmly Conservative
+Too Much,48,Male,63.200001,South Atlantic,Extremely Conservative
 Too Little,72,Male,87.400002,Middle Atlantic,Conservative
 About Right,51,Female,27.5,South Atlantic,Moderate
 Too Little,48,Female,38.400002,Pacific,Moderate
@@ -1974,7 +1974,7 @@ About Right,67,Female,76.400002,New England,Moderate
 About Right,79,Male,80.300003,W. Sou. Central,Moderate
 Too Little,31,Male,35.200001,E. Sou. Central,Liberal
 About Right,67,Female,74.400002,E. Nor. Central,Moderate
-About Right,39,Male,50.700001,E. Sou. Central,Extrmly Conservative
+About Right,39,Male,50.700001,E. Sou. Central,Extremely Conservative
 Too Little,80,Female,43.700001,New England,Slightly Conservative
 Too Little,68,Male,38.200001,South Atlantic,Slightly Liberal
 Too Little,42,Male,36.5,Middle Atlantic,Moderate
@@ -2004,7 +2004,7 @@ About Right,21,Female,32.400002,Pacific,Slightly Conservative
 Too Little,44,Female,28.4,New England,Slightly Conservative
 About Right,60,Female,32.400002,Mountain,Moderate
 Too Little,20,Male,43.400002,E. Nor. Central,Slightly Conservative
-Too Little,70,Female,38.400002,W. Sou. Central,Extrmly Conservative
+Too Little,70,Female,38.400002,W. Sou. Central,Extremely Conservative
 Too Little,76,Female,74.400002,New England,Slightly Liberal
 About Right,35,Female,37.700001,W. Sou. Central,Liberal
 About Right,89,Male,65.800003,E. Nor. Central,Moderate
@@ -2074,13 +2074,13 @@ About Right,33,Female,36.5,E. Nor. Central,Moderate
 About Right,44,Female,57.099998,E. Nor. Central,Moderate
 About Right,49,Male,48.5,Middle Atlantic,Conservative
 About Right,33,Female,78.5,Middle Atlantic,Moderate
-Too Little,49,Male,80,South Atlantic,Extrmly Conservative
+Too Little,49,Male,80,South Atlantic,Extremely Conservative
 About Right,32,Male,74.099998,New England,Slightly Liberal
 Too Little,55,Male,64.199997,South Atlantic,Conservative
 About Right,53,Male,63.5,E. Sou. Central,Conservative
 About Right,42,Female,29,Middle Atlantic,Moderate
-Too Little,76,Female,43.700001,W. Nor. Central,Extrmly Conservative
-About Right,40,Male,70.5,South Atlantic,Extrmly Conservative
+Too Little,76,Female,43.700001,W. Nor. Central,Extremely Conservative
+About Right,40,Male,70.5,South Atlantic,Extremely Conservative
 About Right,40,Male,58.799999,Middle Atlantic,Moderate
 About Right,36,Male,62.099998,E. Nor. Central,Slightly Liberal
 Too Little,80,Male,96,South Atlantic,Liberal
@@ -2138,7 +2138,7 @@ About Right,46,Female,32.400002,Pacific,Slightly Conservative
 About Right,49,Female,17.1,E. Sou. Central,Slightly Conservative
 About Right,53,Male,31.5,W. Sou. Central,Conservative
 Too Little,30,Male,29.200001,Middle Atlantic,Liberal
-Too Much,58,Male,29.6,South Atlantic,Extrmly Conservative
+Too Much,58,Male,29.6,South Atlantic,Extremely Conservative
 Too Little,48,Male,35.099998,Middle Atlantic,Liberal
 Too Little,60,Male,69.699997,Middle Atlantic,Extremely Liberal
 About Right,28,Male,50.5,E. Nor. Central,Conservative
@@ -2234,7 +2234,7 @@ About Right,34,Female,63.200001,South Atlantic,Slightly Liberal
 About Right,51,Female,60.599998,South Atlantic,Moderate
 About Right,39,Male,26.5,Pacific,Conservative
 Too Little,33,Female,57.099998,E. Sou. Central,Moderate
-About Right,22,Female,35.400002,Mountain,Extrmly Conservative
+About Right,22,Female,35.400002,Mountain,Extremely Conservative
 Too Little,53,Male,66.099998,New England,Moderate
 Too Little,56,Male,38.799999,E. Nor. Central,Slightly Conservative
 Too Little,46,Female,50.5,Pacific,Slightly Liberal
@@ -2438,10 +2438,10 @@ About Right,51,Female,53.700001,E. Sou. Central,Conservative
 About Right,52,Female,54.700001,Mountain,Moderate
 About Right,74,Female,88.800003,E. Nor. Central,Moderate
 About Right,65,Female,32.299999,South Atlantic,Moderate
-Too Little,64,Male,32.700001,Pacific,Extrmly Conservative
+Too Little,64,Male,32.700001,Pacific,Extremely Conservative
 Too Little,35,Female,33.099998,E. Nor. Central,Moderate
 About Right,58,Male,31.5,E. Nor. Central,Extremely Liberal
-About Right,44,Male,63.5,New England,Extrmly Conservative
+About Right,44,Male,63.5,New England,Extremely Conservative
 About Right,29,Female,76.400002,W. Nor. Central,Slightly Liberal
 Too Little,46,Male,63.5,E. Nor. Central,Moderate
 About Right,32,Male,38.099998,Mountain,Moderate
@@ -2604,7 +2604,7 @@ About Right,51,Female,33.099998,South Atlantic,Moderate
 About Right,42,Male,64.199997,Middle Atlantic,Slightly Conservative
 About Right,54,Male,74.400002,South Atlantic,Moderate
 Too Little,41,Female,73.900002,E. Nor. Central,Liberal
-About Right,48,Male,25.5,South Atlantic,Extrmly Conservative
+About Right,48,Male,25.5,South Atlantic,Extremely Conservative
 Too Little,24,Male,38.900002,South Atlantic,Extremely Liberal
 Too Much,61,Male,29.200001,W. Nor. Central,Slightly Conservative
 Too Little,42,Female,48.5,Pacific,Slightly Conservative
@@ -2613,7 +2613,7 @@ About Right,38,Male,48.5,E. Sou. Central,Moderate
 About Right,39,Male,40.5,New England,Moderate
 About Right,49,Male,50.700001,South Atlantic,Slightly Conservative
 About Right,82,Female,29,E. Nor. Central,Slightly Liberal
-Too Little,42,Male,38.200001,South Atlantic,Extrmly Conservative
+Too Little,42,Male,38.200001,South Atlantic,Extremely Conservative
 Too Little,49,Male,92.300003,Pacific,Liberal
 About Right,48,Female,97.199997,Middle Atlantic,Moderate
 About Right,68,Male,37.799999,W. Sou. Central,Moderate
@@ -2630,7 +2630,7 @@ About Right,39,Female,33.099998,W. Sou. Central,Slightly Conservative
 Too Little,52,Female,51.900002,South Atlantic,Conservative
 Too Little,34,Male,63.5,E. Sou. Central,Liberal
 About Right,63,Male,31.5,South Atlantic,Slightly Conservative
-Too Little,79,Male,45.900002,E. Nor. Central,Extrmly Conservative
+Too Little,79,Male,45.900002,E. Nor. Central,Extremely Conservative
 Too Little,60,Male,33.099998,Middle Atlantic,Slightly Liberal
 About Right,48,Male,80.900002,W. Nor. Central,Conservative
 Too Little,31,Male,51.900002,E. Sou. Central,Slightly Conservative
@@ -2657,8 +2657,8 @@ Too Little,42,Male,52.400002,W. Sou. Central,Slightly Conservative
 About Right,43,Female,53.099998,South Atlantic,Conservative
 About Right,74,Female,37.900002,E. Nor. Central,Moderate
 About Right,38,Male,81,E. Nor. Central,Moderate
-About Right,57,Male,34.200001,W. Nor. Central,Extrmly Conservative
-About Right,52,Female,26.700001,South Atlantic,Extrmly Conservative
+About Right,57,Male,34.200001,W. Nor. Central,Extremely Conservative
+About Right,52,Female,26.700001,South Atlantic,Extremely Conservative
 Too Little,30,Male,37.299999,South Atlantic,Slightly Conservative
 Too Much,24,Female,37.700001,Middle Atlantic,Slightly Conservative
 About Right,60,Female,38.400002,Middle Atlantic,Liberal
@@ -2670,7 +2670,7 @@ About Right,39,Female,60.5,Mountain,Slightly Liberal
 Too Little,34,Male,78.5,W. Nor. Central,Slightly Liberal
 Too Little,70,Male,37.299999,Mountain,Conservative
 Too Little,57,Female,39.5,E. Nor. Central,Moderate
-About Right,49,Male,39,W. Sou. Central,Extrmly Conservative
+About Right,49,Male,39,W. Sou. Central,Extremely Conservative
 Too Little,23,Female,29.299999,Mountain,Moderate
 Too Little,42,Female,73.199997,South Atlantic,Slightly Liberal
 About Right,25,Female,63.5,E. Nor. Central,Moderate
@@ -2697,7 +2697,7 @@ Too Little,34,Male,78.5,Pacific,Liberal
 Too Little,32,Male,50.5,Mountain,Liberal
 About Right,33,Female,36.5,Mountain,Moderate
 About Right,38,Female,33.099998,E. Nor. Central,Moderate
-About Right,27,Female,32.400002,Middle Atlantic,Extrmly Conservative
+About Right,27,Female,32.400002,Middle Atlantic,Extremely Conservative
 Too Little,34,Female,78.5,Mountain,Conservative
 Too Little,60,Female,66.099998,Middle Atlantic,Extremely Liberal
 Too Little,68,Male,36.5,Middle Atlantic,Slightly Conservative
@@ -2745,7 +2745,7 @@ About Right,40,Female,29.5,E. Nor. Central,Slightly Liberal
 About Right,68,Male,64.099998,W. Sou. Central,Slightly Liberal
 About Right,33,Female,32,South Atlantic,Slightly Liberal
 Too Little,66,Female,60.599998,New England,Slightly Liberal
-Too Little,46,Female,38.400002,W. Sou. Central,Extrmly Conservative
+Too Little,46,Female,38.400002,W. Sou. Central,Extremely Conservative
 About Right,47,Male,32.799999,New England,Slightly Conservative
 About Right,27,Male,37.5,South Atlantic,Moderate
 Too Much,32,Male,28.6,E. Nor. Central,Moderate
@@ -2817,19 +2817,19 @@ About Right,41,Female,63.5,South Atlantic,Moderate
 About Right,45,Female,60.599998,E. Nor. Central,Extremely Liberal
 About Right,50,Female,51.900002,South Atlantic,Moderate
 Too Little,71,Male,28.4,Pacific,Conservative
-Too Much,50,Male,45.299999,E. Nor. Central,Extrmly Conservative
+Too Much,50,Male,45.299999,E. Nor. Central,Extremely Conservative
 About Right,29,Female,69.199997,W. Nor. Central,Moderate
 Too Little,54,Male,53.900002,Mountain,Slightly Liberal
 Too Little,48,Female,57.099998,Middle Atlantic,Conservative
-About Right,29,Female,38,E. Nor. Central,Extrmly Conservative
+About Right,29,Female,38,E. Nor. Central,Extremely Conservative
 Too Little,35,Male,84.199997,South Atlantic,Moderate
 Too Little,57,Female,31.5,Mountain,Moderate
 About Right,28,Male,28.4,E. Nor. Central,Moderate
-Too Much,67,Male,73.900002,South Atlantic,Extrmly Conservative
+Too Much,67,Male,73.900002,South Atlantic,Extremely Conservative
 About Right,34,Female,46.799999,Mountain,Liberal
 About Right,48,Male,27.200001,E. Nor. Central,Extremely Liberal
 Too Little,57,Male,56.5,Middle Atlantic,Liberal
-About Right,24,Male,80,Mountain,Extrmly Conservative
+About Right,24,Male,80,Mountain,Extremely Conservative
 Too Little,75,Female,61.900002,Pacific,Liberal
 About Right,60,Female,22.700001,Pacific,Moderate
 Too Little,36,Male,37.900002,Pacific,Conservative
@@ -2850,7 +2850,7 @@ About Right,31,Male,38.900002,Middle Atlantic,Liberal
 Too Much,31,Male,48.5,South Atlantic,Conservative
 About Right,52,Female,22.700001,South Atlantic,Slightly Liberal
 About Right,50,Male,31.299999,South Atlantic,Conservative
-About Right,63,Female,62.5,South Atlantic,Extrmly Conservative
+About Right,63,Female,62.5,South Atlantic,Extremely Conservative
 About Right,27,Male,64.099998,W. Nor. Central,Moderate
 About Right,82,Male,73.199997,Middle Atlantic,Conservative
 Too Little,44,Male,43.400002,Mountain,Conservative
@@ -2912,13 +2912,13 @@ Too Little,67,Female,29.1,E. Nor. Central,Moderate
 Too Little,50,Male,64.099998,E. Sou. Central,Moderate
 Too Little,60,Female,65.800003,Middle Atlantic,Moderate
 About Right,36,Male,31.5,E. Sou. Central,Slightly Conservative
-About Right,28,Female,32,South Atlantic,Extrmly Conservative
+About Right,28,Female,32,South Atlantic,Extremely Conservative
 About Right,71,Female,63.5,South Atlantic,Moderate
 Too Little,77,Male,69.699997,E. Nor. Central,Moderate
 Too Little,60,Male,63.5,E. Sou. Central,Conservative
 Too Little,57,Female,75.900002,Middle Atlantic,Extremely Liberal
 Too Little,37,Female,73.199997,W. Sou. Central,Slightly Liberal
-About Right,55,Female,37.700001,Middle Atlantic,Extrmly Conservative
+About Right,55,Female,37.700001,Middle Atlantic,Extremely Conservative
 About Right,33,Female,78.5,E. Nor. Central,Slightly Liberal
 About Right,36,Male,45.799999,South Atlantic,Slightly Conservative
 About Right,24,Female,26.4,W. Nor. Central,Slightly Liberal
@@ -2962,14 +2962,14 @@ About Right,76,Female,38.400002,Middle Atlantic,Conservative
 Too Little,50,Female,82.699997,Mountain,Liberal
 Too Little,25,Male,42.200001,Pacific,Slightly Conservative
 Too Little,42,Female,33.099998,South Atlantic,Liberal
-About Right,43,Female,32.400002,W. Nor. Central,Extrmly Conservative
+About Right,43,Female,32.400002,W. Nor. Central,Extremely Conservative
 Too Little,35,Male,34.200001,New England,Moderate
 Too Little,38,Female,33.599998,Middle Atlantic,Liberal
 Too Little,78,Female,32,South Atlantic,Conservative
 Too Little,69,Female,26.4,Mountain,Slightly Liberal
 Too Little,48,Male,63.200001,E. Nor. Central,Conservative
 About Right,61,Male,63.5,Pacific,Conservative
-About Right,35,Male,33.599998,Middle Atlantic,Extrmly Conservative
+About Right,35,Male,33.599998,Middle Atlantic,Extremely Conservative
 About Right,56,Female,34.599998,Pacific,Slightly Liberal
 About Right,35,Female,81,W. Nor. Central,Slightly Liberal
 About Right,48,Female,21.1,E. Nor. Central,Liberal
@@ -2984,7 +2984,7 @@ Too Little,28,Male,64.199997,Mountain,Liberal
 About Right,30,Female,73.599998,E. Nor. Central,Slightly Liberal
 Too Little,28,Male,73.199997,Pacific,Moderate
 Too Little,24,Male,29.4,Middle Atlantic,Moderate
-Too Much,53,Male,39.400002,Middle Atlantic,Extrmly Conservative
+Too Much,53,Male,39.400002,Middle Atlantic,Extremely Conservative
 Too Little,61,Female,85.099998,New England,Liberal
 About Right,56,Female,33.099998,South Atlantic,Conservative
 Too Little,30,Male,28.4,Pacific,Extremely Liberal
@@ -3062,7 +3062,7 @@ About Right,78,Female,27.5,E. Sou. Central,Liberal
 Too Little,52,Male,49.299999,E. Sou. Central,Conservative
 About Right,38,Female,17.1,E. Nor. Central,Moderate
 About Right,54,Female,62,Pacific,Conservative
-Too Little,60,Female,36.099998,E. Sou. Central,Extrmly Conservative
+Too Little,60,Female,36.099998,E. Sou. Central,Extremely Conservative
 Too Little,34,Male,31.4,Mountain,Liberal
 Too Much,83,Male,75.199997,Pacific,Moderate
 About Right,31,Male,38.099998,South Atlantic,Moderate
@@ -3104,7 +3104,7 @@ Too Little,43,Female,38.900002,South Atlantic,Moderate
 Too Little,39,Male,78.699997,Mountain,Liberal
 Too Much,35,Male,39,Middle Atlantic,Conservative
 Too Little,34,Female,46.299999,South Atlantic,Moderate
-About Right,45,Male,62.5,Pacific,Extrmly Conservative
+About Right,45,Male,62.5,Pacific,Extremely Conservative
 Too Little,27,Male,87.5,South Atlantic,Liberal
 About Right,39,Male,34.200001,Middle Atlantic,Moderate
 Too Little,51,Male,52.5,Pacific,Slightly Liberal
@@ -3136,11 +3136,11 @@ Too Little,38,Male,63.5,South Atlantic,Moderate
 About Right,32,Male,63.5,Middle Atlantic,Moderate
 About Right,38,Male,31.5,E. Sou. Central,Moderate
 About Right,72,Male,44.200001,South Atlantic,Conservative
-Too Little,42,Female,38.400002,E. Nor. Central,Extrmly Conservative
+Too Little,42,Female,38.400002,E. Nor. Central,Extremely Conservative
 Too Little,48,Male,29.299999,W. Sou. Central,Moderate
 About Right,27,Female,42.299999,South Atlantic,Slightly Conservative
 Too Little,23,Female,32.400002,E. Nor. Central,Slightly Liberal
-Too Little,25,Male,63.5,Middle Atlantic,Extrmly Conservative
+Too Little,25,Male,63.5,Middle Atlantic,Extremely Conservative
 Too Much,67,Male,27.700001,New England,Conservative
 About Right,33,Female,78.5,W. Sou. Central,Moderate
 About Right,29,Female,73.199997,South Atlantic,Moderate
@@ -3191,7 +3191,7 @@ Too Little,38,Female,22.5,Pacific,Extremely Liberal
 About Right,47,Male,83.699997,Middle Atlantic,Moderate
 About Right,34,Male,82.699997,South Atlantic,Moderate
 Too Much,45,Male,63.5,South Atlantic,Slightly Conservative
-Too Little,23,Male,50.299999,South Atlantic,Extrmly Conservative
+Too Little,23,Male,50.299999,South Atlantic,Extremely Conservative
 About Right,62,Female,29.299999,Mountain,Moderate
 About Right,48,Male,63.5,E. Nor. Central,Liberal
 Too Much,58,Male,45.799999,E. Nor. Central,Slightly Liberal
@@ -3294,7 +3294,7 @@ About Right,50,Male,86.5,New England,Moderate
 About Right,34,Female,50.700001,W. Sou. Central,Moderate
 About Right,46,Male,64.099998,W. Nor. Central,Moderate
 About Right,42,Male,49.299999,South Atlantic,Slightly Conservative
-Too Much,49,Female,26.700001,W. Nor. Central,Extrmly Conservative
+Too Much,49,Female,26.700001,W. Nor. Central,Extremely Conservative
 About Right,50,Male,86.599998,Mountain,Moderate
 Too Little,75,Female,76.400002,W. Nor. Central,Slightly Liberal
 Too Little,29,Female,29.299999,South Atlantic,Moderate
@@ -3305,7 +3305,7 @@ About Right,37,Male,54.700001,Middle Atlantic,Moderate
 About Right,30,Male,32.299999,W. Sou. Central,Moderate
 Too Much,33,Female,27.5,Pacific,Moderate
 Too Little,24,Female,48.5,Pacific,Slightly Liberal
-About Right,41,Male,52.5,Pacific,Extrmly Conservative
+About Right,41,Male,52.5,Pacific,Extremely Conservative
 Too Much,77,Female,32,E. Sou. Central,Conservative
 About Right,51,Female,64.400002,Middle Atlantic,Conservative
 About Right,79,Male,63.200001,South Atlantic,Conservative
@@ -3327,7 +3327,7 @@ Too Much,31,Male,63.200001,Mountain,Conservative
 Too Much,41,Female,33.900002,E. Nor. Central,Slightly Conservative
 About Right,24,Male,34.200001,Middle Atlantic,Conservative
 About Right,34,Male,54.700001,New England,Moderate
-About Right,31,Male,73.900002,South Atlantic,Extrmly Conservative
+About Right,31,Male,73.900002,South Atlantic,Extremely Conservative
 About Right,25,Male,39.400002,E. Sou. Central,Moderate
 About Right,43,Male,64.199997,E. Nor. Central,Slightly Conservative
 Too Little,25,Female,59.099998,Pacific,Liberal
@@ -3335,7 +3335,7 @@ Too Little,57,Male,50.5,E. Sou. Central,Conservative
 Too Little,74,Male,63.5,New England,Slightly Conservative
 About Right,26,Male,64.099998,South Atlantic,Conservative
 Too Little,42,Female,80.900002,E. Nor. Central,Liberal
-Too Little,86,Female,78.5,W. Sou. Central,Extrmly Conservative
+Too Little,86,Female,78.5,W. Sou. Central,Extremely Conservative
 About Right,39,Male,53.700001,South Atlantic,Slightly Liberal
 Too Little,33,Female,63.200001,Pacific,Extremely Liberal
 Too Much,30,Female,33.099998,South Atlantic,Conservative
@@ -3350,7 +3350,7 @@ About Right,21,Female,33.099998,South Atlantic,Conservative
 About Right,21,Female,50.700001,South Atlantic,Moderate
 About Right,38,Female,38.400002,New England,Moderate
 Too Little,46,Female,63.200001,E. Nor. Central,Liberal
-Too Little,83,Female,74.400002,Mountain,Extrmly Conservative
+Too Little,83,Female,74.400002,Mountain,Extremely Conservative
 Too Little,32,Male,60.599998,W. Nor. Central,Slightly Liberal
 Too Little,22,Male,72.5,South Atlantic,Slightly Conservative
 Too Little,44,Male,54.900002,E. Nor. Central,Moderate
@@ -3420,8 +3420,8 @@ Too Much,59,Female,38.400002,South Atlantic,Conservative
 About Right,59,Male,39.400002,E. Nor. Central,Moderate
 About Right,45,Male,29.799999,E. Nor. Central,Liberal
 Too Little,31,Male,50.5,W. Sou. Central,Slightly Conservative
-About Right,47,Male,34.299999,W. Nor. Central,Extrmly Conservative
-Too Little,59,Male,38.200001,E. Nor. Central,Extrmly Conservative
+About Right,47,Male,34.299999,W. Nor. Central,Extremely Conservative
+Too Little,59,Male,38.200001,E. Nor. Central,Extremely Conservative
 About Right,22,Male,30.200001,E. Nor. Central,Moderate
 About Right,31,Female,53.099998,South Atlantic,Slightly Conservative
 About Right,25,Female,32.400002,E. Sou. Central,Moderate
@@ -3510,7 +3510,7 @@ Too Little,72,Male,53.900002,Middle Atlantic,Slightly Liberal
 Too Little,84,Female,64.099998,New England,Slightly Liberal
 About Right,78,Male,63.5,Middle Atlantic,Moderate
 Too Little,68,Male,76.400002,Middle Atlantic,Moderate
-About Right,75,Female,29.1,W. Sou. Central,Extrmly Conservative
+About Right,75,Female,29.1,W. Sou. Central,Extremely Conservative
 About Right,43,Male,53.299999,Mountain,Moderate
 About Right,72,Male,92.300003,Pacific,Slightly Liberal
 Too Much,33,Female,31.4,Pacific,Slightly Conservative
@@ -3551,7 +3551,7 @@ Too Little,26,Female,62.5,South Atlantic,Liberal
 Too Little,28,Female,42.299999,Pacific,Slightly Conservative
 About Right,24,Male,32.299999,E. Nor. Central,Moderate
 Too Little,39,Male,63.5,E. Nor. Central,Slightly Conservative
-Too Little,72,Female,29.700001,South Atlantic,Extrmly Conservative
+Too Little,72,Female,29.700001,South Atlantic,Extremely Conservative
 Too Much,77,Female,25.299999,South Atlantic,Moderate
 Too Little,64,Male,62.5,W. Sou. Central,Conservative
 About Right,20,Female,34.400002,Pacific,Slightly Conservative
@@ -3560,7 +3560,7 @@ About Right,57,Male,32,E. Nor. Central,Moderate
 Too Little,56,Female,33.900002,E. Sou. Central,Conservative
 Too Much,33,Male,86.5,South Atlantic,Conservative
 About Right,56,Male,44.700001,Pacific,Slightly Conservative
-About Right,19,Male,28.6,Pacific,Extrmly Conservative
+About Right,19,Male,28.6,Pacific,Extremely Conservative
 About Right,27,Female,38.400002,Middle Atlantic,Slightly Conservative
 Too Little,47,Male,32.299999,Pacific,Moderate
 Too Little,52,Male,48.5,W. Nor. Central,Liberal
@@ -3600,12 +3600,12 @@ Too Much,49,Male,53.700001,Mountain,Slightly Conservative
 Too Little,61,Female,21.200001,South Atlantic,Moderate
 Too Little,67,Female,38.400002,Mountain,Moderate
 About Right,42,Male,27.5,Middle Atlantic,Moderate
-About Right,40,Male,73.599998,South Atlantic,Extrmly Conservative
+About Right,40,Male,73.599998,South Atlantic,Extremely Conservative
 About Right,33,Male,35.099998,W. Sou. Central,Slightly Conservative
 About Right,57,Male,97.199997,W. Sou. Central,Slightly Conservative
 About Right,45,Male,63.5,W. Nor. Central,Moderate
 About Right,68,Female,38.5,New England,Moderate
-Too Little,46,Female,53.700001,W. Sou. Central,Extrmly Conservative
+Too Little,46,Female,53.700001,W. Sou. Central,Extremely Conservative
 About Right,27,Female,64.400002,South Atlantic,Extremely Liberal
 About Right,76,Female,38,New England,Conservative
 About Right,58,Female,38.400002,Mountain,Conservative
@@ -3651,8 +3651,8 @@ Too Little,18,Female,33.099998,Pacific,Moderate
 Too Little,60,Female,78.5,Mountain,Liberal
 About Right,50,Male,85.099998,Pacific,Conservative
 About Right,62,Female,73.300003,Pacific,Liberal
-Too Little,77,Male,26.700001,W. Sou. Central,Extrmly Conservative
-About Right,76,Male,35.400002,Mountain,Extrmly Conservative
+Too Little,77,Male,26.700001,W. Sou. Central,Extremely Conservative
+About Right,76,Male,35.400002,Mountain,Extremely Conservative
 About Right,43,Female,50.700001,Pacific,Slightly Liberal
 Too Little,63,Female,29.299999,Mountain,Moderate
 About Right,41,Female,63.200001,South Atlantic,Moderate
@@ -3662,7 +3662,7 @@ About Right,82,Male,86,Pacific,Moderate
 About Right,28,Female,63.200001,South Atlantic,Moderate
 About Right,24,Male,64.099998,W. Sou. Central,Conservative
 About Right,63,Female,38.400002,E. Sou. Central,Moderate
-About Right,29,Female,96,South Atlantic,Extrmly Conservative
+About Right,29,Female,96,South Atlantic,Extremely Conservative
 About Right,31,Female,33.099998,Middle Atlantic,Moderate
 Too Little,49,Female,38.900002,E. Nor. Central,Moderate
 Too Much,47,Female,50.700001,Pacific,Conservative
@@ -3702,7 +3702,7 @@ About Right,76,Female,26.700001,South Atlantic,Moderate
 Too Little,32,Male,29.200001,Middle Atlantic,Conservative
 About Right,34,Female,38.900002,Middle Atlantic,Slightly Liberal
 About Right,26,Female,29.299999,South Atlantic,Slightly Conservative
-Too Little,62,Male,32.299999,South Atlantic,Extrmly Conservative
+Too Little,62,Male,32.299999,South Atlantic,Extremely Conservative
 About Right,79,Male,29.799999,E. Nor. Central,Moderate
 About Right,58,Male,50.700001,W. Nor. Central,Slightly Conservative
 Too Little,28,Female,38.5,South Atlantic,Moderate
@@ -3711,7 +3711,7 @@ Too Little,74,Female,29.200001,Pacific,Moderate
 About Right,25,Female,74,E. Nor. Central,Slightly Conservative
 About Right,19,Male,37.599998,Middle Atlantic,Moderate
 About Right,69,Female,36.200001,W. Nor. Central,Moderate
-About Right,32,Female,26.4,Mountain,Extrmly Conservative
+About Right,32,Female,26.4,Mountain,Extremely Conservative
 Too Little,42,Female,73.199997,Mountain,Moderate
 Too Little,51,Male,29.200001,Middle Atlantic,Moderate
 About Right,31,Male,64.199997,E. Sou. Central,Moderate
@@ -3724,7 +3724,7 @@ Too Much,34,Male,32.299999,South Atlantic,Slightly Conservative
 About Right,37,Female,22.700001,South Atlantic,Slightly Liberal
 About Right,45,Male,38.099998,Middle Atlantic,Slightly Conservative
 Too Little,51,Male,34.200001,Mountain,Moderate
-Too Little,74,Female,38.400002,Middle Atlantic,Extrmly Conservative
+Too Little,74,Female,38.400002,Middle Atlantic,Extremely Conservative
 About Right,51,Female,53.5,W. Sou. Central,Slightly Conservative
 Too Little,46,Male,63.200001,Middle Atlantic,Moderate
 Too Much,40,Male,35.400002,E. Nor. Central,Moderate
@@ -3747,7 +3747,7 @@ About Right,45,Male,63.5,Middle Atlantic,Slightly Conservative
 Too Much,44,Male,48.599998,Middle Atlantic,Liberal
 Too Little,21,Male,51.799999,South Atlantic,Moderate
 About Right,66,Male,60.599998,South Atlantic,Slightly Conservative
-Too Little,53,Male,39,New England,Extrmly Conservative
+Too Little,53,Male,39,New England,Extremely Conservative
 About Right,85,Male,32.299999,W. Sou. Central,Slightly Liberal
 Too Much,54,Female,37.400002,Middle Atlantic,Moderate
 About Right,27,Female,63.5,Pacific,Liberal
@@ -3807,7 +3807,7 @@ About Right,45,Male,36.5,W. Nor. Central,Liberal
 About Right,75,Female,38,Pacific,Conservative
 Too Little,65,Female,50.700001,South Atlantic,Liberal
 Too Little,35,Male,73.599998,E. Sou. Central,Liberal
-About Right,46,Female,68.099998,South Atlantic,Extrmly Conservative
+About Right,46,Female,68.099998,South Atlantic,Extremely Conservative
 Too Little,32,Female,50.700001,Pacific,Moderate
 Too Little,81,Female,27.700001,Mountain,Slightly Conservative
 Too Little,65,Male,69.699997,South Atlantic,Moderate
@@ -3825,13 +3825,13 @@ Too Little,61,Male,92.300003,New England,Moderate
 Too Little,23,Male,44.299999,Mountain,Extremely Liberal
 About Right,81,Female,29.1,Middle Atlantic,Moderate
 Too Little,51,Male,66.099998,South Atlantic,Liberal
-Too Little,55,Male,63.5,Middle Atlantic,Extrmly Conservative
+Too Little,55,Male,63.5,Middle Atlantic,Extremely Conservative
 About Right,33,Male,38.5,South Atlantic,Moderate
 Too Little,59,Male,60.599998,W. Sou. Central,Slightly Liberal
 Too Little,42,Male,38.5,Middle Atlantic,Liberal
 Too Little,53,Female,29.299999,Middle Atlantic,Moderate
-About Right,28,Male,53.099998,W. Sou. Central,Extrmly Conservative
-Too Little,26,Male,29.6,E. Nor. Central,Extrmly Conservative
+About Right,28,Male,53.099998,W. Sou. Central,Extremely Conservative
+Too Little,26,Male,29.6,E. Nor. Central,Extremely Conservative
 Too Little,76,Female,38.900002,E. Sou. Central,Moderate
 Too Little,44,Female,78.5,South Atlantic,Slightly Liberal
 Too Much,64,Male,28.4,E. Nor. Central,Moderate
@@ -3841,15 +3841,15 @@ About Right,31,Male,45.900002,E. Nor. Central,Liberal
 About Right,37,Female,59,South Atlantic,Moderate
 About Right,34,Female,36.700001,E. Nor. Central,Moderate
 About Right,35,Male,64.099998,New England,Slightly Conservative
-Too Little,48,Female,69.199997,Pacific,Extrmly Conservative
+Too Little,48,Female,69.199997,Pacific,Extremely Conservative
 Too Little,38,Female,37.700001,South Atlantic,Conservative
 Too Little,68,Male,37.799999,E. Nor. Central,Conservative
 About Right,48,Female,34.799999,Middle Atlantic,Moderate
 Too Little,35,Female,37.700001,Middle Atlantic,Moderate
 About Right,84,Male,63.5,E. Nor. Central,Moderate
-Too Little,69,Male,27.700001,E. Sou. Central,Extrmly Conservative
+Too Little,69,Male,27.700001,E. Sou. Central,Extremely Conservative
 About Right,31,Female,21.200001,South Atlantic,Moderate
-Too Little,64,Male,80,South Atlantic,Extrmly Conservative
+Too Little,64,Male,80,South Atlantic,Extremely Conservative
 Too Little,54,Female,43.700001,Pacific,Slightly Conservative
 About Right,35,Female,73.199997,Middle Atlantic,Moderate
 About Right,79,Female,29.299999,South Atlantic,Liberal
@@ -3894,7 +3894,7 @@ About Right,59,Female,26.700001,W. Nor. Central,Moderate
 Too Little,35,Female,64.800003,New England,Liberal
 Too Much,26,Female,36.5,E. Nor. Central,Slightly Liberal
 About Right,33,Male,45.299999,W. Sou. Central,Moderate
-About Right,72,Male,29.200001,E. Sou. Central,Extrmly Conservative
+About Right,72,Male,29.200001,E. Sou. Central,Extremely Conservative
 Too Little,36,Male,32.700001,W. Sou. Central,Liberal
 Too Little,45,Male,64.099998,Middle Atlantic,Slightly Conservative
 About Right,43,Male,33.599998,Pacific,Liberal
@@ -3919,14 +3919,14 @@ About Right,66,Female,18.5,E. Sou. Central,Slightly Conservative
 About Right,20,Male,27.5,Pacific,Conservative
 About Right,61,Female,33.099998,E. Nor. Central,Slightly Conservative
 About Right,22,Female,22.5,South Atlantic,Slightly Liberal
-Too Little,65,Female,63.200001,E. Nor. Central,Extrmly Conservative
+Too Little,65,Female,63.200001,E. Nor. Central,Extremely Conservative
 Too Little,67,Female,73.199997,Mountain,Moderate
 Too Little,56,Male,40,Pacific,Extremely Liberal
 Too Little,21,Male,50.700001,W. Sou. Central,Moderate
 About Right,46,Male,38.900002,E. Sou. Central,Slightly Conservative
 About Right,34,Male,27.5,W. Sou. Central,Slightly Liberal
 About Right,59,Female,73.199997,E. Sou. Central,Slightly Conservative
-About Right,32,Male,32.299999,New England,Extrmly Conservative
+About Right,32,Male,32.299999,New England,Extremely Conservative
 Too Little,61,Male,63.5,Pacific,Slightly Conservative
 About Right,37,Female,36.099998,E. Nor. Central,Slightly Conservative
 About Right,40,Male,29.200001,W. Sou. Central,Slightly Conservative
@@ -3937,7 +3937,7 @@ Too Little,69,Female,60.599998,Middle Atlantic,Conservative
 About Right,20,Female,36.700001,W. Sou. Central,Slightly Liberal
 About Right,77,Male,49.599998,South Atlantic,Moderate
 Too Little,25,Male,32.799999,New England,Conservative
-Too Little,65,Female,54.5,W. Nor. Central,Extrmly Conservative
+Too Little,65,Female,54.5,W. Nor. Central,Extremely Conservative
 About Right,50,Female,33.599998,Middle Atlantic,Slightly Liberal
 Too Much,79,Female,18.5,Middle Atlantic,Conservative
 About Right,31,Female,73.300003,South Atlantic,Conservative
@@ -4008,7 +4008,7 @@ Too Little,49,Female,63.5,Middle Atlantic,Moderate
 About Right,24,Female,78.5,W. Nor. Central,Moderate
 Too Little,43,Male,62.099998,New England,Conservative
 Too Little,36,Female,38,South Atlantic,Conservative
-Too Little,78,Female,38.400002,Pacific,Extrmly Conservative
+Too Little,78,Female,38.400002,Pacific,Extremely Conservative
 About Right,75,Male,92.300003,E. Nor. Central,Slightly Conservative
 About Right,61,Female,63.5,W. Sou. Central,Liberal
 Too Little,37,Female,33.099998,W. Nor. Central,Moderate
@@ -4040,7 +4040,7 @@ Too Much,52,Male,36.5,E. Nor. Central,Moderate
 About Right,40,Female,29.299999,Pacific,Conservative
 Too Much,63,Female,33.099998,E. Sou. Central,Moderate
 About Right,49,Female,37.299999,W. Nor. Central,Slightly Liberal
-About Right,26,Male,39,Mountain,Extrmly Conservative
+About Right,26,Male,39,Mountain,Extremely Conservative
 About Right,49,Female,78.5,Middle Atlantic,Moderate
 Too Little,31,Female,66.099998,Middle Atlantic,Conservative
 Too Little,31,Female,50.5,E. Nor. Central,Liberal
@@ -4062,11 +4062,11 @@ About Right,48,Female,63.5,Middle Atlantic,Moderate
 Too Little,45,Female,37.299999,South Atlantic,Slightly Liberal
 Too Little,62,Male,63.5,South Atlantic,Liberal
 Too Little,44,Male,82.699997,New England,Moderate
-About Right,34,Female,64.199997,South Atlantic,Extrmly Conservative
+About Right,34,Female,64.199997,South Atlantic,Extremely Conservative
 About Right,50,Male,80.300003,Middle Atlantic,Slightly Conservative
 Too Little,66,Female,30.799999,South Atlantic,Moderate
 About Right,52,Male,82.699997,W. Sou. Central,Extremely Liberal
-Too Much,57,Male,63.5,South Atlantic,Extrmly Conservative
+Too Much,57,Male,63.5,South Atlantic,Extremely Conservative
 Too Much,49,Male,63.5,New England,Slightly Conservative
 Too Much,35,Male,29.200001,E. Nor. Central,Conservative
 About Right,34,Male,86.599998,E. Nor. Central,Moderate
@@ -4081,12 +4081,12 @@ About Right,29,Male,35.400002,W. Sou. Central,Slightly Conservative
 Too Much,49,Female,73.199997,South Atlantic,Slightly Conservative
 About Right,25,Female,53.299999,E. Sou. Central,Conservative
 Too Little,39,Female,68.800003,South Atlantic,Conservative
-Too Little,71,Female,37.5,E. Nor. Central,Extrmly Conservative
+Too Little,71,Female,37.5,E. Nor. Central,Extremely Conservative
 About Right,67,Male,31.5,E. Nor. Central,Slightly Conservative
 Too Much,33,Female,29.4,W. Sou. Central,Moderate
 About Right,48,Female,32.400002,W. Sou. Central,Slightly Conservative
 About Right,31,Female,32.400002,Pacific,Slightly Liberal
-Too Little,50,Male,32.299999,South Atlantic,Extrmly Conservative
+Too Little,50,Male,32.299999,South Atlantic,Extremely Conservative
 Too Little,24,Male,86.599998,Pacific,Liberal
 Too Little,52,Male,38.700001,W. Sou. Central,Conservative
 Too Little,56,Male,80.900002,Pacific,Liberal
@@ -4105,7 +4105,7 @@ Too Little,67,Female,80.300003,New England,Liberal
 Too Little,21,Male,32.799999,Pacific,Conservative
 Too Little,34,Male,36.5,Middle Atlantic,Liberal
 About Right,38,Female,26.700001,E. Nor. Central,Moderate
-Too Little,35,Female,27.5,E. Nor. Central,Extrmly Conservative
+Too Little,35,Female,27.5,E. Nor. Central,Extremely Conservative
 Too Little,33,Female,38.400002,South Atlantic,Conservative
 About Right,36,Female,73.800003,E. Nor. Central,Slightly Liberal
 Too Little,32,Male,43.400002,New England,Conservative
@@ -4128,7 +4128,7 @@ Too Little,89,Female,38.900002,Pacific,Extremely Liberal
 About Right,23,Female,60.599998,W. Sou. Central,Moderate
 About Right,72,Male,31.5,W. Nor. Central,Liberal
 About Right,49,Female,38.400002,E. Sou. Central,Slightly Liberal
-Too Little,40,Female,43.700001,Pacific,Extrmly Conservative
+Too Little,40,Female,43.700001,Pacific,Extremely Conservative
 About Right,38,Female,22.5,W. Sou. Central,Slightly Conservative
 Too Little,32,Female,39,Pacific,Moderate
 Too Little,49,Female,33.900002,South Atlantic,Moderate
@@ -4141,7 +4141,7 @@ About Right,44,Male,29.200001,South Atlantic,Extremely Liberal
 Too Little,55,Male,73.300003,E. Nor. Central,Slightly Conservative
 Too Much,29,Male,86,E. Nor. Central,Slightly Conservative
 About Right,37,Male,48.5,E. Sou. Central,Moderate
-About Right,22,Male,26.5,W. Sou. Central,Extrmly Conservative
+About Right,22,Male,26.5,W. Sou. Central,Extremely Conservative
 Too Little,52,Male,38.099998,E. Nor. Central,Moderate
 About Right,25,Female,78.5,E. Nor. Central,Slightly Conservative
 About Right,44,Male,63.5,W. Sou. Central,Slightly Liberal
@@ -4165,11 +4165,11 @@ About Right,53,Female,33.099998,Middle Atlantic,Slightly Liberal
 About Right,25,Male,31.5,E. Nor. Central,Slightly Conservative
 About Right,47,Female,63.5,Middle Atlantic,Moderate
 About Right,35,Female,25.4,E. Nor. Central,Moderate
-Too Much,66,Female,52.5,South Atlantic,Extrmly Conservative
+Too Much,66,Female,52.5,South Atlantic,Extremely Conservative
 About Right,45,Female,44.200001,Pacific,Slightly Liberal
 Too Little,81,Female,78.5,Mountain,Moderate
 About Right,28,Female,43.5,W. Nor. Central,Conservative
-Too Little,67,Male,86.800003,Pacific,Extrmly Conservative
+Too Little,67,Male,86.800003,Pacific,Extremely Conservative
 Too Little,34,Female,36.400002,Pacific,Slightly Liberal
 About Right,32,Male,28.6,South Atlantic,Moderate
 About Right,61,Male,63.5,W. Nor. Central,Moderate
@@ -4180,7 +4180,7 @@ Too Much,44,Female,56.599998,Middle Atlantic,Slightly Conservative
 About Right,59,Female,55.099998,New England,Moderate
 Too Little,67,Female,80.300003,South Atlantic,Moderate
 Too Much,20,Male,33.900002,E. Nor. Central,Slightly Liberal
-Too Much,89,Male,38,Pacific,Extrmly Conservative
+Too Much,89,Male,38,Pacific,Extremely Conservative
 Too Little,31,Female,31.200001,E. Nor. Central,Moderate
 About Right,39,Female,50.700001,Pacific,Liberal
 Too Little,37,Female,28.4,South Atlantic,Extremely Liberal
@@ -4192,7 +4192,7 @@ Too Little,49,Male,76.400002,Pacific,Slightly Conservative
 About Right,63,Male,37.700001,E. Sou. Central,Slightly Conservative
 About Right,54,Female,18.5,E. Nor. Central,Liberal
 Too Little,42,Male,54.5,South Atlantic,Slightly Conservative
-About Right,27,Female,33.099998,E. Nor. Central,Extrmly Conservative
+About Right,27,Female,33.099998,E. Nor. Central,Extremely Conservative
 About Right,57,Female,28.6,W. Nor. Central,Liberal
 Too Little,49,Male,32.299999,E. Nor. Central,Slightly Liberal
 Too Much,73,Male,37.299999,Pacific,Moderate
@@ -4206,12 +4206,12 @@ Too Little,57,Male,66.099998,W. Sou. Central,Moderate
 Too Little,26,Female,83.699997,E. Nor. Central,Slightly Liberal
 Too Little,57,Male,29.200001,Mountain,Moderate
 Too Little,35,Male,80,W. Nor. Central,Slightly Conservative
-About Right,41,Male,31.5,E. Sou. Central,Extrmly Conservative
+About Right,41,Male,31.5,E. Sou. Central,Extremely Conservative
 About Right,78,Male,36.5,W. Sou. Central,Moderate
 Too Little,62,Female,38.400002,W. Nor. Central,Moderate
 About Right,47,Female,26.4,Pacific,Moderate
 About Right,27,Male,31.5,E. Sou. Central,Slightly Conservative
-About Right,58,Male,61.099998,W. Sou. Central,Extrmly Conservative
+About Right,58,Male,61.099998,W. Sou. Central,Extremely Conservative
 About Right,40,Female,36.200001,E. Nor. Central,Liberal
 About Right,71,Female,38.400002,South Atlantic,Slightly Conservative
 Too Little,51,Male,28.6,South Atlantic,Liberal
@@ -4227,7 +4227,7 @@ About Right,32,Male,30.1,Middle Atlantic,Slightly Liberal
 Too Little,47,Female,37.700001,W. Sou. Central,Moderate
 About Right,42,Female,47,South Atlantic,Conservative
 About Right,54,Female,38.900002,E. Nor. Central,Moderate
-Too Much,74,Female,62.5,W. Nor. Central,Extrmly Conservative
+Too Much,74,Female,62.5,W. Nor. Central,Extremely Conservative
 Too Little,33,Female,32.400002,South Atlantic,Moderate
 About Right,46,Male,27.700001,E. Nor. Central,Moderate
 Too Little,46,Female,38.900002,E. Nor. Central,Slightly Conservative
@@ -4262,7 +4262,7 @@ About Right,29,Male,29.299999,Pacific,Moderate
 About Right,56,Male,63.200001,South Atlantic,Moderate
 About Right,76,Female,53.700001,Pacific,Liberal
 About Right,30,Male,80.300003,E. Nor. Central,Liberal
-About Right,65,Male,45.200001,Middle Atlantic,Extrmly Conservative
+About Right,65,Male,45.200001,Middle Atlantic,Extremely Conservative
 About Right,51,Male,60.599998,Pacific,Moderate
 Too Little,62,Female,27.5,W. Sou. Central,Moderate
 Too Little,21,Male,33.900002,E. Sou. Central,Liberal
@@ -4289,7 +4289,7 @@ Too Little,30,Female,32.400002,South Atlantic,Extremely Liberal
 About Right,41,Male,28.6,South Atlantic,Conservative
 About Right,37,Male,80.300003,W. Nor. Central,Moderate
 About Right,31,Male,38.099998,Middle Atlantic,Liberal
-Too Much,48,Female,37.299999,E. Sou. Central,Extrmly Conservative
+Too Much,48,Female,37.299999,E. Sou. Central,Extremely Conservative
 Too Much,31,Male,38.099998,W. Sou. Central,Slightly Conservative
 About Right,46,Female,73.300003,Pacific,Slightly Conservative
 About Right,31,Male,33.099998,South Atlantic,Moderate
@@ -4319,7 +4319,7 @@ About Right,27,Male,34.200001,South Atlantic,Moderate
 About Right,71,Male,62.200001,E. Nor. Central,Moderate
 Too Much,50,Male,73.300003,South Atlantic,Slightly Conservative
 Too Little,70,Female,38.400002,E. Nor. Central,Conservative
-About Right,71,Male,49.299999,Mountain,Extrmly Conservative
+About Right,71,Male,49.299999,Mountain,Extremely Conservative
 Too Little,35,Male,38.900002,Pacific,Slightly Conservative
 Too Little,53,Male,76.300003,New England,Extremely Liberal
 Too Little,82,Female,38.400002,Pacific,Conservative
@@ -4354,7 +4354,7 @@ Too Little,49,Female,63.5,Pacific,Slightly Liberal
 Too Little,22,Male,28.6,Pacific,Extremely Liberal
 Too Little,33,Male,97.199997,E. Nor. Central,Liberal
 Too Much,49,Male,28.4,E. Nor. Central,Slightly Conservative
-About Right,45,Male,35.099998,Pacific,Extrmly Conservative
+About Right,45,Male,35.099998,Pacific,Extremely Conservative
 About Right,39,Male,36.5,Middle Atlantic,Conservative
 Too Little,44,Female,38.5,Middle Atlantic,Moderate
 Too Little,71,Female,38.400002,E. Nor. Central,Conservative
@@ -4434,7 +4434,7 @@ Too Little,42,Male,84,South Atlantic,Slightly Liberal
 Too Little,41,Male,63.5,Mountain,Slightly Liberal
 Too Little,67,Female,34.599998,Middle Atlantic,Slightly Liberal
 About Right,25,Male,38.900002,E. Nor. Central,Liberal
-Too Much,26,Male,34.200001,Middle Atlantic,Extrmly Conservative
+Too Much,26,Male,34.200001,Middle Atlantic,Extremely Conservative
 About Right,33,Female,33.099998,E. Nor. Central,Slightly Conservative
 Too Little,72,Female,38.400002,South Atlantic,Slightly Conservative
 Too Little,64,Male,86.5,South Atlantic,Moderate
@@ -4491,11 +4491,11 @@ Too Little,53,Female,63.200001,E. Nor. Central,Slightly Conservative
 Too Little,28,Male,62.099998,E. Nor. Central,Slightly Conservative
 About Right,30,Male,28.4,W. Nor. Central,Conservative
 Too Little,61,Female,32.299999,W. Nor. Central,Moderate
-About Right,27,Male,32.299999,W. Sou. Central,Extrmly Conservative
+About Right,27,Male,32.299999,W. Sou. Central,Extremely Conservative
 Too Little,34,Female,64.800003,South Atlantic,Liberal
 Too Little,55,Male,28.6,South Atlantic,Liberal
 Too Little,24,Male,86.5,South Atlantic,Moderate
-About Right,61,Male,37.299999,E. Sou. Central,Extrmly Conservative
+About Right,61,Male,37.299999,E. Sou. Central,Extremely Conservative
 Too Little,25,Female,37.700001,E. Nor. Central,Conservative
 About Right,43,Female,27.299999,W. Nor. Central,Slightly Conservative
 Too Much,42,Female,63.200001,Middle Atlantic,Slightly Conservative
@@ -4513,7 +4513,7 @@ Too Much,29,Female,43.700001,W. Sou. Central,Slightly Conservative
 About Right,39,Female,38.400002,South Atlantic,Slightly Conservative
 About Right,59,Female,73.199997,W. Nor. Central,Moderate
 Too Little,51,Female,73.300003,South Atlantic,Slightly Conservative
-About Right,49,Female,78.5,South Atlantic,Extrmly Conservative
+About Right,49,Female,78.5,South Atlantic,Extremely Conservative
 Too Much,67,Female,17.1,Middle Atlantic,Moderate
 About Right,40,Male,34.200001,Middle Atlantic,Moderate
 About Right,64,Female,17.6,South Atlantic,Liberal
@@ -4546,7 +4546,7 @@ Too Little,56,Male,63.5,Pacific,Extremely Liberal
 Too Little,30,Female,38.400002,Middle Atlantic,Moderate
 Too Little,44,Male,37.299999,E. Nor. Central,Moderate
 Too Little,40,Male,49.599998,South Atlantic,Moderate
-Too Much,26,Female,38.900002,W. Sou. Central,Extrmly Conservative
+Too Much,26,Female,38.900002,W. Sou. Central,Extremely Conservative
 About Right,23,Female,36.700001,E. Nor. Central,Moderate
 About Right,23,Female,33.900002,Pacific,Slightly Liberal
 About Right,34,Male,45.799999,Mountain,Slightly Conservative
@@ -4586,7 +4586,7 @@ About Right,60,Male,31.5,Middle Atlantic,Moderate
 Too Little,39,Male,32.299999,E. Nor. Central,Moderate
 About Right,44,Female,36.5,Middle Atlantic,Moderate
 About Right,44,Female,26.4,E. Sou. Central,Moderate
-About Right,43,Male,44.700001,W. Sou. Central,Extrmly Conservative
+About Right,43,Male,44.700001,W. Sou. Central,Extremely Conservative
 Too Little,67,Female,73.199997,Pacific,Conservative
 Too Little,30,Male,28.6,Mountain,Slightly Conservative
 Too Much,39,Male,29.299999,E. Nor. Central,Slightly Conservative
@@ -4682,7 +4682,7 @@ About Right,50,Female,33.099998,Middle Atlantic,Slightly Liberal
 Too Little,79,Female,29.200001,New England,Liberal
 Too Little,39,Female,20.1,South Atlantic,Liberal
 About Right,84,Male,37.299999,W. Nor. Central,Slightly Conservative
-Too Much,46,Female,38.900002,South Atlantic,Extrmly Conservative
+Too Much,46,Female,38.900002,South Atlantic,Extremely Conservative
 About Right,65,Male,37.700001,Middle Atlantic,Liberal
 About Right,36,Male,27.5,Pacific,Moderate
 Too Little,40,Female,50.700001,Pacific,Slightly Conservative
@@ -4690,7 +4690,7 @@ Too Little,23,Male,27.700001,Mountain,Moderate
 About Right,78,Female,38.400002,W. Nor. Central,Slightly Liberal
 Too Little,50,Male,32,Middle Atlantic,Liberal
 Too Little,51,Female,78.5,E. Nor. Central,Moderate
-About Right,22,Female,36.5,W. Nor. Central,Extrmly Conservative
+About Right,22,Female,36.5,W. Nor. Central,Extremely Conservative
 About Right,35,Female,73.199997,E. Nor. Central,Liberal
 Too Little,30,Female,39.400002,Middle Atlantic,Moderate
 About Right,79,Female,38.400002,Middle Atlantic,Moderate
@@ -4698,7 +4698,7 @@ About Right,46,Female,32,E. Nor. Central,Moderate
 Too Much,60,Female,26.700001,South Atlantic,Slightly Liberal
 Too Much,76,Female,33.099998,Middle Atlantic,Moderate
 About Right,71,Female,37.299999,E. Sou. Central,Conservative
-About Right,60,Male,33,E. Nor. Central,Extrmly Conservative
+About Right,60,Male,33,E. Nor. Central,Extremely Conservative
 Too Much,37,Female,67,South Atlantic,Moderate
 Too Little,47,Male,97.199997,W. Nor. Central,Moderate
 About Right,40,Female,63.5,South Atlantic,Moderate
@@ -4720,7 +4720,7 @@ Too Little,59,Male,74.400002,Middle Atlantic,Liberal
 About Right,72,Male,37.900002,Middle Atlantic,Slightly Conservative
 Too Little,37,Female,37.700001,W. Nor. Central,Slightly Liberal
 About Right,30,Male,83.699997,Middle Atlantic,Moderate
-About Right,48,Female,85.099998,South Atlantic,Extrmly Conservative
+About Right,48,Female,85.099998,South Atlantic,Extremely Conservative
 About Right,32,Female,38.400002,Mountain,Moderate
 Too Little,23,Female,28.4,W. Sou. Central,Moderate
 About Right,44,Male,74.900002,E. Nor. Central,Conservative
@@ -4739,7 +4739,7 @@ Too Little,75,Male,83.900002,Pacific,Liberal
 About Right,76,Male,37.299999,Pacific,Moderate
 About Right,47,Female,26.4,W. Nor. Central,Moderate
 About Right,26,Female,38.400002,W. Sou. Central,Slightly Conservative
-Too Much,43,Male,73.599998,W. Nor. Central,Extrmly Conservative
+Too Much,43,Male,73.599998,W. Nor. Central,Extremely Conservative
 About Right,31,Female,38.900002,E. Sou. Central,Conservative
 About Right,34,Male,83.699997,Pacific,Extremely Liberal
 About Right,27,Male,36.5,E. Sou. Central,Moderate
@@ -4753,7 +4753,7 @@ About Right,31,Male,49.900002,W. Sou. Central,Extremely Liberal
 About Right,36,Female,29.6,South Atlantic,Liberal
 About Right,53,Male,73.300003,Pacific,Moderate
 About Right,82,Female,80.300003,E. Sou. Central,Moderate
-Too Little,54,Male,39.400002,Middle Atlantic,Extrmly Conservative
+Too Little,54,Male,39.400002,Middle Atlantic,Extremely Conservative
 Too Much,39,Male,40,South Atlantic,Slightly Liberal
 About Right,61,Female,80.300003,Pacific,Slightly Conservative
 About Right,31,Male,29.299999,South Atlantic,Moderate
@@ -4782,7 +4782,7 @@ About Right,62,Male,28.4,Middle Atlantic,Moderate
 About Right,34,Female,73.599998,E. Sou. Central,Moderate
 Too Little,42,Female,92.300003,Mountain,Liberal
 About Right,50,Female,37.299999,New England,Moderate
-About Right,64,Female,64.800003,Mountain,Extrmly Conservative
+About Right,64,Female,64.800003,Mountain,Extremely Conservative
 About Right,70,Male,60.599998,Middle Atlantic,Slightly Conservative
 About Right,36,Female,73.599998,Pacific,Moderate
 About Right,75,Female,71.599998,E. Nor. Central,Moderate
@@ -4805,9 +4805,9 @@ About Right,63,Male,37.299999,E. Nor. Central,Slightly Liberal
 About Right,27,Male,63.5,South Atlantic,Moderate
 Too Little,32,Male,92.300003,E. Nor. Central,Moderate
 Too Little,48,Female,73.199997,South Atlantic,Slightly Conservative
-Too Little,26,Male,33.599998,W. Nor. Central,Extrmly Conservative
+Too Little,26,Male,33.599998,W. Nor. Central,Extremely Conservative
 About Right,48,Female,73.199997,Pacific,Moderate
-About Right,65,Female,37.400002,E. Sou. Central,Extrmly Conservative
+About Right,65,Female,37.400002,E. Sou. Central,Extremely Conservative
 Too Little,48,Male,53.700001,South Atlantic,Moderate
 Too Little,23,Female,33.900002,Middle Atlantic,Conservative
 About Right,74,Female,33.099998,Middle Atlantic,Slightly Liberal
@@ -4832,8 +4832,8 @@ About Right,50,Male,38.5,Middle Atlantic,Moderate
 Too Little,53,Female,26.700001,Middle Atlantic,Slightly Liberal
 About Right,44,Female,73.199997,W. Sou. Central,Moderate
 Too Little,60,Female,37.700001,Middle Atlantic,Moderate
-Too Little,44,Female,32.400002,E. Sou. Central,Extrmly Conservative
-About Right,51,Female,54.5,South Atlantic,Extrmly Conservative
+Too Little,44,Female,32.400002,E. Sou. Central,Extremely Conservative
+About Right,51,Female,54.5,South Atlantic,Extremely Conservative
 About Right,39,Male,63.5,South Atlantic,Slightly Conservative
 About Right,34,Male,49.400002,E. Nor. Central,Moderate
 Too Little,79,Female,38.400002,W. Sou. Central,Conservative
@@ -4865,7 +4865,7 @@ About Right,56,Female,38.400002,South Atlantic,Liberal
 Too Little,61,Male,86.599998,E. Sou. Central,Slightly Conservative
 Too Little,41,Male,83.699997,Pacific,Moderate
 About Right,80,Male,64.099998,E. Nor. Central,Moderate
-Too Much,38,Male,31.5,South Atlantic,Extrmly Conservative
+Too Much,38,Male,31.5,South Atlantic,Extremely Conservative
 About Right,58,Female,63.5,E. Nor. Central,Slightly Conservative
 About Right,38,Female,63.5,Pacific,Moderate
 Too Little,60,Male,86.800003,W. Sou. Central,Slightly Conservative
@@ -4905,7 +4905,7 @@ Too Little,51,Female,88.800003,Pacific,Moderate
 Too Little,21,Female,62.5,Middle Atlantic,Slightly Liberal
 About Right,62,Female,76.300003,South Atlantic,Liberal
 Too Little,78,Male,37.700001,E. Sou. Central,Moderate
-About Right,27,Male,35.099998,New England,Extrmly Conservative
+About Right,27,Male,35.099998,New England,Extremely Conservative
 Too Little,40,Female,76.300003,E. Nor. Central,Conservative
 Too Little,29,Male,30.1,Pacific,Moderate
 Too Little,19,Male,38.099998,E. Nor. Central,Moderate
@@ -4919,7 +4919,7 @@ About Right,66,Female,38,E. Nor. Central,Moderate
 About Right,28,Male,28.6,Mountain,Moderate
 About Right,34,Female,73.599998,E. Nor. Central,Slightly Liberal
 About Right,61,Female,37.400002,Mountain,Moderate
-Too Little,69,Female,37.599998,South Atlantic,Extrmly Conservative
+Too Little,69,Female,37.599998,South Atlantic,Extremely Conservative
 Too Much,67,Male,42.200001,South Atlantic,Slightly Liberal
 About Right,20,Female,38.900002,E. Nor. Central,Moderate
 Too Little,48,Female,81,E. Nor. Central,Moderate
@@ -4932,7 +4932,7 @@ Too Little,55,Female,38.5,Middle Atlantic,Slightly Liberal
 Too Little,61,Male,22.9,E. Sou. Central,Moderate
 Too Little,71,Female,25.5,Middle Atlantic,Moderate
 Too Little,42,Female,33.900002,South Atlantic,Slightly Conservative
-About Right,68,Female,22.6,E. Sou. Central,Extrmly Conservative
+About Right,68,Female,22.6,E. Sou. Central,Extremely Conservative
 Too Little,40,Male,32.299999,E. Nor. Central,Moderate
 About Right,78,Male,38.099998,South Atlantic,Slightly Liberal
 About Right,26,Male,33.900002,W. Sou. Central,Moderate
@@ -4952,7 +4952,7 @@ Too Much,29,Female,50.299999,E. Nor. Central,Moderate
 Too Little,53,Female,33.099998,W. Sou. Central,Moderate
 Too Little,53,Male,28.4,New England,Liberal
 About Right,53,Female,67,W. Sou. Central,Conservative
-Too Little,61,Male,31.5,South Atlantic,Extrmly Conservative
+Too Little,61,Male,31.5,South Atlantic,Extremely Conservative
 Too Much,73,Male,86.599998,Pacific,Moderate
 Too Little,46,Female,33.099998,South Atlantic,Moderate
 Too Little,41,Female,76.400002,Middle Atlantic,Conservative
@@ -4984,10 +4984,10 @@ About Right,36,Male,63.200001,W. Sou. Central,Slightly Conservative
 About Right,73,Male,32.299999,W. Sou. Central,Liberal
 About Right,71,Female,51.799999,Middle Atlantic,Conservative
 Too Little,41,Female,83.699997,Mountain,Slightly Liberal
-About Right,50,Female,33.099998,E. Nor. Central,Extrmly Conservative
+About Right,50,Female,33.099998,E. Nor. Central,Extremely Conservative
 About Right,27,Female,63.200001,Middle Atlantic,Moderate
 Too Much,89,Female,54.200001,E. Nor. Central,Extremely Liberal
-About Right,43,Female,64.199997,South Atlantic,Extrmly Conservative
+About Right,43,Female,64.199997,South Atlantic,Extremely Conservative
 Too Little,26,Male,67,W. Sou. Central,Liberal
 About Right,48,Male,31.5,E. Sou. Central,Moderate
 Too Much,77,Female,38.400002,W. Nor. Central,Moderate
