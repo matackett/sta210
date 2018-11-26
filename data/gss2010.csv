@@ -1,0 +1,1732 @@
+caseid,age,sex,sei,region,polviews,natmass
+53044,31,Male,76.400002,Middle Atlantic,Slightly Liberal,About Right
+53045,23,Female,85.099998,Middle Atlantic,Liberal,Too Little
+53048,78,Female,29.4,Middle Atlantic,Slightly Liberal,About Right
+53049,40,Male,32.299999,Middle Atlantic,Slightly Liberal,Too Little
+53050,46,Female,63.5,Middle Atlantic,Slightly Conservative,Too Little
+53051,80,Female,73.199997,Middle Atlantic,Moderate,About Right
+53054,31,Female,34.400002,Middle Atlantic,Liberal,Too Much
+53056,58,Male,28.4,Middle Atlantic,Extremely Liberal,Too Little
+53058,57,Female,28.4,Middle Atlantic,Conservative,About Right
+53059,28,Female,22.5,Middle Atlantic,Slightly Liberal,Too Little
+53060,80,Female,38.400002,Middle Atlantic,Conservative,Too Little
+53063,35,Male,48.799999,Middle Atlantic,Slightly Liberal,Too Little
+53064,49,Male,44.700001,Middle Atlantic,Slightly Conservative,About Right
+53065,56,Male,33.200001,Middle Atlantic,Slightly Liberal,Too Little
+53068,35,Female,37.400002,Middle Atlantic,Liberal,Too Little
+53069,26,Female,50.700001,Middle Atlantic,Slightly Conservative,Too Little
+53071,21,Female,29.1,Middle Atlantic,Slightly Liberal,Too Little
+53072,33,Female,37.700001,Middle Atlantic,Moderate,Too Little
+53073,53,Female,72.5,Middle Atlantic,Slightly Liberal,Too Little
+53074,63,Female,72.5,Middle Atlantic,Liberal,Too Little
+53075,34,Male,82.699997,Middle Atlantic,Liberal,Too Little
+53076,75,Male,84.699997,Middle Atlantic,Moderate,Too Little
+53077,78,Female,63.5,Middle Atlantic,Moderate,Too Little
+53078,57,Male,63.5,Middle Atlantic,Slightly Conservative,About Right
+53080,84,Female,62.5,Middle Atlantic,Liberal,Too Little
+53081,53,Male,53.700001,Middle Atlantic,Slightly Conservative,Too Little
+53082,83,Female,42.299999,Middle Atlantic,Liberal,Too Little
+53084,24,Male,72.5,Middle Atlantic,Liberal,Too Little
+53085,33,Male,78.5,Middle Atlantic,Liberal,Too Little
+53086,23,Female,28.4,Middle Atlantic,Slightly Conservative,Too Little
+53087,25,Male,60.599998,Middle Atlantic,Liberal,Too Much
+53089,20,Male,38.900002,Middle Atlantic,Moderate,Too Little
+53090,37,Female,42.5,Middle Atlantic,Liberal,Too Little
+53092,45,Male,38.5,New England,Moderate,About Right
+53093,40,Female,26.4,New England,Liberal,About Right
+53094,80,Male,69.199997,New England,Moderate,Too Little
+53095,60,Male,86.599998,New England,Conservative,Too Much
+53096,49,Male,83.699997,New England,Slightly Conservative,About Right
+53097,22,Female,63.200001,New England,Extremely Liberal,About Right
+53098,63,Female,78.5,New England,Moderate,Too Little
+53099,72,Male,37.900002,Middle Atlantic,Slightly Conservative,About Right
+53100,42,Female,31.200001,Middle Atlantic,Slightly Liberal,About Right
+53102,21,Female,41.599998,Middle Atlantic,Conservative,About Right
+53103,26,Female,63.5,Middle Atlantic,Slightly Conservative,About Right
+53104,31,Male,63.5,Middle Atlantic,Moderate,Too Much
+53105,41,Female,22.700001,Middle Atlantic,Moderate,Too Little
+53108,34,Male,38.900002,Middle Atlantic,Moderate,Too Little
+53109,44,Female,73.599998,Middle Atlantic,Conservative,About Right
+53110,45,Male,38.099998,Middle Atlantic,Slightly Conservative,About Right
+53111,28,Male,38.099998,Middle Atlantic,Moderate,Too Much
+53112,46,Male,66.099998,Middle Atlantic,Moderate,About Right
+53113,50,Female,51.900002,Middle Atlantic,Liberal,About Right
+53114,40,Male,38.200001,Middle Atlantic,Conservative,Too Much
+53115,42,Female,85.099998,Middle Atlantic,Liberal,Too Little
+53117,53,Male,50.700001,Middle Atlantic,Moderate,About Right
+53118,39,Female,32.400002,Middle Atlantic,Slightly Conservative,About Right
+53119,40,Female,33.099998,Middle Atlantic,Conservative,About Right
+53120,44,Female,73.199997,Middle Atlantic,Liberal,About Right
+53121,58,Male,60.599998,Middle Atlantic,Conservative,About Right
+53122,46,Male,50.700001,Middle Atlantic,Moderate,About Right
+53123,66,Female,65.199997,Middle Atlantic,Conservative,Too Little
+53124,48,Female,74.400002,Middle Atlantic,Slightly Liberal,About Right
+53125,88,Male,31.5,Middle Atlantic,Moderate,About Right
+53126,45,Female,64.199997,Middle Atlantic,Moderate,Too Much
+53127,38,Male,38.5,Middle Atlantic,Moderate,About Right
+53128,22,Female,82.699997,Middle Atlantic,Moderate,About Right
+53129,23,Male,63.5,Middle Atlantic,Slightly Liberal,Too Little
+53130,41,Female,73.199997,Middle Atlantic,Slightly Liberal,About Right
+53131,23,Female,78.5,Middle Atlantic,Moderate,About Right
+53132,60,Male,42.200001,Middle Atlantic,Moderate,About Right
+53133,80,Female,61.900002,Middle Atlantic,Slightly Conservative,Too Little
+53134,56,Female,38.900002,Middle Atlantic,Moderate,Too Little
+53135,43,Female,37.700001,Middle Atlantic,Moderate,About Right
+53138,39,Female,29.299999,Middle Atlantic,Moderate,About Right
+53139,20,Male,34.799999,Middle Atlantic,Liberal,Too Little
+53140,55,Male,63.5,Middle Atlantic,Moderate,About Right
+53141,45,Female,38.400002,Middle Atlantic,Liberal,About Right
+53143,69,Female,62.5,Middle Atlantic,Moderate,Too Little
+53145,31,Male,28.4,Middle Atlantic,Moderate,Too Little
+53147,50,Female,54.700001,Middle Atlantic,Slightly Liberal,About Right
+53148,51,Male,63.5,Middle Atlantic,Moderate,About Right
+53149,68,Female,63.5,Middle Atlantic,Moderate,Too Little
+53151,50,Female,44.400002,Middle Atlantic,Moderate,Too Little
+53152,51,Female,63.200001,Middle Atlantic,Moderate,Too Little
+53156,64,Male,63.200001,Middle Atlantic,Liberal,Too Little
+53157,44,Female,32.400002,Middle Atlantic,Conservative,Too Much
+53158,40,Male,80.300003,Middle Atlantic,Slightly Conservative,Too Little
+53159,59,Male,63.5,Middle Atlantic,Conservative,About Right
+53160,36,Male,60.5,Middle Atlantic,Conservative,About Right
+53161,65,Female,63.5,Middle Atlantic,Extremely Liberal,Too Little
+53162,46,Female,66.099998,Middle Atlantic,Conservative,Too Little
+53163,33,Female,27.5,Pacific,Moderate,Too Little
+53166,36,Male,63.5,Pacific,Liberal,About Right
+53168,32,Female,65.800003,Pacific,Slightly Liberal,About Right
+53169,68,Male,64.199997,Pacific,Slightly Conservative,About Right
+53170,63,Male,63.5,Pacific,Liberal,Too Little
+53171,80,Female,78.5,Pacific,Slightly Liberal,Too Little
+53172,72,Male,63.5,Pacific,Moderate,Too Little
+53173,24,Male,28.6,Pacific,Conservative,Too Little
+53175,45,Male,64.199997,Pacific,Moderate,About Right
+53176,52,Male,21.200001,Pacific,Conservative,About Right
+53177,49,Male,63.5,Pacific,Moderate,Too Little
+53179,42,Male,29.200001,Pacific,Moderate,About Right
+53180,37,Female,26.4,Pacific,Conservative,About Right
+53181,35,Female,33.099998,Pacific,Extremely Liberal,Too Little
+53182,51,Male,63.200001,Pacific,Conservative,Too Little
+53183,66,Male,50.700001,Pacific,Slightly Conservative,Too Little
+53184,28,Male,67,Pacific,Conservative,Too Much
+53186,47,Male,64.099998,Pacific,Extremely Liberal,Too Little
+53187,48,Male,67,Pacific,Slightly Conservative,Too Little
+53188,49,Female,96,Pacific,Slightly Conservative,About Right
+53190,70,Female,29.299999,Pacific,Moderate,Too Little
+53191,42,Male,31.4,Pacific,Slightly Liberal,About Right
+53192,35,Male,31.4,Pacific,Extrmly Conservative,Too Little
+53194,68,Male,38.900002,Pacific,Slightly Liberal,Too Little
+53195,34,Male,87.900002,Pacific,Slightly Conservative,About Right
+53196,30,Male,38.799999,Pacific,Liberal,About Right
+53197,25,Male,27.5,Pacific,Moderate,Too Little
+53198,36,Male,28.6,Pacific,Liberal,About Right
+53199,54,Female,64.800003,Pacific,Slightly Conservative,About Right
+53203,29,Male,76.400002,Pacific,Conservative,Too Little
+53204,20,Female,34.400002,Pacific,Slightly Conservative,About Right
+53205,41,Female,38.400002,Pacific,Moderate,About Right
+53206,40,Female,60.599998,Pacific,Liberal,Too Little
+53207,71,Male,81,Pacific,Conservative,About Right
+53208,23,Male,50.700001,Pacific,Liberal,About Right
+53209,49,Male,63.200001,Pacific,Slightly Liberal,About Right
+53210,44,Male,33.200001,Pacific,Moderate,Too Little
+53212,24,Male,44.700001,Pacific,Slightly Liberal,Too Little
+53213,29,Male,64.099998,Pacific,Slightly Liberal,Too Little
+53214,56,Female,63.5,Pacific,Slightly Liberal,Too Little
+53215,24,Male,31.4,Pacific,Moderate,Too Much
+53216,60,Male,63.5,Pacific,Slightly Liberal,Too Little
+53217,52,Male,43.400002,Pacific,Conservative,Too Little
+53218,51,Female,45.400002,Pacific,Moderate,About Right
+53219,64,Female,33.900002,Pacific,Moderate,About Right
+53220,23,Female,38.400002,Pacific,Liberal,About Right
+53221,46,Male,29.5,Pacific,Slightly Liberal,Too Little
+53222,34,Male,32.900002,Pacific,Liberal,Too Little
+53223,29,Female,56.599998,Pacific,Moderate,About Right
+53224,28,Female,76.5,Pacific,Liberal,Too Little
+53225,39,Female,50.700001,Pacific,Conservative,About Right
+53226,33,Male,85.099998,Pacific,Liberal,About Right
+53227,24,Female,28.4,Pacific,Extremely Liberal,Too Little
+53228,34,Female,85.099998,Pacific,Moderate,About Right
+53229,24,Male,47,Pacific,Liberal,Too Little
+53230,30,Male,44.200001,Pacific,Moderate,About Right
+53231,25,Male,50.5,Pacific,Extremely Liberal,Too Little
+53232,41,Female,64.099998,Pacific,Slightly Liberal,Too Little
+53233,37,Male,86,Pacific,Moderate,About Right
+53234,48,Female,63.5,Pacific,Liberal,Too Little
+53235,28,Male,63.5,Pacific,Extremely Liberal,Too Little
+53236,30,Female,87,Pacific,Moderate,About Right
+53237,34,Female,84,Pacific,Slightly Conservative,About Right
+53238,67,Male,37.299999,Pacific,Conservative,Too Much
+53239,64,Female,78.5,Pacific,Slightly Liberal,About Right
+53240,80,Male,63.200001,Pacific,Conservative,About Right
+53241,52,Male,63.5,Pacific,Moderate,About Right
+53242,29,Female,50.5,E. Nor. Central,Moderate,About Right
+53244,42,Female,80.900002,E. Nor. Central,Liberal,Too Little
+53245,89,Female,78.5,E. Nor. Central,Moderate,Too Little
+53246,61,Female,32.099998,E. Nor. Central,Slightly Liberal,About Right
+53248,44,Male,31.4,E. Nor. Central,Moderate,Too Little
+53249,60,Female,73.199997,E. Nor. Central,Moderate,Too Little
+53250,28,Male,34.299999,E. Nor. Central,Conservative,Too Little
+53251,27,Male,63.5,E. Nor. Central,Moderate,Too Little
+53252,38,Male,84.699997,E. Nor. Central,Liberal,Too Little
+53253,34,Female,26.4,E. Nor. Central,Slightly Liberal,Too Little
+53255,35,Female,28.4,E. Nor. Central,Moderate,About Right
+53256,29,Female,33.099998,E. Nor. Central,Slightly Conservative,Too Little
+53257,32,Female,25.299999,E. Nor. Central,Extrmly Conservative,About Right
+53258,63,Female,69.199997,E. Nor. Central,Liberal,Too Much
+53259,80,Female,37.700001,E. Nor. Central,Slightly Liberal,About Right
+53260,52,Male,29.299999,E. Nor. Central,Conservative,About Right
+53261,25,Female,73.300003,E. Nor. Central,Liberal,About Right
+53262,70,Female,38.400002,E. Nor. Central,Conservative,Too Little
+53263,35,Male,82.699997,E. Nor. Central,Moderate,About Right
+53264,41,Female,73.199997,E. Nor. Central,Liberal,About Right
+53265,24,Female,50.5,E. Nor. Central,Liberal,About Right
+53266,60,Male,83.699997,E. Nor. Central,Liberal,Too Little
+53267,55,Male,51.900002,E. Nor. Central,Moderate,Too Much
+53269,68,Female,78.5,E. Nor. Central,Slightly Liberal,Too Little
+53270,22,Female,40,E. Nor. Central,Liberal,Too Little
+53271,58,Male,86,E. Nor. Central,Liberal,Too Little
+53272,55,Male,63.5,E. Nor. Central,Slightly Conservative,Too Little
+53273,75,Male,50.700001,E. Nor. Central,Moderate,Too Little
+53274,66,Male,50.700001,E. Nor. Central,Moderate,Too Little
+53275,76,Female,38.400002,E. Nor. Central,Moderate,Too Little
+53276,79,Male,62,E. Nor. Central,Extrmly Conservative,About Right
+53277,29,Female,63.5,E. Nor. Central,Moderate,Too Little
+53278,60,Female,73.199997,E. Nor. Central,Extremely Liberal,Too Little
+53279,36,Female,63.5,E. Nor. Central,Moderate,Too Little
+53280,75,Male,63.5,E. Nor. Central,Conservative,About Right
+53281,48,Female,38.900002,E. Nor. Central,Slightly Liberal,Too Little
+53282,35,Female,64.199997,E. Nor. Central,Moderate,About Right
+53283,54,Male,50.700001,E. Nor. Central,Moderate,About Right
+53284,45,Male,41.599998,E. Nor. Central,Moderate,Too Little
+53285,58,Female,73.800003,E. Nor. Central,Moderate,Too Little
+53286,46,Female,42.200001,E. Nor. Central,Moderate,Too Much
+53287,36,Female,38.900002,E. Nor. Central,Moderate,Too Little
+53288,58,Female,68.099998,E. Nor. Central,Moderate,About Right
+53289,40,Female,78.5,E. Nor. Central,Moderate,About Right
+53290,44,Female,57.099998,E. Nor. Central,Moderate,About Right
+53291,59,Male,62.5,E. Nor. Central,Slightly Conservative,Too Little
+53292,80,Female,37.700001,E. Nor. Central,Slightly Conservative,Too Little
+53294,76,Female,31.4,E. Nor. Central,Liberal,About Right
+53295,65,Female,38.400002,E. Nor. Central,Conservative,About Right
+53296,43,Female,78.5,E. Nor. Central,Moderate,About Right
+53297,73,Female,41.299999,Pacific,Moderate,About Right
+53298,27,Female,32.400002,Pacific,Liberal,About Right
+53299,73,Male,64,Pacific,Slightly Conservative,Too Little
+53300,60,Female,87.900002,Pacific,Liberal,Too Little
+53301,42,Female,38,Pacific,Slightly Liberal,About Right
+53302,51,Male,80.900002,Pacific,Moderate,About Right
+53303,21,Male,37.5,Pacific,Liberal,About Right
+53305,45,Female,74.900002,Pacific,Moderate,Too Little
+53306,35,Female,36.5,Pacific,Moderate,About Right
+53307,79,Female,64.199997,Pacific,Conservative,About Right
+53308,67,Male,85.099998,Pacific,Slightly Liberal,About Right
+53309,19,Female,33.099998,Pacific,Liberal,Too Little
+53310,76,Male,81,Pacific,Conservative,Too Much
+53311,70,Female,63.5,Pacific,Liberal,Too Little
+53312,60,Male,50.700001,Pacific,Liberal,Too Little
+53313,47,Male,86.900002,Pacific,Moderate,Too Little
+53314,57,Female,84.699997,Pacific,Slightly Liberal,Too Little
+53316,43,Male,83.699997,Pacific,Slightly Conservative,Too Little
+53317,45,Female,73.300003,Pacific,Slightly Liberal,Too Little
+53318,29,Female,63.5,Pacific,Liberal,Too Little
+53319,38,Male,28.4,Pacific,Moderate,About Right
+53320,25,Female,38.400002,Pacific,Liberal,About Right
+53321,37,Female,74.400002,Pacific,Liberal,About Right
+53322,63,Female,63.5,Pacific,Slightly Liberal,Too Little
+53323,62,Male,64.099998,Pacific,Moderate,Too Little
+53324,28,Male,73.300003,Pacific,Moderate,About Right
+53325,61,Male,29.200001,Pacific,Liberal,Too Little
+53326,47,Male,63.200001,Pacific,Slightly Conservative,Too Much
+53327,55,Male,73.199997,Pacific,Moderate,Too Little
+53328,48,Female,50.5,Pacific,Moderate,Too Little
+53329,49,Male,48.5,Pacific,Slightly Conservative,About Right
+53330,20,Male,78.5,Pacific,Slightly Liberal,Too Little
+53331,24,Male,31.4,Pacific,Moderate,About Right
+53332,24,Male,37.700001,Pacific,Slightly Conservative,About Right
+53333,26,Female,40.200001,Pacific,Liberal,Too Little
+53335,48,Male,90.300003,Pacific,Liberal,About Right
+53336,54,Female,64.199997,Pacific,Slightly Liberal,Too Little
+53337,64,Female,71.599998,Pacific,Extremely Liberal,Too Little
+53340,30,Male,30,Pacific,Moderate,Too Little
+53341,53,Female,33.099998,Pacific,Extrmly Conservative,About Right
+53342,39,Male,29.200001,Pacific,Slightly Conservative,About Right
+53343,39,Male,34.299999,Pacific,Moderate,About Right
+53344,50,Male,51,Pacific,Moderate,About Right
+53345,65,Male,90.099998,Pacific,Conservative,Too Little
+53346,51,Female,69.699997,Pacific,Slightly Conservative,About Right
+53347,29,Male,30.1,Pacific,Moderate,Too Little
+53349,50,Male,31.299999,Pacific,Moderate,About Right
+53350,72,Female,38,Pacific,Moderate,Too Little
+53351,68,Male,31.5,Pacific,Moderate,About Right
+53352,41,Male,34.200001,Pacific,Moderate,Too Little
+53353,63,Male,96,Pacific,Conservative,About Right
+53354,62,Male,63.5,Pacific,Slightly Conservative,Too Little
+53355,52,Female,63.5,Pacific,Extremely Liberal,About Right
+53356,39,Female,83.699997,Pacific,Slightly Liberal,Too Little
+53357,46,Male,50.700001,Pacific,Liberal,About Right
+53358,19,Male,28.6,Pacific,Moderate,About Right
+53359,45,Male,37.299999,Pacific,Moderate,Too Little
+53360,72,Male,86.800003,Middle Atlantic,Conservative,Too Little
+53362,26,Female,33.099998,Middle Atlantic,Moderate,About Right
+53363,48,Male,78.5,Middle Atlantic,Liberal,Too Little
+53364,65,Male,69.199997,Middle Atlantic,Moderate,Too Little
+53365,79,Female,31.200001,Middle Atlantic,Liberal,Too Much
+53366,82,Male,46.700001,Middle Atlantic,Liberal,Too Little
+53367,51,Male,28.4,Middle Atlantic,Slightly Conservative,About Right
+53368,38,Female,38.5,Middle Atlantic,Slightly Liberal,About Right
+53369,46,Female,54.700001,Middle Atlantic,Conservative,Too Little
+53370,47,Male,26.700001,Middle Atlantic,Slightly Liberal,About Right
+53371,40,Female,50.5,Middle Atlantic,Conservative,About Right
+53372,56,Male,53.900002,South Atlantic,Moderate,Too Little
+53373,79,Female,33.900002,South Atlantic,Moderate,About Right
+53374,43,Female,33.099998,Middle Atlantic,Liberal,Too Little
+53375,37,Female,28.4,Middle Atlantic,Slightly Conservative,About Right
+53376,30,Female,33.299999,Middle Atlantic,Moderate,About Right
+53377,29,Male,27.5,Middle Atlantic,Slightly Liberal,About Right
+53378,79,Female,29,Middle Atlantic,Liberal,Too Much
+53379,71,Male,51,Middle Atlantic,Moderate,About Right
+53381,40,Female,50.5,Middle Atlantic,Liberal,Too Much
+53382,27,Male,66.099998,Middle Atlantic,Conservative,About Right
+53383,85,Female,44.299999,Middle Atlantic,Slightly Liberal,Too Little
+53384,62,Female,87,Middle Atlantic,Extrmly Conservative,Too Little
+53385,29,Female,64.800003,Middle Atlantic,Conservative,About Right
+53386,30,Male,29.200001,Middle Atlantic,Liberal,Too Little
+53387,28,Female,69.199997,Middle Atlantic,Extremely Liberal,About Right
+53389,27,Female,63.200001,Middle Atlantic,Moderate,About Right
+53391,35,Female,81,Middle Atlantic,Extrmly Conservative,About Right
+53392,32,Male,29.200001,Middle Atlantic,Conservative,Too Little
+53393,67,Female,50.5,Middle Atlantic,Liberal,Too Little
+53394,69,Female,33.099998,Middle Atlantic,Slightly Conservative,About Right
+53395,55,Male,64.099998,Middle Atlantic,Conservative,About Right
+53396,40,Female,74.400002,Middle Atlantic,Moderate,About Right
+53397,81,Male,93.699997,Middle Atlantic,Liberal,Too Little
+53398,56,Female,63.5,Middle Atlantic,Conservative,About Right
+53399,19,Male,34.799999,Middle Atlantic,Moderate,About Right
+53400,25,Female,63.5,Middle Atlantic,Slightly Conservative,Too Little
+53401,27,Male,65.800003,Middle Atlantic,Slightly Conservative,About Right
+53403,35,Female,80.300003,Middle Atlantic,Slightly Liberal,About Right
+53404,51,Male,63.5,Middle Atlantic,Slightly Conservative,About Right
+53406,50,Male,64.199997,South Atlantic,Moderate,Too Little
+53407,53,Female,45.400002,South Atlantic,Slightly Liberal,Too Little
+53408,53,Female,22.5,South Atlantic,Moderate,About Right
+53410,40,Female,37.299999,South Atlantic,Slightly Conservative,Too Little
+53411,59,Male,63.5,South Atlantic,Slightly Liberal,Too Little
+53413,55,Male,35.400002,South Atlantic,Liberal,Too Little
+53414,29,Male,34.299999,South Atlantic,Slightly Conservative,Too Much
+53416,77,Male,31.5,South Atlantic,Extremely Liberal,Too Little
+53417,43,Male,31.5,South Atlantic,Conservative,Too Little
+53418,45,Female,37.599998,South Atlantic,Moderate,Too Much
+53420,54,Male,31.4,South Atlantic,Conservative,Too Little
+53421,46,Female,69.199997,South Atlantic,Moderate,About Right
+53422,40,Male,36.700001,South Atlantic,Moderate,About Right
+53423,72,Male,30.1,South Atlantic,Liberal,Too Little
+53424,60,Female,22.700001,South Atlantic,Conservative,About Right
+53425,81,Male,36.400002,South Atlantic,Slightly Liberal,Too Little
+53426,30,Female,50.700001,South Atlantic,Slightly Liberal,Too Little
+53427,41,Female,29.299999,South Atlantic,Slightly Conservative,Too Little
+53428,38,Female,53.299999,South Atlantic,Moderate,Too Little
+53429,70,Female,33.599998,E. Nor. Central,Moderate,About Right
+53430,54,Male,63.5,E. Nor. Central,Slightly Conservative,Too Little
+53432,65,Male,50.700001,E. Nor. Central,Slightly Liberal,Too Little
+53433,20,Female,33.099998,E. Nor. Central,Moderate,About Right
+53434,43,Female,50.5,E. Nor. Central,Moderate,Too Much
+53435,48,Female,48.5,E. Nor. Central,Liberal,About Right
+53436,59,Male,50.5,E. Nor. Central,Slightly Conservative,Too Little
+53437,43,Male,50.700001,E. Nor. Central,Extrmly Conservative,About Right
+53439,67,Male,76.400002,E. Nor. Central,Slightly Conservative,Too Little
+53440,56,Female,37.700001,E. Nor. Central,Slightly Liberal,Too Much
+53441,65,Female,31.200001,E. Nor. Central,Extrmly Conservative,Too Little
+53442,21,Female,38.900002,E. Nor. Central,Conservative,About Right
+53444,54,Female,29.299999,E. Nor. Central,Extremely Liberal,Too Little
+53445,62,Female,39.400002,E. Nor. Central,Extremely Liberal,Too Little
+53447,47,Male,29,E. Nor. Central,Moderate,Too Little
+53448,50,Male,27.5,E. Nor. Central,Moderate,About Right
+53449,51,Female,29.299999,E. Nor. Central,Moderate,Too Little
+53450,54,Male,33.599998,E. Nor. Central,Slightly Liberal,Too Little
+53452,21,Male,87.900002,E. Nor. Central,Liberal,About Right
+53453,45,Male,28.4,E. Nor. Central,Extrmly Conservative,Too Little
+53454,62,Male,92.300003,E. Nor. Central,Moderate,About Right
+53456,70,Female,50.700001,E. Nor. Central,Slightly Conservative,About Right
+53457,28,Male,92.300003,W. Sou. Central,Slightly Conservative,Too Little
+53458,44,Female,85.099998,W. Sou. Central,Moderate,Too Little
+53459,33,Male,28.200001,W. Sou. Central,Slightly Liberal,Too Little
+53460,25,Female,27.5,W. Sou. Central,Slightly Liberal,Too Little
+53461,26,Male,31.5,W. Sou. Central,Moderate,About Right
+53463,29,Male,32.299999,W. Sou. Central,Liberal,About Right
+53464,62,Male,56.5,W. Sou. Central,Extremely Liberal,Too Little
+53465,86,Male,38.900002,W. Sou. Central,Slightly Conservative,Too Much
+53466,43,Female,33.099998,W. Sou. Central,Liberal,About Right
+53467,34,Female,39.400002,W. Sou. Central,Extrmly Conservative,Too Little
+53468,45,Male,37.599998,W. Sou. Central,Slightly Liberal,About Right
+53469,22,Male,40,W. Sou. Central,Extrmly Conservative,Too Much
+53470,37,Male,32.299999,W. Sou. Central,Extrmly Conservative,About Right
+53471,29,Female,30.799999,W. Sou. Central,Extrmly Conservative,About Right
+53472,37,Female,64.800003,W. Sou. Central,Conservative,Too Little
+53473,37,Female,51.900002,W. Sou. Central,Conservative,Too Little
+53474,69,Female,63.5,W. Sou. Central,Slightly Liberal,About Right
+53475,56,Male,34.200001,W. Sou. Central,Conservative,Too Much
+53476,37,Female,64.199997,W. Sou. Central,Slightly Conservative,About Right
+53477,35,Female,18.5,W. Sou. Central,Conservative,Too Little
+53478,26,Female,49.700001,W. Sou. Central,Liberal,Too Little
+53479,38,Female,32.400002,W. Sou. Central,Moderate,About Right
+53480,52,Female,39.400002,W. Sou. Central,Moderate,About Right
+53481,54,Male,37.799999,W. Sou. Central,Moderate,About Right
+53482,23,Male,29.4,W. Sou. Central,Moderate,About Right
+53484,50,Female,28.4,W. Sou. Central,Moderate,Too Little
+53485,48,Female,63.5,South Atlantic,Liberal,Too Little
+53486,56,Female,38.5,South Atlantic,Conservative,Too Much
+53487,59,Male,62.5,South Atlantic,Moderate,About Right
+53488,74,Female,71.599998,South Atlantic,Liberal,Too Little
+53489,27,Female,64.400002,South Atlantic,Extremely Liberal,About Right
+53490,33,Male,31.200001,South Atlantic,Slightly Conservative,Too Little
+53491,60,Female,63.5,South Atlantic,Liberal,Too Little
+53492,51,Male,66.099998,South Atlantic,Liberal,Too Little
+53493,52,Female,43.700001,South Atlantic,Extremely Liberal,Too Much
+53494,41,Male,62.099998,South Atlantic,Moderate,About Right
+53495,32,Female,22.9,South Atlantic,Slightly Liberal,About Right
+53496,57,Male,56.5,South Atlantic,Liberal,Too Little
+53497,59,Male,31.4,South Atlantic,Moderate,About Right
+53498,77,Female,63.5,South Atlantic,Extremely Liberal,Too Little
+53499,81,Female,30.700001,South Atlantic,Liberal,About Right
+53500,33,Female,28.4,South Atlantic,Slightly Conservative,Too Much
+53501,43,Female,56.599998,South Atlantic,Liberal,Too Little
+53502,65,Female,32.299999,South Atlantic,Moderate,About Right
+53503,44,Female,78.5,South Atlantic,Moderate,About Right
+53504,61,Female,80.300003,South Atlantic,Conservative,Too Little
+53505,33,Male,66.099998,South Atlantic,Moderate,About Right
+53506,46,Male,35.700001,South Atlantic,Moderate,Too Little
+53508,42,Female,92.300003,South Atlantic,Liberal,Too Little
+53509,46,Female,62.5,South Atlantic,Slightly Conservative,About Right
+53510,61,Male,38.400002,South Atlantic,Slightly Conservative,Too Little
+53512,40,Male,63.5,W. Sou. Central,Moderate,Too Little
+53513,47,Female,74.400002,W. Sou. Central,Slightly Conservative,Too Little
+53514,66,Female,78.5,W. Sou. Central,Extremely Liberal,Too Little
+53516,35,Male,38.200001,W. Sou. Central,Liberal,Too Much
+53517,53,Male,31.5,W. Sou. Central,Moderate,About Right
+53518,31,Male,49.900002,W. Sou. Central,Moderate,Too Little
+53519,23,Female,79.800003,W. Sou. Central,Slightly Liberal,About Right
+53520,67,Male,48.599998,W. Sou. Central,Moderate,About Right
+53522,62,Male,88.900002,W. Sou. Central,Slightly Liberal,Too Little
+53523,62,Female,64.800003,W. Sou. Central,Moderate,Too Little
+53524,45,Male,38.099998,W. Sou. Central,Moderate,Too Little
+53525,20,Female,46.799999,W. Sou. Central,Liberal,About Right
+53526,31,Female,32.400002,W. Sou. Central,Moderate,About Right
+53527,60,Male,50.700001,W. Sou. Central,Slightly Conservative,About Right
+53528,35,Female,60.599998,W. Sou. Central,Liberal,Too Little
+53529,20,Female,84.699997,W. Sou. Central,Moderate,About Right
+53530,33,Female,29.4,W. Sou. Central,Moderate,Too Much
+53531,33,Male,31.5,W. Sou. Central,Liberal,About Right
+53533,39,Male,50.700001,W. Sou. Central,Conservative,Too Little
+53534,21,Female,39.599998,W. Sou. Central,Moderate,Too Little
+53536,23,Female,29.299999,W. Sou. Central,Moderate,Too Much
+53537,63,Female,36.5,W. Sou. Central,Liberal,About Right
+53538,31,Female,38.400002,W. Sou. Central,Moderate,About Right
+53539,86,Female,43.700001,W. Sou. Central,Slightly Conservative,About Right
+53540,25,Male,34.200001,W. Sou. Central,Conservative,About Right
+53541,61,Male,63.5,W. Sou. Central,Conservative,Too Little
+53542,63,Female,73.199997,W. Sou. Central,Conservative,Too Little
+53543,39,Male,63.5,New England,Slightly Conservative,About Right
+53544,61,Male,37.900002,New England,Slightly Liberal,About Right
+53546,50,Female,64.800003,New England,Moderate,About Right
+53547,37,Female,75.199997,New England,Liberal,Too Little
+53548,50,Female,29.299999,New England,Liberal,About Right
+53549,50,Male,59.099998,New England,Liberal,Too Little
+53551,40,Male,32.299999,New England,Extremely Liberal,Too Little
+53552,56,Female,25.5,New England,Moderate,About Right
+53553,49,Male,48.5,New England,Slightly Conservative,Too Little
+53554,68,Male,63.5,New England,Extrmly Conservative,Too Much
+53555,53,Male,73.599998,New England,Moderate,About Right
+53556,59,Female,26.4,New England,Slightly Liberal,About Right
+53557,66,Female,60.599998,New England,Slightly Liberal,Too Little
+53558,59,Male,53.299999,New England,Moderate,Too Little
+53560,70,Male,61.900002,New England,Slightly Conservative,Too Little
+53561,53,Female,38.5,New England,Moderate,Too Little
+53562,31,Female,33.099998,New England,Slightly Liberal,Too Much
+53563,36,Female,28.4,New England,Liberal,Too Little
+53564,84,Male,63.5,New England,Slightly Conservative,Too Much
+53565,62,Female,39.599998,New England,Slightly Liberal,Too Little
+53566,71,Male,32.299999,New England,Conservative,Too Much
+53567,41,Female,63.5,New England,Moderate,About Right
+53568,56,Female,31.4,New England,Conservative,Too Little
+53569,44,Male,63.5,New England,Extrmly Conservative,About Right
+53571,26,Female,39.599998,New England,Conservative,Too Much
+53572,39,Male,63.5,New England,Conservative,Too Little
+53573,41,Female,67,New England,Moderate,About Right
+53574,25,Male,63.200001,South Atlantic,Extrmly Conservative,Too Little
+53576,55,Female,63.5,South Atlantic,Slightly Liberal,Too Little
+53577,21,Female,26.4,South Atlantic,Moderate,Too Little
+53578,21,Male,38.900002,South Atlantic,Liberal,About Right
+53579,41,Female,63.5,South Atlantic,Moderate,About Right
+53580,51,Female,63.5,South Atlantic,Conservative,Too Little
+53582,35,Male,34.200001,South Atlantic,Conservative,Too Little
+53583,47,Female,78.5,South Atlantic,Moderate,About Right
+53584,41,Female,39.400002,South Atlantic,Liberal,Too Little
+53585,65,Male,85.099998,South Atlantic,Conservative,Too Little
+53586,34,Male,31.200001,South Atlantic,Extrmly Conservative,Too Little
+53587,26,Female,32.400002,South Atlantic,Moderate,Too Little
+53588,41,Female,73.199997,South Atlantic,Moderate,Too Little
+53589,39,Female,38.5,South Atlantic,Liberal,About Right
+53590,66,Female,63.200001,South Atlantic,Conservative,About Right
+53591,32,Female,50.700001,South Atlantic,Conservative,Too Little
+53592,56,Female,51.900002,South Atlantic,Slightly Conservative,Too Much
+53594,48,Male,86.5,South Atlantic,Conservative,Too Little
+53597,33,Male,28.4,South Atlantic,Moderate,Too Little
+53598,54,Male,63.5,South Atlantic,Extrmly Conservative,Too Little
+53600,47,Male,63.5,South Atlantic,Slightly Liberal,Too Little
+53602,29,Female,29.299999,South Atlantic,Extremely Liberal,Too Little
+53603,37,Female,46.700001,South Atlantic,Moderate,Too Little
+53604,43,Male,38.900002,Mountain,Conservative,About Right
+53605,29,Female,38.5,Mountain,Moderate,Too Little
+53606,56,Male,33.900002,Mountain,Slightly Liberal,Too Little
+53607,33,Male,28.6,Mountain,Moderate,Too Little
+53608,31,Male,34.200001,Mountain,Slightly Conservative,About Right
+53609,27,Female,41.599998,Mountain,Moderate,About Right
+53610,33,Male,36.5,Mountain,Moderate,Too Little
+53611,31,Female,26.4,Mountain,Conservative,Too Much
+53612,81,Female,64.199997,Mountain,Conservative,About Right
+53613,78,Female,30.200001,Mountain,Extrmly Conservative,Too Little
+53614,58,Male,31.299999,Mountain,Extrmly Conservative,About Right
+53615,89,Female,34.599998,Mountain,Extrmly Conservative,Too Much
+53616,88,Male,86.599998,Mountain,Conservative,About Right
+53617,18,Male,38.900002,Mountain,Extremely Liberal,Too Much
+53618,40,Male,82.699997,Mountain,Slightly Conservative,About Right
+53619,69,Male,83.699997,Mountain,Conservative,About Right
+53620,74,Female,25.5,Mountain,Moderate,Too Much
+53622,79,Female,38.400002,Mountain,Moderate,Too Little
+53623,58,Female,63.5,Mountain,Moderate,About Right
+53624,62,Female,33.299999,South Atlantic,Slightly Conservative,About Right
+53625,64,Male,32.299999,South Atlantic,Extrmly Conservative,About Right
+53627,31,Male,24.200001,South Atlantic,Moderate,About Right
+53628,65,Male,29.5,South Atlantic,Conservative,Too Much
+53629,62,Female,62.5,South Atlantic,Moderate,About Right
+53630,46,Male,73.300003,South Atlantic,Conservative,Too Much
+53631,54,Female,74.900002,South Atlantic,Moderate,Too Little
+53633,44,Male,63.5,South Atlantic,Slightly Conservative,Too Little
+53634,36,Male,28.6,South Atlantic,Slightly Liberal,About Right
+53636,20,Male,31.4,South Atlantic,Slightly Liberal,Too Little
+53637,62,Female,63.5,South Atlantic,Conservative,Too Little
+53638,56,Female,22.700001,South Atlantic,Moderate,About Right
+53639,21,Male,28.4,W. Nor. Central,Liberal,Too Little
+53640,25,Female,35.200001,W. Nor. Central,Extremely Liberal,Too Little
+53641,24,Female,35.400002,W. Nor. Central,Moderate,About Right
+53642,30,Female,78.5,W. Nor. Central,Liberal,About Right
+53643,68,Male,49.900002,W. Nor. Central,Slightly Liberal,About Right
+53644,25,Female,46.799999,W. Nor. Central,Slightly Conservative,Too Much
+53645,67,Male,60.5,W. Nor. Central,Liberal,Too Little
+53646,52,Male,75.900002,W. Nor. Central,Conservative,Too Little
+53647,53,Female,37.700001,W. Nor. Central,Slightly Conservative,Too Little
+53648,58,Female,48.5,W. Nor. Central,Moderate,About Right
+53649,32,Female,50.700001,W. Nor. Central,Moderate,About Right
+53650,58,Female,37.400002,W. Nor. Central,Liberal,About Right
+53651,43,Male,63.5,W. Nor. Central,Slightly Liberal,Too Little
+53652,57,Male,63.5,W. Nor. Central,Slightly Conservative,Too Little
+53654,31,Male,39,W. Nor. Central,Moderate,Too Little
+53655,46,Male,63.5,W. Nor. Central,Conservative,Too Much
+53656,77,Male,87.400002,W. Nor. Central,Liberal,Too Little
+53657,25,Male,32.299999,W. Nor. Central,Moderate,Too Much
+53658,49,Male,64.099998,W. Nor. Central,Slightly Liberal,About Right
+53659,44,Male,32.299999,W. Nor. Central,Moderate,About Right
+53660,39,Male,38.099998,W. Nor. Central,Slightly Liberal,Too Much
+53661,54,Male,26.6,W. Nor. Central,Liberal,About Right
+53662,56,Male,63.5,W. Nor. Central,Moderate,Too Little
+53663,56,Male,62.099998,South Atlantic,Slightly Liberal,Too Little
+53664,34,Male,87.900002,South Atlantic,Slightly Conservative,About Right
+53665,30,Female,30.799999,South Atlantic,Extremely Liberal,Too Little
+53666,42,Male,64.800003,South Atlantic,Slightly Liberal,Too Little
+53667,40,Male,82.699997,South Atlantic,Moderate,Too Little
+53668,68,Female,38.400002,South Atlantic,Conservative,About Right
+53669,68,Female,26.700001,South Atlantic,Conservative,About Right
+53670,82,Female,63.5,South Atlantic,Moderate,About Right
+53671,20,Female,38.400002,South Atlantic,Extremely Liberal,Too Much
+53673,27,Female,76.5,South Atlantic,Moderate,Too Little
+53674,34,Male,38.400002,South Atlantic,Slightly Liberal,About Right
+53675,41,Female,38.900002,South Atlantic,Conservative,Too Little
+53676,75,Male,28.4,South Atlantic,Conservative,About Right
+53677,71,Female,38.400002,South Atlantic,Conservative,About Right
+53678,45,Male,31.299999,South Atlantic,Moderate,About Right
+53679,48,Female,71.599998,South Atlantic,Moderate,Too Little
+53680,31,Female,80.900002,South Atlantic,Moderate,About Right
+53681,68,Female,17.6,South Atlantic,Extremely Liberal,Too Little
+53682,54,Female,63.5,South Atlantic,Moderate,Too Much
+53684,63,Male,35.400002,South Atlantic,Conservative,About Right
+53685,28,Female,29.299999,South Atlantic,Moderate,Too Little
+53686,44,Female,28.4,South Atlantic,Moderate,Too Little
+53687,37,Female,62.5,South Atlantic,Conservative,Too Little
+53688,69,Female,37.700001,South Atlantic,Moderate,Too Little
+53691,25,Male,36.400002,South Atlantic,Moderate,About Right
+53694,42,Female,22.5,South Atlantic,Moderate,Too Little
+53695,59,Female,80.300003,South Atlantic,Liberal,Too Little
+53696,84,Male,73.300003,South Atlantic,Extrmly Conservative,Too Little
+53697,60,Female,76.400002,W. Nor. Central,Liberal,Too Little
+53698,26,Female,30.799999,W. Nor. Central,Moderate,Too Little
+53699,22,Female,32.400002,W. Nor. Central,Slightly Liberal,About Right
+53700,55,Female,33.099998,W. Nor. Central,Slightly Conservative,About Right
+53702,57,Female,80.300003,W. Nor. Central,Slightly Liberal,Too Little
+53703,43,Female,38,E. Nor. Central,Moderate,Too Little
+53704,40,Male,58.799999,E. Nor. Central,Slightly Conservative,Too Little
+53705,38,Male,36.5,E. Nor. Central,Moderate,About Right
+53706,65,Male,48.900002,E. Nor. Central,Slightly Conservative,Too Little
+53708,67,Female,37.700001,W. Nor. Central,Conservative,Too Little
+53709,62,Female,38.400002,W. Nor. Central,Moderate,Too Little
+53710,58,Female,38.900002,W. Nor. Central,Moderate,Too Little
+53713,51,Female,73.199997,W. Nor. Central,Slightly Conservative,Too Little
+53714,72,Female,29.299999,W. Nor. Central,Slightly Conservative,Too Little
+53715,84,Female,38.400002,W. Nor. Central,Moderate,Too Much
+53716,37,Female,26.4,W. Nor. Central,Slightly Conservative,About Right
+53717,66,Male,27.700001,W. Nor. Central,Liberal,About Right
+53720,55,Female,50.5,W. Sou. Central,Slightly Conservative,Too Much
+53722,38,Female,63.5,W. Sou. Central,Slightly Liberal,Too Little
+53725,25,Male,32.400002,W. Sou. Central,Moderate,About Right
+53726,21,Female,38.900002,W. Sou. Central,Slightly Liberal,Too Little
+53727,23,Female,33.099998,W. Sou. Central,Moderate,About Right
+53728,55,Female,36.5,W. Sou. Central,Moderate,About Right
+53730,24,Female,56.599998,W. Sou. Central,Conservative,About Right
+53731,45,Male,50.299999,W. Sou. Central,Conservative,About Right
+53732,72,Female,38.900002,W. Sou. Central,Slightly Liberal,Too Little
+53733,83,Male,65.800003,South Atlantic,Moderate,Too Little
+53734,88,Male,32.299999,South Atlantic,Moderate,Too Little
+53735,76,Male,63.5,South Atlantic,Slightly Liberal,Too Little
+53736,50,Female,43.700001,South Atlantic,Extrmly Conservative,About Right
+53737,49,Female,76.400002,South Atlantic,Liberal,About Right
+53738,43,Male,49.900002,South Atlantic,Conservative,Too Little
+53739,32,Male,76.400002,South Atlantic,Conservative,About Right
+53740,27,Female,82.699997,South Atlantic,Moderate,Too Little
+53742,41,Female,33.099998,South Atlantic,Conservative,About Right
+53743,42,Female,56.599998,South Atlantic,Moderate,Too Little
+53744,43,Female,33.099998,South Atlantic,Moderate,About Right
+53745,38,Female,29.200001,South Atlantic,Slightly Liberal,Too Little
+53746,34,Female,64.800003,South Atlantic,Liberal,Too Little
+53747,29,Female,73.599998,South Atlantic,Moderate,Too Little
+53748,29,Male,66.099998,South Atlantic,Liberal,Too Little
+53749,22,Female,38.400002,South Atlantic,Liberal,About Right
+53750,23,Female,37.700001,South Atlantic,Liberal,About Right
+53751,54,Male,63.5,South Atlantic,Moderate,About Right
+53753,54,Female,38.900002,South Atlantic,Conservative,Too Little
+53754,29,Female,38.400002,South Atlantic,Slightly Conservative,About Right
+53755,56,Female,34.599998,Pacific,Slightly Liberal,About Right
+53756,34,Male,38.900002,Pacific,Conservative,Too Little
+53757,48,Male,27.5,Pacific,Moderate,About Right
+53758,38,Female,35.099998,Pacific,Liberal,Too Much
+53759,64,Female,28.4,Pacific,Moderate,About Right
+53760,49,Male,34.299999,Pacific,Moderate,About Right
+53761,31,Male,42.299999,Pacific,Moderate,Too Little
+53764,33,Male,63.200001,Pacific,Moderate,Too Much
+53765,44,Male,52.400002,Pacific,Slightly Conservative,Too Little
+53766,61,Male,63.5,Pacific,Conservative,About Right
+53767,48,Female,63.5,Pacific,Liberal,Too Little
+53768,50,Male,73.300003,Pacific,Slightly Conservative,About Right
+53769,58,Male,87.900002,Pacific,Conservative,Too Little
+53770,43,Male,34.200001,Pacific,Slightly Liberal,About Right
+53771,30,Male,63.5,Pacific,Moderate,Too Little
+53772,47,Male,34.200001,Pacific,Slightly Conservative,Too Little
+53774,56,Male,29.299999,Pacific,Moderate,Too Much
+53775,50,Male,67,Pacific,Slightly Conservative,Too Little
+53776,83,Male,86,Pacific,Moderate,Too Little
+53777,50,Male,85.099998,Pacific,Conservative,About Right
+53778,43,Male,97.199997,Pacific,Moderate,Too Little
+53779,31,Male,25.299999,Pacific,Moderate,Too Little
+53780,77,Female,73.199997,Pacific,Conservative,About Right
+53781,32,Male,38.099998,Pacific,Liberal,Too Much
+53782,21,Male,66.099998,Pacific,Moderate,Too Little
+53783,37,Female,83.900002,Pacific,Liberal,Too Little
+53784,52,Male,52.5,Pacific,Moderate,Too Little
+53785,54,Male,64.099998,Pacific,Moderate,Too Little
+53786,25,Female,56.599998,Pacific,Moderate,Too Little
+53787,28,Female,29.299999,Pacific,Moderate,Too Little
+53788,65,Male,32.299999,Pacific,Moderate,Too Much
+53789,52,Female,80.300003,Middle Atlantic,Moderate,About Right
+53790,60,Female,63.5,Middle Atlantic,Liberal,Too Little
+53792,36,Male,69.199997,Middle Atlantic,Moderate,About Right
+53794,45,Male,28.4,Middle Atlantic,Moderate,Too Little
+53795,35,Male,29.299999,Middle Atlantic,Liberal,Too Little
+53796,49,Male,48.5,Middle Atlantic,Conservative,About Right
+53797,23,Female,33.900002,Middle Atlantic,Conservative,Too Little
+53798,74,Female,38.400002,Middle Atlantic,Slightly Conservative,Too Little
+53799,35,Male,34.200001,Middle Atlantic,Moderate,About Right
+53800,42,Female,27.700001,Middle Atlantic,Conservative,About Right
+53801,45,Male,34.200001,Middle Atlantic,Moderate,About Right
+53802,38,Male,82.699997,Mountain,Liberal,Too Little
+53803,54,Male,33.599998,Mountain,Conservative,Too Little
+53804,27,Male,38.900002,Mountain,Moderate,Too Little
+53805,28,Male,64.199997,Mountain,Liberal,Too Little
+53806,63,Male,38.700001,Mountain,Moderate,About Right
+53807,27,Male,63.200001,Mountain,Conservative,About Right
+53808,70,Female,71.599998,Mountain,Slightly Liberal,Too Little
+53809,24,Female,33.099998,Mountain,Moderate,About Right
+53810,74,Female,80.300003,Mountain,Slightly Conservative,About Right
+53811,55,Female,57.099998,Mountain,Liberal,Too Little
+53812,32,Female,63.5,Mountain,Slightly Conservative,Too Much
+53813,20,Female,36.5,Mountain,Moderate,About Right
+53814,27,Male,24.799999,Mountain,Slightly Liberal,Too Little
+53815,45,Female,81,Mountain,Liberal,Too Little
+53816,36,Male,49.599998,Mountain,Moderate,About Right
+53817,49,Female,63.5,Mountain,Slightly Liberal,About Right
+53818,51,Female,28.4,Mountain,Liberal,About Right
+53819,60,Female,73.800003,Mountain,Liberal,Too Little
+53820,58,Female,38,Mountain,Moderate,About Right
+53821,32,Female,33.099998,Mountain,Moderate,Too Much
+53822,41,Male,45.900002,E. Nor. Central,Conservative,About Right
+53823,73,Female,34.799999,E. Nor. Central,Slightly Liberal,Too Little
+53824,68,Female,38,E. Nor. Central,Liberal,Too Little
+53825,63,Male,38.200001,E. Nor. Central,Moderate,About Right
+53826,56,Female,31.4,E. Nor. Central,Extremely Liberal,Too Much
+53827,35,Female,53.200001,E. Nor. Central,Liberal,Too Little
+53828,53,Female,28.4,E. Nor. Central,Slightly Liberal,About Right
+53829,72,Female,28.4,E. Nor. Central,Slightly Conservative,Too Little
+53830,70,Female,36.5,E. Nor. Central,Moderate,About Right
+53831,32,Male,50.700001,E. Nor. Central,Slightly Conservative,Too Little
+53832,56,Male,92.300003,E. Nor. Central,Moderate,Too Little
+53833,62,Female,63.200001,E. Nor. Central,Slightly Conservative,Too Little
+53834,49,Male,92.300003,E. Nor. Central,Moderate,Too Little
+53837,51,Female,53.299999,New England,Liberal,Too Much
+53838,70,Female,38,New England,Conservative,Too Much
+53839,55,Female,63.200001,New England,Slightly Liberal,About Right
+53840,42,Female,38.400002,New England,Slightly Liberal,About Right
+53841,61,Male,51.900002,New England,Conservative,Too Much
+53842,49,Female,88.199997,New England,Liberal,Too Little
+53844,40,Male,60.5,New England,Moderate,About Right
+53845,22,Female,33.900002,New England,Moderate,About Right
+53846,88,Male,19.4,New England,Slightly Liberal,Too Much
+53847,27,Male,29.200001,New England,Liberal,Too Much
+53849,27,Male,21.200001,New England,Moderate,About Right
+53850,60,Male,80.300003,New England,Moderate,Too Little
+53851,59,Male,80.300003,New England,Conservative,Too Little
+53852,73,Female,73.199997,New England,Slightly Conservative,About Right
+53853,46,Female,35.400002,New England,Moderate,About Right
+53854,43,Female,38,New England,Conservative,About Right
+53855,50,Male,80.300003,New England,Moderate,Too Little
+53856,59,Female,80.300003,Middle Atlantic,Liberal,Too Little
+53857,76,Male,87.900002,Middle Atlantic,Moderate,Too Little
+53858,52,Male,38.900002,Middle Atlantic,Liberal,About Right
+53859,30,Male,33.099998,Middle Atlantic,Moderate,About Right
+53860,23,Male,32.299999,Middle Atlantic,Slightly Liberal,Too Little
+53861,76,Female,38.400002,Middle Atlantic,Moderate,About Right
+53862,56,Male,30.4,Middle Atlantic,Conservative,About Right
+53864,21,Male,53.299999,Middle Atlantic,Liberal,About Right
+53865,56,Male,87,Middle Atlantic,Liberal,Too Little
+53866,30,Male,66.099998,Middle Atlantic,Moderate,Too Little
+53869,22,Female,43.299999,Middle Atlantic,Slightly Conservative,Too Little
+53870,60,Male,69.699997,Middle Atlantic,Extremely Liberal,Too Little
+53871,55,Male,48.5,Middle Atlantic,Conservative,Too Little
+53872,36,Female,32.400002,Middle Atlantic,Slightly Liberal,About Right
+53873,41,Female,33.900002,Middle Atlantic,Moderate,About Right
+53874,58,Female,29.1,Middle Atlantic,Moderate,Too Much
+53876,67,Male,68.800003,Middle Atlantic,Moderate,Too Little
+53877,60,Male,76.400002,Middle Atlantic,Moderate,Too Little
+53878,58,Female,28.4,Middle Atlantic,Moderate,About Right
+53879,60,Male,33.099998,Middle Atlantic,Slightly Liberal,Too Little
+53880,35,Male,78,Middle Atlantic,Moderate,About Right
+53882,31,Female,33.099998,Middle Atlantic,Moderate,About Right
+53883,67,Female,37.400002,Middle Atlantic,Slightly Conservative,About Right
+53884,60,Male,40,Middle Atlantic,Liberal,About Right
+53885,58,Female,38.700001,Middle Atlantic,Conservative,Too Little
+53886,77,Female,32.400002,Middle Atlantic,Conservative,Too Little
+53887,41,Female,87,Middle Atlantic,Slightly Conservative,Too Little
+53888,49,Female,63.5,Middle Atlantic,Moderate,About Right
+53889,68,Female,38,Middle Atlantic,Moderate,About Right
+53890,56,Female,73.199997,Middle Atlantic,Moderate,Too Much
+53891,41,Male,87,Middle Atlantic,Liberal,Too Little
+53892,55,Female,33.099998,Middle Atlantic,Slightly Conservative,Too Much
+53893,81,Female,73.199997,Middle Atlantic,Conservative,Too Little
+53894,44,Male,32.299999,Middle Atlantic,Conservative,About Right
+53895,61,Male,86,Middle Atlantic,Conservative,Too Much
+53896,36,Male,37.299999,Middle Atlantic,Conservative,Too Little
+53897,67,Female,80.300003,Middle Atlantic,Slightly Liberal,Too Little
+53898,42,Female,50.5,Middle Atlantic,Moderate,About Right
+53899,21,Female,33.099998,Middle Atlantic,Moderate,Too Little
+53900,56,Female,32.400002,Middle Atlantic,Moderate,Too Little
+53901,46,Female,29.299999,Middle Atlantic,Liberal,Too Little
+53903,84,Female,38,Middle Atlantic,Moderate,About Right
+53904,47,Male,73.900002,Middle Atlantic,Slightly Conservative,Too Much
+53905,89,Male,63.5,Middle Atlantic,Moderate,About Right
+53906,57,Female,53.700001,Middle Atlantic,Moderate,Too Little
+53907,34,Female,39.599998,Middle Atlantic,Conservative,About Right
+53908,70,Female,28.4,Middle Atlantic,Moderate,About Right
+53910,30,Male,63.5,Middle Atlantic,Moderate,Too Little
+53911,53,Male,28.4,Middle Atlantic,Moderate,Too Little
+53912,44,Male,50.700001,Middle Atlantic,Moderate,About Right
+53913,59,Female,32.400002,Middle Atlantic,Moderate,Too Little
+53914,71,Female,36.5,Middle Atlantic,Moderate,About Right
+53915,30,Female,63.5,Middle Atlantic,Moderate,Too Little
+53916,49,Female,38.900002,Middle Atlantic,Conservative,About Right
+53917,83,Female,38,E. Nor. Central,Moderate,About Right
+53918,63,Male,43.200001,E. Nor. Central,Slightly Conservative,Too Much
+53919,77,Male,47,E. Nor. Central,Liberal,About Right
+53920,27,Female,27.299999,E. Nor. Central,Liberal,About Right
+53921,44,Male,43.200001,E. Nor. Central,Conservative,About Right
+53922,52,Male,26.700001,E. Nor. Central,Slightly Liberal,About Right
+53923,25,Female,28.200001,E. Nor. Central,Moderate,Too Little
+53924,70,Female,37.700001,E. Nor. Central,Liberal,Too Little
+53925,74,Female,73.199997,E. Nor. Central,Conservative,Too Little
+53926,36,Female,39.400002,E. Nor. Central,Slightly Liberal,Too Little
+53927,61,Male,31.5,E. Nor. Central,Moderate,Too Little
+53928,52,Male,28.6,E. Nor. Central,Moderate,About Right
+53929,82,Female,27.5,E. Nor. Central,Moderate,About Right
+53930,61,Male,33.200001,E. Nor. Central,Moderate,About Right
+53932,38,Male,32.299999,E. Nor. Central,Slightly Liberal,About Right
+53933,23,Female,32.400002,E. Nor. Central,Moderate,Too Little
+53935,21,Male,22.700001,E. Nor. Central,Slightly Liberal,Too Much
+53937,75,Male,31.299999,E. Nor. Central,Slightly Conservative,About Right
+53938,46,Male,31.5,E. Nor. Central,Slightly Liberal,Too Much
+53939,22,Female,29.299999,E. Nor. Central,Moderate,About Right
+53940,49,Female,38.5,E. Nor. Central,Moderate,About Right
+53941,70,Female,32.400002,E. Nor. Central,Slightly Liberal,Too Much
+53942,60,Female,58.099998,E. Nor. Central,Extremely Liberal,Too Little
+53943,59,Female,76.300003,E. Nor. Central,Moderate,About Right
+53944,42,Female,32,E. Nor. Central,Extrmly Conservative,About Right
+53945,37,Female,63.5,E. Nor. Central,Moderate,Too Little
+53946,29,Female,33.099998,E. Nor. Central,Conservative,Too Little
+53947,64,Male,88.800003,E. Nor. Central,Moderate,Too Little
+53949,72,Male,84.5,E. Nor. Central,Liberal,About Right
+53950,33,Male,61.900002,E. Nor. Central,Slightly Conservative,About Right
+53951,52,Female,78.5,E. Nor. Central,Conservative,About Right
+53952,56,Male,65.800003,E. Nor. Central,Extrmly Conservative,About Right
+53954,48,Female,31.200001,E. Nor. Central,Moderate,Too Little
+53955,20,Female,36.5,E. Nor. Central,Moderate,About Right
+53956,43,Male,48.5,E. Nor. Central,Moderate,Too Little
+53957,52,Male,36.400002,E. Nor. Central,Slightly Conservative,Too Little
+53958,30,Female,34.400002,E. Nor. Central,Moderate,About Right
+53959,49,Male,28.4,E. Nor. Central,Slightly Conservative,Too Much
+53960,60,Male,38.200001,E. Nor. Central,Liberal,About Right
+53961,32,Female,31.200001,E. Nor. Central,Slightly Conservative,Too Much
+53962,31,Male,50.700001,E. Nor. Central,Moderate,Too Little
+53963,33,Male,27.700001,E. Nor. Central,Slightly Liberal,Too Much
+53964,32,Female,78.5,E. Nor. Central,Slightly Conservative,About Right
+53965,46,Female,33.099998,E. Nor. Central,Slightly Liberal,Too Little
+53966,62,Female,33.099998,E. Nor. Central,Conservative,About Right
+53967,69,Male,92.300003,E. Nor. Central,Slightly Liberal,Too Little
+53968,69,Female,63.5,E. Nor. Central,Slightly Conservative,About Right
+53969,27,Male,39.400002,E. Nor. Central,Moderate,Too Little
+53971,62,Male,38.900002,E. Nor. Central,Slightly Liberal,Too Little
+53972,32,Female,41.599998,E. Nor. Central,Conservative,Too Much
+53973,28,Female,73.199997,E. Nor. Central,Slightly Conservative,Too Little
+53974,29,Female,78.5,E. Nor. Central,Liberal,Too Little
+53975,61,Male,87.400002,E. Nor. Central,Extremely Liberal,Too Little
+53976,44,Male,42.200001,E. Nor. Central,Slightly Conservative,About Right
+53977,33,Male,32.299999,E. Nor. Central,Moderate,Too Little
+53978,19,Female,32.400002,E. Nor. Central,Slightly Liberal,About Right
+53979,20,Male,59.299999,E. Nor. Central,Conservative,Too Little
+53980,37,Male,37.299999,E. Nor. Central,Slightly Conservative,About Right
+53981,50,Male,38,E. Nor. Central,Slightly Liberal,About Right
+53982,80,Male,27.700001,E. Nor. Central,Moderate,Too Little
+53983,57,Female,78.5,E. Nor. Central,Moderate,About Right
+53984,27,Male,63.5,E. Nor. Central,Slightly Conservative,About Right
+53985,19,Male,33.099998,E. Nor. Central,Moderate,About Right
+53986,33,Female,38.5,E. Nor. Central,Liberal,About Right
+53987,59,Female,73.199997,E. Nor. Central,Moderate,About Right
+53988,31,Male,27.5,E. Nor. Central,Moderate,About Right
+53989,68,Female,48.900002,E. Nor. Central,Moderate,About Right
+53992,33,Female,32.400002,E. Nor. Central,Slightly Liberal,Too Little
+53993,40,Female,27.700001,E. Nor. Central,Liberal,Too Much
+53994,60,Female,64.800003,E. Nor. Central,Moderate,Too Little
+53995,59,Female,80.900002,E. Nor. Central,Liberal,About Right
+53996,25,Male,32.299999,E. Nor. Central,Moderate,About Right
+53998,54,Female,37.700001,E. Nor. Central,Liberal,About Right
+53999,26,Male,87,E. Nor. Central,Liberal,Too Little
+54000,22,Male,38.400002,E. Nor. Central,Slightly Liberal,Too Little
+54001,36,Male,48.5,E. Nor. Central,Moderate,Too Much
+54002,22,Male,27.5,E. Nor. Central,Conservative,Too Little
+54003,63,Female,74.400002,E. Nor. Central,Slightly Liberal,Too Much
+54004,40,Female,86.800003,E. Nor. Central,Conservative,Too Little
+54005,35,Male,86,E. Nor. Central,Slightly Conservative,Too Much
+54006,67,Female,38.400002,E. Nor. Central,Conservative,About Right
+54007,56,Female,50.5,E. Nor. Central,Conservative,Too Little
+54008,25,Male,43.700001,E. Nor. Central,Extrmly Conservative,About Right
+54009,32,Female,26.700001,E. Nor. Central,Moderate,About Right
+54010,25,Male,31.5,E. Nor. Central,Slightly Conservative,About Right
+54011,80,Female,63.5,E. Nor. Central,Conservative,Too Much
+54012,47,Female,36.5,E. Nor. Central,Slightly Conservative,Too Little
+54014,28,Female,33.099998,E. Nor. Central,Conservative,Too Little
+54016,61,Female,80.300003,E. Nor. Central,Extrmly Conservative,About Right
+54017,85,Female,37.700001,E. Nor. Central,Conservative,Too Little
+54018,53,Female,29.200001,E. Nor. Central,Moderate,Too Little
+54019,36,Female,64.099998,E. Nor. Central,Slightly Liberal,Too Little
+54020,65,Male,50.700001,E. Nor. Central,Conservative,About Right
+54021,23,Male,71.199997,E. Nor. Central,Liberal,Too Little
+54023,32,Female,78.5,E. Nor. Central,Moderate,About Right
+54024,81,Male,32.299999,E. Nor. Central,Moderate,About Right
+54025,26,Male,28.4,E. Nor. Central,Moderate,About Right
+54026,30,Female,56.599998,E. Nor. Central,Conservative,About Right
+54027,74,Female,29,E. Nor. Central,Moderate,About Right
+54028,58,Female,39.599998,E. Nor. Central,Moderate,Too Little
+54029,63,Female,63.5,E. Nor. Central,Slightly Conservative,Too Little
+54030,53,Female,63.5,E. Nor. Central,Slightly Conservative,Too Little
+54031,63,Male,92.300003,E. Nor. Central,Slightly Liberal,Too Little
+54032,34,Female,73.199997,E. Nor. Central,Liberal,Too Little
+54033,59,Male,66.099998,E. Nor. Central,Slightly Conservative,Too Little
+54034,64,Female,78.5,E. Nor. Central,Slightly Conservative,About Right
+54035,58,Female,53.299999,E. Nor. Central,Slightly Liberal,About Right
+54036,75,Female,73.800003,E. Nor. Central,Extremely Liberal,Too Little
+54037,84,Female,73.199997,E. Nor. Central,Slightly Liberal,Too Little
+54038,56,Female,73.199997,E. Nor. Central,Slightly Liberal,Too Little
+54040,30,Female,73.300003,E. Nor. Central,Liberal,About Right
+54041,21,Female,37.700001,E. Nor. Central,Moderate,Too Little
+54042,39,Male,31.4,E. Nor. Central,Conservative,Too Little
+54043,43,Female,38.400002,E. Nor. Central,Slightly Liberal,About Right
+54044,62,Female,36.5,E. Nor. Central,Moderate,Too Little
+54045,24,Male,27.5,E. Nor. Central,Moderate,About Right
+54046,61,Female,50.700001,E. Nor. Central,Moderate,About Right
+54047,45,Female,31.200001,E. Nor. Central,Liberal,About Right
+54049,27,Female,50.700001,E. Nor. Central,Conservative,Too Much
+54050,72,Male,65.800003,E. Nor. Central,Moderate,About Right
+54051,58,Female,22.5,E. Nor. Central,Moderate,Too Much
+54052,45,Male,96,E. Nor. Central,Slightly Conservative,Too Little
+54053,49,Male,63.5,E. Nor. Central,Slightly Conservative,Too Little
+54054,51,Male,31.5,E. Nor. Central,Conservative,Too Little
+54055,57,Male,76.300003,E. Nor. Central,Extrmly Conservative,Too Much
+54056,44,Male,64.099998,E. Nor. Central,Slightly Conservative,Too Little
+54057,31,Male,73.300003,E. Nor. Central,Moderate,Too Little
+54058,39,Female,37.700001,E. Nor. Central,Extrmly Conservative,Too Little
+54059,39,Male,38.900002,E. Nor. Central,Conservative,Too Much
+54060,59,Male,27.700001,E. Nor. Central,Moderate,About Right
+54061,33,Male,32,E. Nor. Central,Slightly Conservative,About Right
+54062,36,Female,50.700001,E. Nor. Central,Moderate,Too Little
+54063,59,Female,78.5,E. Nor. Central,Moderate,Too Little
+54064,77,Female,38.900002,E. Nor. Central,Conservative,About Right
+54065,44,Male,60.599998,E. Nor. Central,Liberal,About Right
+54066,62,Female,37.700001,E. Nor. Central,Moderate,Too Much
+54068,38,Male,63.5,E. Nor. Central,Liberal,Too Little
+54069,31,Female,88.300003,E. Nor. Central,Liberal,About Right
+54070,19,Female,22.700001,E. Nor. Central,Extremely Liberal,Too Little
+54071,25,Female,40.200001,E. Nor. Central,Moderate,About Right
+54073,26,Female,32.400002,E. Nor. Central,Moderate,Too Little
+54074,46,Male,29.4,E. Nor. Central,Moderate,About Right
+54075,63,Female,80.300003,E. Nor. Central,Moderate,About Right
+54076,63,Male,31.5,E. Nor. Central,Moderate,Too Little
+54079,89,Male,78.5,E. Nor. Central,Moderate,About Right
+54080,28,Female,35.400002,E. Nor. Central,Moderate,Too Little
+54081,69,Female,32.299999,E. Nor. Central,Slightly Liberal,About Right
+54082,83,Female,38.400002,E. Nor. Central,Conservative,Too Little
+54083,41,Female,76.400002,E. Nor. Central,Moderate,About Right
+54084,69,Female,64.199997,E. Nor. Central,Extremely Liberal,Too Little
+54085,22,Female,50.5,E. Nor. Central,Moderate,About Right
+54086,58,Male,83.199997,E. Nor. Central,Conservative,Too Little
+54087,74,Female,53.700001,E. Nor. Central,Moderate,Too Little
+54088,57,Female,39.5,E. Nor. Central,Moderate,Too Little
+54089,24,Female,29.1,E. Nor. Central,Liberal,Too Little
+54090,70,Female,76.5,E. Nor. Central,Slightly Conservative,Too Little
+54091,52,Male,81,E. Nor. Central,Extrmly Conservative,About Right
+54092,60,Female,61.900002,E. Nor. Central,Conservative,About Right
+54093,40,Female,63.5,E. Nor. Central,Slightly Conservative,About Right
+54094,64,Female,80.099998,E. Sou. Central,Moderate,About Right
+54095,49,Male,30.1,E. Sou. Central,Moderate,Too Much
+54096,66,Female,66.099998,E. Sou. Central,Moderate,About Right
+54097,23,Female,38.400002,E. Sou. Central,Slightly Liberal,Too Little
+54098,65,Female,50.700001,E. Sou. Central,Extrmly Conservative,About Right
+54099,52,Female,69.699997,E. Sou. Central,Moderate,Too Little
+54100,25,Female,53.299999,E. Sou. Central,Conservative,About Right
+54101,43,Male,53.099998,E. Sou. Central,Slightly Conservative,Too Little
+54102,34,Female,80.300003,E. Sou. Central,Extrmly Conservative,About Right
+54103,30,Female,62.5,E. Nor. Central,Moderate,About Right
+54104,67,Male,36.5,E. Nor. Central,Conservative,Too Little
+54105,50,Male,61.900002,E. Nor. Central,Moderate,Too Little
+54106,41,Male,83.699997,E. Nor. Central,Moderate,Too Little
+54107,46,Female,36.5,E. Nor. Central,Extrmly Conservative,About Right
+54108,46,Female,66.099998,E. Nor. Central,Conservative,Too Little
+54109,66,Male,63.5,E. Nor. Central,Liberal,Too Little
+54110,23,Female,50.700001,W. Nor. Central,Moderate,About Right
+54111,25,Male,37.700001,W. Nor. Central,Slightly Conservative,Too Little
+54112,74,Female,34.400002,W. Nor. Central,Liberal,Too Little
+54113,53,Male,80.900002,W. Nor. Central,Liberal,Too Little
+54114,63,Male,80.300003,W. Nor. Central,Slightly Conservative,About Right
+54115,44,Female,92.300003,W. Nor. Central,Liberal,Too Little
+54116,29,Female,50.700001,W. Nor. Central,Slightly Liberal,Too Little
+54117,62,Male,38.900002,W. Nor. Central,Moderate,Too Little
+54118,39,Female,56.599998,W. Nor. Central,Slightly Liberal,Too Little
+54119,31,Male,31.4,W. Nor. Central,Conservative,Too Much
+54121,59,Male,92.300003,W. Nor. Central,Extremely Liberal,Too Little
+54122,87,Female,30.700001,W. Nor. Central,Slightly Conservative,Too Little
+54123,26,Female,78.5,W. Nor. Central,Moderate,About Right
+54124,46,Female,78.5,W. Nor. Central,Moderate,Too Little
+54125,35,Female,63.5,W. Nor. Central,Moderate,Too Little
+54126,53,Male,63.5,W. Nor. Central,Conservative,Too Little
+54127,34,Female,63.5,W. Nor. Central,Slightly Liberal,About Right
+54128,55,Female,50.700001,W. Nor. Central,Moderate,About Right
+54129,52,Male,47,W. Nor. Central,Moderate,About Right
+54130,74,Female,36.5,W. Nor. Central,Liberal,Too Much
+54131,27,Female,38.400002,E. Nor. Central,Slightly Liberal,Too Little
+54132,89,Female,54.200001,E. Nor. Central,Extremely Liberal,Too Much
+54133,43,Male,29.200001,E. Nor. Central,Slightly Conservative,Too Much
+54134,74,Male,86,E. Nor. Central,Moderate,Too Little
+54135,31,Male,73.800003,E. Nor. Central,Moderate,Too Little
+54136,46,Male,31.4,E. Nor. Central,Moderate,Too Little
+54137,21,Male,51.799999,E. Nor. Central,Moderate,About Right
+54139,24,Male,38.900002,E. Nor. Central,Moderate,About Right
+54140,47,Male,39,E. Nor. Central,Conservative,Too Much
+54142,60,Male,45.299999,E. Nor. Central,Moderate,About Right
+54143,26,Female,38.5,E. Nor. Central,Moderate,About Right
+54144,54,Female,22.5,E. Nor. Central,Slightly Conservative,About Right
+54145,56,Male,32.299999,E. Nor. Central,Slightly Conservative,About Right
+54147,43,Male,35.099998,E. Nor. Central,Slightly Conservative,About Right
+54148,37,Male,26.700001,E. Nor. Central,Extremely Liberal,About Right
+54149,49,Male,45.900002,E. Nor. Central,Moderate,Too Much
+54150,51,Female,63.200001,E. Nor. Central,Moderate,Too Little
+54151,67,Male,31.5,E. Nor. Central,Liberal,Too Little
+54152,58,Female,63.5,E. Nor. Central,Slightly Conservative,About Right
+54153,41,Male,31.5,E. Nor. Central,Moderate,Too Much
+54156,45,Female,73.599998,E. Sou. Central,Moderate,Too Much
+54157,48,Female,74.900002,E. Sou. Central,Conservative,About Right
+54158,38,Female,53.700001,E. Sou. Central,Moderate,About Right
+54159,23,Male,27.5,E. Sou. Central,Slightly Liberal,About Right
+54160,27,Male,50.700001,E. Sou. Central,Extremely Liberal,Too Little
+54161,46,Female,56.599998,E. Sou. Central,Moderate,About Right
+54162,26,Male,62.200001,E. Sou. Central,Moderate,About Right
+54163,67,Female,29.799999,E. Sou. Central,Slightly Conservative,About Right
+54164,50,Male,59.099998,E. Sou. Central,Moderate,Too Little
+54165,62,Female,50.5,E. Sou. Central,Liberal,About Right
+54166,41,Male,29.799999,E. Sou. Central,Moderate,About Right
+54167,29,Female,67,E. Sou. Central,Liberal,Too Little
+54168,62,Female,22.5,E. Sou. Central,Extremely Liberal,About Right
+54170,35,Male,64.099998,E. Sou. Central,Conservative,About Right
+54171,75,Male,35.099998,E. Sou. Central,Extrmly Conservative,About Right
+54172,69,Male,27.700001,E. Sou. Central,Extrmly Conservative,Too Little
+54173,50,Female,28.4,E. Sou. Central,Moderate,Too Little
+54174,66,Female,37.5,E. Sou. Central,Moderate,About Right
+54175,50,Female,21.200001,E. Sou. Central,Moderate,Too Little
+54176,23,Male,33.599998,E. Sou. Central,Slightly Conservative,Too Little
+54178,36,Female,66.099998,E. Sou. Central,Slightly Liberal,Too Little
+54180,48,Female,22.700001,E. Sou. Central,Conservative,About Right
+54181,39,Female,38.900002,E. Sou. Central,Moderate,Too Little
+54182,25,Female,27.5,E. Sou. Central,Moderate,Too Much
+54185,36,Female,21.200001,E. Sou. Central,Moderate,Too Little
+54186,68,Male,45.299999,South Atlantic,Conservative,Too Little
+54187,59,Female,65.800003,South Atlantic,Moderate,Too Little
+54188,80,Male,86.599998,South Atlantic,Conservative,Too Little
+54189,59,Female,38.400002,South Atlantic,Moderate,About Right
+54190,46,Male,63.5,South Atlantic,Liberal,Too Much
+54191,89,Female,37.700001,South Atlantic,Conservative,About Right
+54192,26,Male,28.4,South Atlantic,Moderate,Too Little
+54193,63,Female,64.800003,South Atlantic,Slightly Conservative,Too Little
+54194,24,Male,83.699997,South Atlantic,Extremely Liberal,About Right
+54195,25,Female,78.5,South Atlantic,Slightly Conservative,Too Little
+54196,68,Female,22.5,South Atlantic,Liberal,About Right
+54198,42,Male,52.400002,South Atlantic,Slightly Conservative,About Right
+54199,41,Female,61.900002,South Atlantic,Moderate,About Right
+54201,89,Female,59.299999,South Atlantic,Moderate,About Right
+54202,40,Female,33.099998,South Atlantic,Conservative,Too Little
+54203,78,Female,76.400002,South Atlantic,Moderate,Too Little
+54204,75,Male,66.099998,South Atlantic,Moderate,Too Little
+54206,30,Male,28.4,South Atlantic,Slightly Conservative,About Right
+54207,36,Male,79.800003,South Atlantic,Slightly Conservative,About Right
+54208,50,Male,49.599998,South Atlantic,Moderate,Too Little
+54209,53,Female,45.200001,South Atlantic,Conservative,About Right
+54210,57,Female,83.699997,South Atlantic,Liberal,Too Little
+54211,45,Female,56.599998,South Atlantic,Slightly Conservative,About Right
+54212,40,Male,87.900002,South Atlantic,Conservative,Too Little
+54213,58,Female,63.5,South Atlantic,Conservative,About Right
+54214,58,Female,51.900002,South Atlantic,Conservative,Too Little
+54215,51,Male,38.900002,South Atlantic,Liberal,Too Little
+54216,57,Male,61.900002,South Atlantic,Moderate,About Right
+54217,53,Female,32.400002,South Atlantic,Liberal,Too Much
+54218,57,Male,50.700001,South Atlantic,Moderate,Too Little
+54219,48,Female,34.400002,South Atlantic,Extremely Liberal,Too Little
+54220,61,Male,63.5,South Atlantic,Moderate,Too Little
+54221,49,Female,61.900002,South Atlantic,Conservative,Too Little
+54222,25,Male,34.200001,South Atlantic,Conservative,About Right
+54223,58,Female,39,South Atlantic,Extremely Liberal,Too Much
+54224,73,Female,73.199997,South Atlantic,Conservative,Too Little
+54227,71,Female,22.5,South Atlantic,Slightly Liberal,About Right
+54228,77,Male,49.599998,South Atlantic,Moderate,About Right
+54229,32,Male,28.6,South Atlantic,Moderate,About Right
+54231,28,Female,38.5,South Atlantic,Moderate,Too Little
+54233,67,Male,31.700001,South Atlantic,Moderate,About Right
+54234,66,Female,50.5,South Atlantic,Conservative,Too Little
+54236,28,Female,29.299999,South Atlantic,Moderate,Too Little
+54237,27,Female,33.099998,South Atlantic,Slightly Liberal,About Right
+54238,37,Female,28.4,South Atlantic,Extrmly Conservative,About Right
+54240,25,Female,37.299999,South Atlantic,Conservative,About Right
+54241,63,Male,63.200001,South Atlantic,Slightly Conservative,About Right
+54242,29,Female,26.4,South Atlantic,Liberal,About Right
+54243,26,Female,27.5,South Atlantic,Extremely Liberal,Too Much
+54245,51,Female,27.5,South Atlantic,Moderate,About Right
+54247,54,Female,38.900002,South Atlantic,Conservative,About Right
+54248,64,Female,29.799999,South Atlantic,Liberal,Too Little
+54249,47,Female,29.299999,South Atlantic,Liberal,Too Little
+54250,40,Female,38.900002,South Atlantic,Moderate,About Right
+54251,32,Female,63.5,South Atlantic,Moderate,About Right
+54252,44,Female,75.199997,South Atlantic,Liberal,Too Little
+54254,34,Female,38.400002,South Atlantic,Slightly Conservative,About Right
+54255,54,Female,22.5,South Atlantic,Conservative,About Right
+54256,27,Female,32.400002,South Atlantic,Slightly Liberal,About Right
+54258,70,Female,78.5,South Atlantic,Slightly Conservative,Too Little
+54259,47,Male,37.900002,South Atlantic,Moderate,About Right
+54262,42,Male,34.200001,W. Sou. Central,Liberal,Too Little
+54263,34,Female,56.599998,W. Sou. Central,Moderate,About Right
+54264,62,Male,44.700001,W. Sou. Central,Liberal,About Right
+54265,58,Male,44.700001,W. Sou. Central,Slightly Conservative,Too Little
+54266,46,Male,40,W. Sou. Central,Liberal,Too Little
+54268,37,Female,32.400002,W. Sou. Central,Extremely Liberal,About Right
+54269,30,Male,28.4,W. Sou. Central,Extrmly Conservative,About Right
+54270,81,Male,41.200001,W. Sou. Central,Slightly Liberal,Too Little
+54271,26,Female,34.599998,W. Sou. Central,Moderate,Too Little
+54272,52,Female,66.099998,W. Sou. Central,Moderate,Too Little
+54274,80,Female,38.5,South Atlantic,Slightly Conservative,Too Little
+54275,48,Male,79.800003,South Atlantic,Slightly Liberal,Too Little
+54276,71,Female,78.5,South Atlantic,Liberal,Too Little
+54277,39,Male,50.700001,South Atlantic,Conservative,Too Little
+54278,36,Male,75.199997,South Atlantic,Moderate,Too Little
+54279,80,Female,38.400002,South Atlantic,Moderate,About Right
+54280,72,Female,56.5,South Atlantic,Moderate,Too Much
+54281,26,Male,87.900002,South Atlantic,Liberal,Too Little
+54282,42,Male,76.400002,South Atlantic,Conservative,Too Little
+54283,39,Female,84,South Atlantic,Liberal,About Right
+54284,79,Female,73.900002,South Atlantic,Moderate,Too Little
+54285,62,Male,62.5,South Atlantic,Extremely Liberal,Too Little
+54286,42,Male,66.099998,South Atlantic,Moderate,Too Little
+54287,38,Female,53.299999,South Atlantic,Conservative,About Right
+54288,32,Female,29.299999,South Atlantic,Moderate,Too Little
+54289,47,Female,60.599998,South Atlantic,Slightly Liberal,Too Little
+54290,51,Female,50.700001,South Atlantic,Moderate,About Right
+54291,77,Female,21.200001,South Atlantic,Moderate,Too Little
+54292,31,Female,45.799999,South Atlantic,Moderate,Too Little
+54293,35,Male,78.5,South Atlantic,Liberal,About Right
+54294,48,Female,73.199997,South Atlantic,Extremely Liberal,About Right
+54295,55,Female,31.200001,South Atlantic,Liberal,About Right
+54296,83,Female,38.400002,South Atlantic,Slightly Conservative,Too Little
+54297,44,Female,38.5,South Atlantic,Slightly Conservative,Too Much
+54298,44,Female,78.5,South Atlantic,Slightly Liberal,Too Little
+54300,30,Male,50.5,South Atlantic,Liberal,About Right
+54301,47,Female,80.099998,South Atlantic,Extremely Liberal,Too Little
+54302,58,Female,53.299999,South Atlantic,Liberal,Too Little
+54303,65,Male,66.099998,South Atlantic,Conservative,About Right
+54304,32,Female,32.400002,South Atlantic,Slightly Liberal,Too Little
+54305,83,Female,73.199997,South Atlantic,Moderate,Too Little
+54308,39,Male,80.900002,South Atlantic,Conservative,Too Little
+54310,50,Female,31.200001,South Atlantic,Moderate,About Right
+54311,70,Male,85.099998,South Atlantic,Conservative,Too Little
+54312,71,Female,17.1,South Atlantic,Liberal,About Right
+54313,27,Male,84.699997,South Atlantic,Liberal,Too Little
+54314,22,Male,28.6,South Atlantic,Conservative,Too Little
+54315,25,Male,83.699997,South Atlantic,Slightly Conservative,About Right
+54316,19,Male,34.799999,South Atlantic,Liberal,Too Little
+54317,86,Female,78.5,South Atlantic,Conservative,About Right
+54318,49,Female,50.5,South Atlantic,Moderate,About Right
+54319,45,Male,88.800003,South Atlantic,Slightly Conservative,Too Little
+54321,54,Male,73.300003,South Atlantic,Moderate,About Right
+54322,40,Female,63.5,South Atlantic,Conservative,Too Little
+54324,40,Male,63.5,South Atlantic,Moderate,About Right
+54325,44,Female,73.199997,South Atlantic,Moderate,About Right
+54326,72,Male,63.5,South Atlantic,Moderate,Too Little
+54327,78,Male,39,South Atlantic,Extrmly Conservative,About Right
+54328,53,Male,34.200001,South Atlantic,Slightly Liberal,Too Little
+54329,89,Female,78.5,South Atlantic,Slightly Liberal,About Right
+54330,29,Male,31.299999,South Atlantic,Conservative,About Right
+54331,58,Male,38.900002,South Atlantic,Conservative,Too Little
+54332,52,Male,64.199997,South Atlantic,Conservative,About Right
+54333,68,Male,49.599998,E. Sou. Central,Slightly Conservative,Too Little
+54334,56,Male,25.9,E. Sou. Central,Slightly Liberal,Too Little
+54335,24,Male,59.299999,E. Sou. Central,Liberal,About Right
+54336,33,Female,33.099998,E. Sou. Central,Moderate,Too Little
+54337,43,Male,63.5,E. Sou. Central,Extrmly Conservative,Too Much
+54338,37,Female,63.5,E. Sou. Central,Moderate,Too Little
+54339,41,Female,57.099998,E. Sou. Central,Moderate,Too Little
+54340,42,Male,37.299999,E. Sou. Central,Moderate,Too Little
+54341,27,Female,63.5,E. Sou. Central,Conservative,Too Little
+54342,35,Male,73.599998,E. Sou. Central,Liberal,Too Little
+54343,31,Male,50.5,E. Sou. Central,Moderate,Too Little
+54345,38,Female,63.5,E. Sou. Central,Conservative,About Right
+54346,28,Male,50.5,E. Sou. Central,Conservative,Too Much
+54347,31,Female,26.4,E. Sou. Central,Extrmly Conservative,About Right
+54348,53,Male,73.199997,E. Sou. Central,Conservative,Too Little
+54349,51,Male,86.5,E. Sou. Central,Moderate,Too Much
+54350,31,Male,51.900002,E. Sou. Central,Slightly Conservative,Too Little
+54352,29,Female,32.400002,E. Sou. Central,Moderate,Too Little
+54353,37,Female,63.5,E. Sou. Central,Slightly Conservative,About Right
+54355,49,Female,36.900002,E. Sou. Central,Moderate,Too Little
+54356,23,Female,33.099998,E. Sou. Central,Moderate,Too Much
+54357,49,Female,32.400002,E. Sou. Central,Moderate,About Right
+54358,57,Female,26.4,E. Sou. Central,Extrmly Conservative,Too Little
+54359,30,Male,61.900002,E. Sou. Central,Conservative,Too Much
+54360,37,Male,34.200001,E. Sou. Central,Slightly Liberal,Too Little
+54362,64,Male,50.5,E. Sou. Central,Moderate,Too Little
+54363,56,Female,38,E. Sou. Central,Extremely Liberal,Too Little
+54365,34,Female,80.900002,E. Sou. Central,Slightly Conservative,About Right
+54366,68,Female,26.700001,E. Sou. Central,Moderate,Too Little
+54367,53,Male,38.900002,E. Sou. Central,Extrmly Conservative,Too Much
+54368,45,Female,69.199997,E. Sou. Central,Slightly Conservative,About Right
+54369,40,Female,64.800003,E. Sou. Central,Conservative,About Right
+54370,33,Female,64.400002,E. Sou. Central,Conservative,About Right
+54371,35,Female,29.299999,E. Sou. Central,Slightly Liberal,Too Little
+54372,46,Female,38.900002,W. Sou. Central,Moderate,About Right
+54373,54,Female,38.400002,W. Sou. Central,Slightly Liberal,About Right
+54374,27,Female,65.800003,W. Sou. Central,Moderate,About Right
+54375,51,Female,31.200001,W. Sou. Central,Slightly Conservative,About Right
+54376,39,Female,29.299999,W. Sou. Central,Moderate,Too Little
+54377,36,Female,31.200001,W. Sou. Central,Moderate,Too Little
+54378,28,Female,26.4,W. Sou. Central,Moderate,About Right
+54379,34,Female,27.299999,W. Sou. Central,Slightly Liberal,About Right
+54381,29,Female,36.5,W. Sou. Central,Moderate,Too Little
+54383,73,Male,30.5,W. Sou. Central,Slightly Liberal,Too Little
+54384,26,Male,26.700001,W. Sou. Central,Moderate,About Right
+54385,49,Male,50.700001,W. Sou. Central,Moderate,About Right
+54387,43,Female,76.400002,W. Sou. Central,Slightly Conservative,About Right
+54388,59,Male,41.599998,W. Sou. Central,Moderate,About Right
+54389,44,Male,31.4,W. Sou. Central,Extrmly Conservative,Too Little
+54390,42,Female,22.5,W. Sou. Central,Moderate,About Right
+54391,43,Female,69.199997,W. Sou. Central,Moderate,About Right
+54392,49,Female,33.099998,W. Sou. Central,Moderate,About Right
+54393,38,Female,78.5,W. Sou. Central,Moderate,About Right
+54395,57,Male,28.4,W. Sou. Central,Extremely Liberal,About Right
+54396,63,Female,21.200001,W. Sou. Central,Moderate,About Right
+54397,25,Female,32.400002,W. Sou. Central,Slightly Liberal,About Right
+54398,53,Male,44.700001,W. Sou. Central,Slightly Liberal,About Right
+54399,38,Female,34.299999,W. Sou. Central,Conservative,About Right
+54400,41,Female,31.200001,W. Sou. Central,Slightly Conservative,About Right
+54403,35,Female,33.099998,W. Sou. Central,Moderate,About Right
+54404,38,Male,71.599998,W. Sou. Central,Moderate,Too Little
+54405,49,Female,29.799999,W. Sou. Central,Moderate,Too Little
+54409,57,Male,39.5,W. Sou. Central,Slightly Liberal,Too Little
+54410,20,Female,69.199997,W. Sou. Central,Moderate,About Right
+54411,21,Male,32.799999,South Atlantic,Conservative,About Right
+54412,33,Male,27.5,South Atlantic,Slightly Liberal,Too Little
+54413,44,Male,50.5,South Atlantic,Moderate,Too Little
+54414,50,Male,87.900002,South Atlantic,Conservative,Too Little
+54415,51,Male,69.699997,South Atlantic,Slightly Liberal,Too Little
+54417,61,Female,73.199997,South Atlantic,Moderate,About Right
+54418,38,Male,31.5,South Atlantic,Conservative,About Right
+54419,44,Female,51.900002,South Atlantic,Conservative,Too Much
+54421,88,Female,38.400002,South Atlantic,Conservative,Too Little
+54422,49,Female,33.099998,South Atlantic,Moderate,About Right
+54423,44,Male,31.299999,South Atlantic,Liberal,Too Much
+54424,39,Male,30.1,South Atlantic,Moderate,About Right
+54425,63,Male,36.5,South Atlantic,Conservative,Too Little
+54426,60,Male,63.5,South Atlantic,Liberal,Too Little
+54427,46,Female,73.199997,South Atlantic,Conservative,About Right
+54428,43,Female,22.5,South Atlantic,Moderate,About Right
+54429,78,Female,38.400002,South Atlantic,Liberal,Too Little
+54430,22,Female,33.299999,South Atlantic,Conservative,Too Little
+54431,85,Female,76.400002,South Atlantic,Conservative,Too Little
+54432,19,Male,59.299999,South Atlantic,Slightly Conservative,About Right
+54433,71,Female,50.5,South Atlantic,Conservative,About Right
+54434,33,Male,63.5,South Atlantic,Conservative,About Right
+54435,33,Female,69.699997,South Atlantic,Moderate,About Right
+54436,33,Female,68.099998,South Atlantic,Slightly Conservative,Too Little
+54437,66,Female,63.200001,South Atlantic,Slightly Conservative,Too Little
+54438,66,Female,28.4,South Atlantic,Conservative,About Right
+54439,25,Male,46.299999,South Atlantic,Slightly Conservative,Too Little
+54440,25,Male,29.200001,South Atlantic,Conservative,About Right
+54441,24,Male,46.299999,South Atlantic,Moderate,About Right
+54442,43,Male,42.200001,South Atlantic,Moderate,Too Little
+54443,26,Male,42.200001,South Atlantic,Moderate,About Right
+54444,65,Female,50.700001,South Atlantic,Moderate,Too Little
+54447,29,Female,21.200001,South Atlantic,Conservative,About Right
+54448,81,Female,30.799999,South Atlantic,Extrmly Conservative,About Right
+54449,28,Female,33.099998,South Atlantic,Slightly Liberal,About Right
+54450,27,Female,36.5,South Atlantic,Liberal,About Right
+54451,47,Male,28.6,South Atlantic,Moderate,Too Little
+54452,40,Male,33.299999,South Atlantic,Conservative,About Right
+54453,32,Female,63.5,Mountain,Moderate,Too Little
+54454,29,Female,32.400002,Mountain,Moderate,About Right
+54455,89,Female,38.400002,Mountain,Slightly Liberal,About Right
+54456,25,Male,32.400002,Mountain,Slightly Liberal,Too Little
+54457,35,Male,63.5,Mountain,Moderate,Too Little
+54458,58,Female,78.5,Mountain,Liberal,Too Little
+54459,45,Female,75.199997,Mountain,Liberal,Too Little
+54460,32,Female,82.699997,Mountain,Moderate,Too Little
+54461,33,Female,73.300003,Mountain,Slightly Liberal,Too Little
+54462,74,Male,35.099998,Mountain,Conservative,Too Little
+54463,35,Female,49.599998,Mountain,Moderate,About Right
+54464,55,Female,29.799999,Mountain,Conservative,About Right
+54465,69,Female,50.700001,Mountain,Slightly Liberal,Too Little
+54466,34,Female,63.5,Mountain,Slightly Conservative,About Right
+54467,25,Female,32.400002,Mountain,Liberal,About Right
+54468,62,Female,38.400002,Mountain,Conservative,Too Little
+54469,32,Female,53.099998,Mountain,Conservative,About Right
+54470,34,Male,49.599998,Mountain,Conservative,About Right
+54471,55,Female,67,Mountain,Conservative,About Right
+54472,36,Female,27.5,Mountain,Moderate,Too Little
+54473,42,Female,32.400002,Mountain,Moderate,About Right
+54474,27,Female,32.400002,Mountain,Moderate,About Right
+54475,28,Male,28.6,Mountain,Moderate,About Right
+54476,35,Female,38.5,Mountain,Moderate,Too Much
+54477,29,Male,49.599998,Mountain,Moderate,About Right
+54478,44,Female,38,Pacific,Conservative,Too Much
+54479,84,Female,22.5,Pacific,Conservative,About Right
+54480,31,Female,66.099998,Pacific,Conservative,Too Much
+54481,55,Male,53.700001,Pacific,Moderate,Too Little
+54482,72,Female,38.400002,Pacific,Moderate,Too Little
+54484,63,Male,26.5,Pacific,Moderate,About Right
+54485,21,Female,56.599998,Pacific,Moderate,Too Little
+54487,18,Female,32.400002,Pacific,Moderate,About Right
+54488,27,Female,33.099998,Pacific,Moderate,About Right
+54489,68,Female,22.5,Pacific,Moderate,Too Much
+54492,18,Female,33.099998,Pacific,Moderate,Too Little
+54493,43,Male,26.5,Pacific,Slightly Liberal,About Right
+54494,45,Male,37.299999,Pacific,Moderate,About Right
+54496,57,Male,26.5,Pacific,Moderate,About Right
+54497,51,Male,32.700001,Pacific,Moderate,About Right
+54499,53,Female,29.299999,Pacific,Moderate,Too Much
+54500,52,Female,37.700001,Pacific,Conservative,Too Much
+54501,68,Male,63.5,Pacific,Moderate,Too Little
+54503,49,Male,62.5,Pacific,Extrmly Conservative,About Right
+54504,24,Male,29.200001,Pacific,Slightly Liberal,Too Much
+54505,44,Female,36.900002,Pacific,Moderate,About Right
+54506,55,Male,28.6,Pacific,Liberal,About Right
+54507,35,Male,86,Pacific,Liberal,About Right
+54508,24,Male,37.900002,Pacific,Liberal,Too Little
+54509,28,Male,41.599998,Pacific,Liberal,About Right
+54510,47,Male,29.200001,Pacific,Slightly Liberal,Too Much
+54512,53,Female,33.900002,Pacific,Extremely Liberal,About Right
+54513,31,Male,37.900002,Pacific,Slightly Liberal,Too Little
+54514,30,Female,80.900002,Pacific,Slightly Liberal,Too Little
+54515,31,Female,27.5,Pacific,Extremely Liberal,About Right
+54516,53,Female,37.700001,Pacific,Moderate,About Right
+54517,57,Female,76.400002,Pacific,Liberal,Too Little
+54518,43,Male,38.900002,Pacific,Slightly Conservative,Too Little
+54519,37,Male,63.5,Pacific,Slightly Liberal,Too Little
+54520,67,Female,21.200001,Pacific,Extremely Liberal,Too Little
+54521,69,Male,45.900002,Pacific,Moderate,Too Much
+54522,50,Female,63.5,Pacific,Moderate,Too Much
+54523,55,Male,26.700001,Pacific,Conservative,Too Much
+54524,51,Male,50.700001,Pacific,Liberal,About Right
+54525,31,Female,73.199997,Pacific,Liberal,Too Little
+54526,44,Male,37.299999,Pacific,Conservative,About Right
+54527,26,Female,73.199997,Pacific,Slightly Liberal,About Right
+54529,54,Female,26.5,Pacific,Moderate,About Right
+54530,50,Female,33.099998,Pacific,Conservative,About Right
+54531,89,Male,86,Pacific,Extremely Liberal,About Right
+54532,42,Male,50.700001,Pacific,Moderate,About Right
+54533,49,Male,50.700001,Mountain,Liberal,Too Little
+54534,89,Female,32.299999,Mountain,Extrmly Conservative,Too Much
+54535,21,Male,50.700001,Mountain,Slightly Liberal,Too Little
+54536,39,Female,63.5,Mountain,Slightly Liberal,Too Little
+54537,60,Male,64,Mountain,Conservative,Too Little
+54538,40,Female,63.200001,Mountain,Moderate,Too Little
+54539,25,Male,29,Mountain,Moderate,Too Little
+54540,82,Male,38.299999,Mountain,Moderate,About Right
+54541,41,Female,67,Mountain,Moderate,About Right
+54542,34,Male,50.700001,Mountain,Liberal,Too Little
+54543,71,Female,22.9,Mountain,Conservative,About Right
+54544,65,Female,62.5,Mountain,Slightly Conservative,Too Little
+54546,70,Female,38.900002,Mountain,Liberal,Too Little
+54547,24,Male,41.599998,Mountain,Moderate,About Right
+54548,74,Male,32,Mountain,Conservative,About Right
+54549,63,Female,62.5,Mountain,Conservative,Too Much
+54550,65,Male,64.099998,Mountain,Moderate,About Right
+54551,67,Female,38.5,Mountain,Slightly Liberal,Too Little
+54552,35,Female,41.599998,Mountain,Slightly Conservative,About Right
+54553,63,Female,69.699997,Mountain,Conservative,Too Little
+54554,45,Male,37.400002,Mountain,Slightly Liberal,Too Little
+54555,79,Female,53.299999,Mountain,Moderate,About Right
+54556,49,Male,49.599998,Mountain,Moderate,Too Much
+54557,69,Male,38.099998,Mountain,Conservative,About Right
+54558,27,Female,50.700001,Mountain,Slightly Conservative,About Right
+54559,46,Female,59,Mountain,Conservative,About Right
+54560,57,Male,31.5,Mountain,Slightly Conservative,Too Little
+54561,31,Female,33.099998,Mountain,Moderate,Too Little
+54562,27,Female,29.299999,Mountain,Moderate,Too Little
+54564,30,Female,35.099998,Mountain,Moderate,About Right
+54565,23,Female,38,Mountain,Conservative,Too Little
+54566,30,Male,33.099998,Pacific,Moderate,About Right
+54568,21,Female,29.200001,Pacific,Moderate,About Right
+54569,38,Female,22.700001,Pacific,Slightly Conservative,About Right
+54570,25,Female,38.900002,Pacific,Moderate,Too Little
+54571,33,Male,31.4,Pacific,Slightly Conservative,Too Much
+54572,64,Female,60.599998,Pacific,Extremely Liberal,About Right
+54573,28,Male,27.5,Pacific,Moderate,About Right
+54574,51,Female,37.700001,Pacific,Slightly Conservative,About Right
+54575,32,Female,33.099998,Pacific,Moderate,About Right
+54576,38,Female,34.700001,Pacific,Slightly Conservative,About Right
+54577,37,Female,31.200001,Pacific,Slightly Liberal,Too Much
+54578,39,Male,31.4,Pacific,Moderate,About Right
+54579,41,Male,63.200001,Pacific,Conservative,Too Little
+54580,59,Female,38.5,Pacific,Extrmly Conservative,Too Much
+54581,76,Male,82.699997,Pacific,Conservative,Too Little
+54582,67,Female,63.5,Pacific,Moderate,About Right
+54583,64,Female,36.5,Pacific,Conservative,About Right
+54584,29,Male,39.400002,Pacific,Moderate,About Right
+54585,23,Female,38,Pacific,Slightly Liberal,About Right
+54586,55,Male,52.299999,Pacific,Slightly Liberal,Too Little
+54587,53,Female,51.900002,Pacific,Extremely Liberal,About Right
+54590,54,Male,73.599998,Pacific,Slightly Conservative,About Right
+54591,67,Female,63.5,Pacific,Moderate,Too Little
+54592,28,Female,36.5,Pacific,Moderate,Too Little
+54593,21,Male,28.6,Pacific,Liberal,About Right
+54594,20,Female,48.5,Pacific,Moderate,About Right
+54596,29,Male,45.099998,Pacific,Moderate,Too Little
+54598,65,Male,34.200001,Pacific,Liberal,Too Little
+54600,59,Female,56.599998,Pacific,Moderate,About Right
+54601,47,Female,73.199997,Pacific,Liberal,Too Little
+54602,80,Female,38.400002,Pacific,Moderate,About Right
+54603,67,Male,86.599998,Pacific,Moderate,About Right
+54605,76,Male,28.6,Pacific,Slightly Conservative,Too Little
+54606,49,Female,50.5,Pacific,Moderate,About Right
+54607,56,Female,73.199997,Pacific,Moderate,Too Little
+54609,69,Male,64.099998,Pacific,Moderate,Too Little
+54610,25,Female,59.099998,Pacific,Liberal,Too Little
+54611,42,Female,33.099998,Pacific,Slightly Liberal,Too Much
+54612,23,Male,80.900002,Pacific,Liberal,About Right
+54613,35,Female,63.5,Pacific,Liberal,Too Little
+54614,21,Female,36.5,Pacific,Liberal,About Right
+54617,76,Female,80.300003,Pacific,Liberal,Too Little
+54618,71,Male,78.5,Pacific,Liberal,Too Little
+54619,31,Male,76.300003,Pacific,Liberal,Too Little
+54621,42,Male,31.700001,Middle Atlantic,Liberal,About Right
+54622,52,Female,26.4,Middle Atlantic,Moderate,About Right
+54623,84,Female,38.400002,Middle Atlantic,Moderate,Too Much
+54624,59,Female,80.900002,Middle Atlantic,Liberal,Too Little
+54625,86,Female,80.900002,Middle Atlantic,Slightly Conservative,Too Little
+54626,39,Male,37.299999,Middle Atlantic,Moderate,About Right
+54627,31,Male,63.200001,Middle Atlantic,Conservative,About Right
+54628,43,Female,29.4,Middle Atlantic,Moderate,Too Little
+54629,59,Male,43.400002,Middle Atlantic,Moderate,Too Little
+54630,41,Male,70.5,Middle Atlantic,Liberal,Too Much
+54632,55,Male,86.599998,Middle Atlantic,Conservative,Too Much
+54633,52,Female,45.200001,Middle Atlantic,Moderate,About Right
+54634,66,Male,80.300003,Middle Atlantic,Slightly Liberal,Too Little
+54635,80,Female,37.700001,Middle Atlantic,Liberal,Too Little
+54636,59,Female,85.099998,Middle Atlantic,Slightly Conservative,Too Little
+54637,41,Female,63.200001,Middle Atlantic,Slightly Liberal,About Right
+54639,43,Male,93.300003,Middle Atlantic,Moderate,Too Little
+54640,65,Female,27.5,New England,Slightly Liberal,About Right
+54641,47,Male,32.799999,New England,Slightly Conservative,About Right
+54642,46,Male,32.799999,New England,Conservative,Too Little
+54643,80,Male,63.5,New England,Conservative,Too Little
+54644,83,Female,38.400002,New England,Conservative,Too Little
+54645,57,Male,34.200001,New England,Liberal,Too Little
+54646,61,Male,92.300003,New England,Moderate,Too Little
+54647,88,Female,38.400002,New England,Slightly Conservative,Too Little
+54649,62,Female,38.400002,New England,Moderate,About Right
+54650,60,Female,82.699997,New England,Slightly Liberal,Too Little
+54651,57,Male,54.900002,New England,Liberal,About Right
+54652,65,Male,47.900002,New England,Moderate,About Right
+54653,49,Male,42.5,New England,Moderate,Too Little
+54654,32,Male,43.400002,New England,Extremely Liberal,Too Little
+54655,52,Female,63.5,New England,Liberal,Too Little
+54656,85,Female,22.700001,New England,Moderate,About Right
+54657,39,Male,34.200001,Middle Atlantic,Moderate,About Right
+54660,52,Female,51.799999,Middle Atlantic,Moderate,About Right
+54661,29,Female,82.699997,Middle Atlantic,Conservative,About Right
+54663,33,Male,38.200001,Middle Atlantic,Moderate,Too Little
+54664,43,Female,38.400002,Middle Atlantic,Moderate,About Right
+54665,60,Male,38.200001,Middle Atlantic,Moderate,About Right
+54666,45,Male,64.099998,Middle Atlantic,Slightly Conservative,Too Little
+54667,63,Female,50.700001,Middle Atlantic,Liberal,Too Little
+54669,43,Male,73.599998,W. Nor. Central,Extrmly Conservative,Too Much
+54671,60,Female,87,W. Nor. Central,Slightly Liberal,Too Little
+54672,47,Male,63.5,W. Nor. Central,Slightly Conservative,About Right
+54673,28,Female,73.900002,W. Nor. Central,Slightly Conservative,Too Little
+54674,25,Male,69.199997,W. Nor. Central,Slightly Conservative,Too Little
+54677,26,Male,62.200001,W. Nor. Central,Moderate,Too Little
+54678,56,Male,50.5,W. Nor. Central,Slightly Liberal,About Right
+54679,24,Female,36.5,W. Nor. Central,Liberal,About Right
+54680,41,Male,28.200001,W. Nor. Central,Moderate,Too Little
+54681,69,Female,63.5,W. Nor. Central,Extremely Liberal,Too Little
+54682,52,Female,38.400002,W. Nor. Central,Conservative,About Right
+54683,51,Female,76.400002,W. Nor. Central,Moderate,About Right
+54684,56,Female,54.200001,W. Nor. Central,Conservative,Too Much
+54685,69,Male,75.199997,W. Nor. Central,Conservative,Too Much
+54686,60,Female,50.5,W. Nor. Central,Slightly Conservative,Too Little
+54687,67,Female,63.5,W. Nor. Central,Liberal,Too Little
+54688,57,Female,85.699997,W. Nor. Central,Slightly Conservative,Too Little
+54689,23,Male,38.5,W. Nor. Central,Liberal,About Right
+54690,58,Male,37.299999,W. Nor. Central,Moderate,Too Little
+54691,35,Female,38.900002,Mountain,Moderate,Too Little
+54692,59,Female,69.699997,Mountain,Conservative,Too Much
+54693,35,Female,73.199997,Mountain,Moderate,About Right
+54694,39,Male,48.5,Mountain,Slightly Liberal,Too Little
+54695,55,Female,50.5,Mountain,Conservative,About Right
+54696,69,Male,35.099998,Mountain,Moderate,Too Little
+54697,31,Female,59,Mountain,Extremely Liberal,About Right
+54698,60,Female,32.400002,Mountain,Moderate,About Right
+54699,38,Female,64.400002,Mountain,Moderate,Too Little
+54700,48,Female,69.699997,Mountain,Liberal,About Right
+54701,40,Female,80.300003,Mountain,Moderate,Too Little
+54702,29,Female,29.299999,Mountain,Moderate,About Right
+54704,30,Female,33.099998,Mountain,Slightly Conservative,About Right
+54705,37,Female,33.299999,Mountain,Slightly Liberal,About Right
+54707,30,Female,86.5,Mountain,Moderate,Too Little
+54708,58,Male,84,Mountain,Slightly Liberal,Too Little
+54709,41,Female,32.400002,Mountain,Liberal,About Right
+54710,72,Female,32.400002,Mountain,Moderate,About Right
+54711,50,Female,29.799999,Mountain,Extrmly Conservative,About Right
+54712,83,Male,31.5,Mountain,Moderate,About Right
+54713,82,Male,62,Mountain,Extrmly Conservative,Too Much
+54714,47,Female,73.199997,W. Nor. Central,Slightly Liberal,About Right
+54715,50,Female,33.099998,W. Nor. Central,Moderate,Too Little
+54717,88,Male,37.299999,W. Nor. Central,Moderate,About Right
+54718,59,Female,44.299999,W. Nor. Central,Moderate,About Right
+54720,27,Female,29.299999,W. Nor. Central,Moderate,About Right
+54723,56,Male,38.099998,W. Nor. Central,Moderate,About Right
+54724,56,Male,31.4,W. Nor. Central,Moderate,About Right
+54725,77,Male,32.299999,W. Nor. Central,Moderate,About Right
+54726,63,Male,31.5,W. Nor. Central,Liberal,Too Little
+54727,57,Female,50.700001,E. Nor. Central,Slightly Conservative,About Right
+54728,72,Male,48.5,E. Nor. Central,Moderate,Too Little
+54730,46,Female,27.5,E. Nor. Central,Liberal,Too Little
+54731,78,Female,31.200001,E. Nor. Central,Slightly Liberal,About Right
+54732,30,Female,50.5,E. Nor. Central,Conservative,About Right
+54733,74,Female,38,E. Nor. Central,Moderate,About Right
+54734,42,Male,66.099998,W. Nor. Central,Conservative,About Right
+54735,61,Male,33.599998,W. Nor. Central,Conservative,Too Little
+54737,76,Male,73.900002,W. Nor. Central,Slightly Liberal,Too Much
+54738,50,Female,45.799999,W. Nor. Central,Moderate,About Right
+54739,82,Male,31.5,W. Nor. Central,Moderate,Too Little
+54740,47,Female,61.900002,W. Nor. Central,Conservative,About Right
+54741,48,Female,31.4,W. Nor. Central,Moderate,About Right
+54742,52,Male,29.200001,W. Nor. Central,Moderate,About Right
+54743,75,Female,17.1,W. Nor. Central,Slightly Liberal,Too Little
+54745,34,Female,50.700001,W. Nor. Central,Slightly Conservative,About Right
+54746,54,Female,62.099998,W. Nor. Central,Moderate,Too Little
+54747,25,Female,36.5,W. Nor. Central,Moderate,About Right
+54748,39,Female,38.900002,W. Nor. Central,Moderate,About Right
+54749,46,Male,28.6,W. Nor. Central,Slightly Conservative,Too Much
+54751,58,Male,37.299999,W. Nor. Central,Conservative,About Right
+54752,51,Female,74.400002,W. Nor. Central,Conservative,About Right
+54753,50,Female,50.5,E. Nor. Central,Moderate,About Right
+54754,50,Female,33.099998,E. Nor. Central,Moderate,About Right
+54757,61,Female,28.4,E. Nor. Central,Moderate,About Right
+54758,29,Female,38.900002,E. Nor. Central,Moderate,Too Little
+54759,37,Female,35.099998,E. Nor. Central,Moderate,About Right
+54760,54,Female,38.900002,E. Nor. Central,Moderate,About Right
+54761,24,Male,29.200001,E. Nor. Central,Extremely Liberal,Too Much
+54763,30,Male,63.5,E. Nor. Central,Conservative,Too Little
+54765,19,Male,69.199997,E. Nor. Central,Moderate,About Right
+54767,61,Male,45.799999,E. Nor. Central,Extrmly Conservative,About Right
+54768,67,Female,31.200001,E. Nor. Central,Moderate,About Right
+54769,50,Male,24.200001,E. Nor. Central,Liberal,About Right
+54770,35,Female,73.300003,E. Nor. Central,Conservative,Too Much
+54771,50,Male,38.099998,E. Nor. Central,Moderate,About Right
+54772,41,Male,31.4,E. Nor. Central,Moderate,Too Little
+54774,60,Male,37.299999,E. Nor. Central,Moderate,Too Much
+54776,39,Male,50.5,E. Nor. Central,Moderate,Too Little
+54777,82,Female,63.5,E. Nor. Central,Slightly Conservative,About Right
+54778,43,Male,88.800003,E. Nor. Central,Slightly Liberal,Too Little
+54779,73,Female,36.5,E. Nor. Central,Conservative,Too Much
+54780,82,Male,84.199997,E. Nor. Central,Slightly Conservative,About Right
+54781,70,Female,78.5,E. Nor. Central,Slightly Conservative,About Right
+54782,46,Male,85.099998,E. Nor. Central,Slightly Conservative,Too Little
+54783,89,Male,73.900002,E. Nor. Central,Conservative,About Right
+54784,57,Male,63.5,E. Nor. Central,Slightly Conservative,Too Little
+54785,62,Female,83.699997,E. Nor. Central,Conservative,Too Little
+54786,41,Female,78.5,E. Nor. Central,Slightly Conservative,About Right
+54787,57,Female,66.099998,E. Nor. Central,Slightly Conservative,Too Much
+54788,76,Male,37.299999,E. Nor. Central,Moderate,About Right
+54789,38,Male,63.5,E. Nor. Central,Slightly Conservative,About Right
+54790,69,Male,28.6,E. Nor. Central,Slightly Conservative,About Right
+54791,60,Male,29.6,E. Nor. Central,Conservative,About Right
+54792,66,Male,29.200001,E. Nor. Central,Liberal,About Right
+54794,35,Female,63.5,South Atlantic,Moderate,Too Little
+54795,42,Male,36.900002,South Atlantic,Extrmly Conservative,Too Much
+54796,37,Male,20.1,South Atlantic,Slightly Liberal,Too Little
+54798,33,Male,80.900002,South Atlantic,Slightly Liberal,Too Little
+54799,62,Male,31.5,South Atlantic,Extrmly Conservative,Too Much
+54800,52,Male,26.6,South Atlantic,Moderate,Too Little
+54801,58,Female,78.5,South Atlantic,Liberal,About Right
+54802,49,Male,32.700001,South Atlantic,Extremely Liberal,About Right
+54803,26,Male,33.299999,South Atlantic,Liberal,About Right
+54804,47,Female,28.4,South Atlantic,Slightly Conservative,About Right
+54805,32,Female,22.9,South Atlantic,Conservative,About Right
+54806,42,Male,31.5,South Atlantic,Conservative,Too Little
+54807,30,Female,22.5,South Atlantic,Extrmly Conservative,Too Little
+54808,45,Female,22.700001,South Atlantic,Moderate,Too Little
+54809,61,Female,26.4,South Atlantic,Liberal,Too Little
+54810,26,Male,38.5,South Atlantic,Slightly Conservative,Too Little
+54812,57,Male,26.700001,South Atlantic,Conservative,Too Little
+54813,36,Male,50.700001,South Atlantic,Moderate,About Right
+54814,67,Female,32,South Atlantic,Conservative,About Right
+54816,42,Female,63.5,South Atlantic,Moderate,Too Much
+54818,37,Male,32.299999,South Atlantic,Slightly Conservative,Too Little
+54819,69,Female,30.700001,South Atlantic,Moderate,Too Little
+54820,61,Male,28.4,South Atlantic,Extrmly Conservative,About Right
+54821,65,Female,17.6,South Atlantic,Moderate,About Right
+54823,67,Female,78.5,South Atlantic,Moderate,Too Little
+54824,62,Male,49.599998,South Atlantic,Extrmly Conservative,Too Much
+54825,38,Male,26.4,South Atlantic,Moderate,About Right
+54826,60,Male,31.4,South Atlantic,Slightly Conservative,Too Little
+54827,45,Male,17.1,South Atlantic,Liberal,About Right
+54828,57,Male,49.599998,South Atlantic,Conservative,Too Much
+54833,89,Male,26.700001,E. Sou. Central,Moderate,About Right
+54834,62,Male,53.900002,E. Sou. Central,Liberal,Too Much
+54836,29,Male,34.200001,E. Sou. Central,Moderate,Too Little
+54837,40,Female,70.5,E. Sou. Central,Moderate,About Right
+54839,61,Male,44.700001,E. Sou. Central,Moderate,About Right
+54840,24,Male,66.099998,E. Sou. Central,Conservative,About Right
+54841,67,Female,67,E. Sou. Central,Slightly Liberal,Too Little
+54842,42,Male,42.200001,E. Sou. Central,Conservative,About Right
+54843,54,Male,62.5,E. Sou. Central,Moderate,Too Little
+54844,45,Female,61.900002,E. Sou. Central,Slightly Conservative,About Right
+54845,39,Male,38.099998,E. Sou. Central,Liberal,Too Much
+54846,64,Female,32.400002,E. Sou. Central,Conservative,About Right
+54849,21,Male,37.599998,E. Sou. Central,Moderate,About Right
+54850,37,Male,62,E. Sou. Central,Extrmly Conservative,About Right
+54851,32,Female,29,E. Sou. Central,Conservative,About Right
+54854,46,Male,63.5,South Atlantic,Conservative,Too Little
+54856,48,Female,27.5,South Atlantic,Extremely Liberal,About Right
+54857,33,Female,39,South Atlantic,Slightly Liberal,About Right
+54858,54,Female,37.400002,South Atlantic,Slightly Liberal,Too Much
+54859,50,Female,51.900002,South Atlantic,Moderate,Too Little
+54860,39,Female,63.5,South Atlantic,Moderate,Too Little
+54861,46,Female,78.5,South Atlantic,Moderate,About Right
+54862,60,Female,38.900002,South Atlantic,Moderate,Too Little
+54863,55,Male,26.9,W. Sou. Central,Moderate,About Right
+54865,48,Female,21.200001,W. Sou. Central,Liberal,About Right
+54866,30,Female,78.5,W. Sou. Central,Moderate,About Right
+54867,62,Female,33.099998,W. Sou. Central,Slightly Liberal,About Right
+54868,57,Female,38,W. Sou. Central,Moderate,About Right
+54871,55,Female,43.700001,W. Sou. Central,Moderate,About Right
+54872,69,Male,26.5,W. Sou. Central,Moderate,Too Little
+54873,41,Male,65.800003,W. Sou. Central,Slightly Liberal,About Right
+54874,58,Female,69.699997,W. Sou. Central,Moderate,Too Much
+54875,34,Female,39.599998,W. Sou. Central,Conservative,About Right
+54877,49,Male,38.099998,W. Sou. Central,Moderate,Too Little
+54879,55,Male,67,W. Sou. Central,Moderate,About Right
+54880,56,Female,29.200001,W. Sou. Central,Slightly Liberal,Too Little
+54881,58,Female,50.5,W. Sou. Central,Moderate,Too Much
+54882,63,Female,80.300003,W. Sou. Central,Slightly Conservative,Too Little
+54884,74,Female,80.300003,W. Sou. Central,Conservative,About Right
+54887,46,Male,65.800003,W. Sou. Central,Moderate,About Right
+54888,25,Female,36.5,W. Sou. Central,Moderate,About Right
+54889,20,Female,33.099998,W. Sou. Central,Moderate,About Right
+54890,68,Female,17.1,W. Sou. Central,Slightly Conservative,Too Little
+54892,55,Male,39.400002,W. Sou. Central,Slightly Liberal,Too Little
+54896,59,Female,33.099998,W. Sou. Central,Conservative,About Right
+54897,59,Female,29.299999,W. Sou. Central,Liberal,Too Little
+54898,47,Female,27.5,W. Sou. Central,Conservative,Too Little
+54900,59,Female,29.299999,W. Sou. Central,Moderate,Too Little
+54901,22,Male,35.200001,W. Sou. Central,Moderate,Too Little
+54904,65,Female,38,South Atlantic,Moderate,About Right
+54906,76,Female,80.300003,South Atlantic,Conservative,Too Little
+54907,70,Female,29.200001,South Atlantic,Slightly Conservative,About Right
+54908,50,Male,31.5,South Atlantic,Conservative,About Right
+54910,55,Male,63.5,South Atlantic,Moderate,About Right
+54911,51,Male,29.200001,South Atlantic,Moderate,Too Little
+54912,53,Female,31.5,South Atlantic,Conservative,About Right
+54913,66,Male,69.699997,South Atlantic,Slightly Conservative,Too Little
+54914,67,Female,69.699997,South Atlantic,Liberal,Too Little
+54915,89,Male,50.700001,South Atlantic,Moderate,Too Little
+54916,43,Female,25.5,South Atlantic,Moderate,Too Much
+54917,45,Female,50.5,South Atlantic,Moderate,About Right
+54918,25,Female,63.200001,South Atlantic,Liberal,Too Little
+54919,38,Female,67,South Atlantic,Moderate,About Right
+54920,53,Male,31.4,South Atlantic,Extrmly Conservative,Too Much
+54921,54,Female,29.299999,South Atlantic,Slightly Conservative,Too Much
+54922,68,Female,17.1,South Atlantic,Moderate,Too Much
+54924,53,Male,31.5,South Atlantic,Conservative,About Right
+54925,53,Female,26.700001,W. Sou. Central,Slightly Liberal,About Right
+54926,41,Male,48.799999,W. Sou. Central,Moderate,Too Much
+54927,59,Female,71.599998,W. Sou. Central,Slightly Conservative,Too Little
+54928,35,Male,34.200001,W. Sou. Central,Liberal,Too Little
+54929,65,Male,37.299999,W. Sou. Central,Extremely Liberal,Too Little
+54930,27,Female,33.099998,W. Sou. Central,Conservative,About Right
+54931,44,Female,22.5,W. Sou. Central,Moderate,About Right
+54934,26,Female,33.099998,W. Sou. Central,Moderate,About Right
+54935,26,Female,29.299999,W. Sou. Central,Conservative,About Right
+54937,27,Female,38.5,W. Sou. Central,Moderate,Too Little
+54938,27,Male,34.400002,W. Sou. Central,Moderate,Too Little
+54940,29,Male,37.900002,W. Sou. Central,Slightly Conservative,About Right
+54941,29,Female,29.299999,W. Sou. Central,Moderate,About Right
+54943,59,Female,27.5,W. Sou. Central,Slightly Conservative,Too Little
+54945,53,Female,63.5,South Atlantic,Moderate,Too Much
+54946,30,Male,45.200001,South Atlantic,Slightly Liberal,About Right
+54948,33,Female,50.700001,South Atlantic,Moderate,Too Little
+54949,34,Female,63.5,South Atlantic,Slightly Liberal,Too Little
+54950,29,Female,32.400002,South Atlantic,Slightly Conservative,About Right
+54951,39,Female,29.299999,South Atlantic,Extremely Liberal,Too Little
+54952,22,Female,38.900002,South Atlantic,Extremely Liberal,Too Little
+54957,52,Male,63.5,South Atlantic,Moderate,Too Much
+54958,59,Male,39.5,South Atlantic,Moderate,Too Much
+54959,40,Male,31.5,South Atlantic,Extrmly Conservative,About Right
+54960,45,Male,53.700001,South Atlantic,Slightly Conservative,Too Little
+54962,62,Male,63.5,South Atlantic,Conservative,Too Much
+54963,67,Male,73.900002,South Atlantic,Extrmly Conservative,Too Much
+54964,35,Female,38.900002,South Atlantic,Slightly Conservative,About Right
+54966,41,Male,29.200001,South Atlantic,Slightly Conservative,Too Little
+54967,38,Male,50.5,W. Sou. Central,Slightly Conservative,Too Little
+54968,53,Female,53.299999,W. Sou. Central,Slightly Conservative,Too Little
+54969,51,Male,29.4,W. Sou. Central,Slightly Conservative,About Right
+54970,27,Female,29.299999,W. Sou. Central,Liberal,About Right
+54971,51,Male,63.200001,W. Sou. Central,Slightly Conservative,About Right
+54972,44,Female,58.099998,W. Sou. Central,Slightly Liberal,Too Much
+54973,56,Male,39,W. Sou. Central,Moderate,About Right
+54974,32,Male,32.700001,W. Sou. Central,Slightly Conservative,Too Much
+54975,60,Male,64.800003,W. Sou. Central,Slightly Liberal,About Right
+54976,35,Female,33.099998,W. Sou. Central,Moderate,About Right
+54977,49,Male,29.200001,W. Sou. Central,Moderate,Too Little
+54979,75,Female,64.400002,W. Sou. Central,Moderate,Too Much
+54980,37,Female,31.200001,W. Sou. Central,Slightly Liberal,About Right
+54981,64,Female,73.199997,W. Sou. Central,Slightly Conservative,Too Little
+54982,50,Male,31.5,W. Sou. Central,Moderate,About Right
+54983,47,Male,24.6,W. Sou. Central,Moderate,About Right
+54984,75,Male,56.5,E. Sou. Central,Slightly Conservative,About Right
+54985,67,Male,35.099998,E. Sou. Central,Conservative,Too Little
+54986,52,Female,38.400002,E. Sou. Central,Extremely Liberal,Too Little
+54988,51,Female,29.5,E. Sou. Central,Conservative,About Right
+54989,67,Female,71.599998,E. Sou. Central,Extrmly Conservative,About Right
+54990,32,Male,64.800003,E. Sou. Central,Moderate,Too Little
+54991,36,Female,65.800003,E. Sou. Central,Slightly Conservative,Too Little
+54992,63,Female,48.5,E. Sou. Central,Moderate,Too Little
+54993,64,Male,32.299999,E. Sou. Central,Moderate,About Right
+54994,65,Male,38.099998,E. Sou. Central,Moderate,Too Much
+54996,53,Female,78.5,E. Sou. Central,Moderate,About Right
+54997,51,Male,28.6,E. Sou. Central,Moderate,Too Little
+54998,50,Female,26.700001,E. Sou. Central,Slightly Liberal,Too Much
+54999,68,Female,22.700001,E. Sou. Central,Slightly Liberal,About Right
+55000,52,Male,28.6,E. Sou. Central,Moderate,Too Much
+55001,58,Female,63.5,E. Sou. Central,Moderate,About Right
+55002,44,Female,60.5,E. Sou. Central,Liberal,Too Little
+55005,59,Female,33.099998,E. Sou. Central,Conservative,Too Little
+55006,77,Male,38.799999,E. Sou. Central,Slightly Conservative,Too Little
+55009,28,Female,27.700001,E. Sou. Central,Slightly Liberal,Too Little
+55011,50,Male,26.700001,E. Sou. Central,Conservative,Too Much
+55012,37,Female,32.400002,W. Sou. Central,Moderate,About Right
+55013,52,Male,50.700001,W. Sou. Central,Extrmly Conservative,Too Much
+55014,39,Female,53.700001,W. Sou. Central,Conservative,About Right
+55015,67,Male,32,W. Sou. Central,Moderate,Too Much
+55016,58,Female,63.5,W. Sou. Central,Moderate,About Right
+55017,60,Male,29.200001,W. Sou. Central,Extrmly Conservative,About Right
+55018,65,Male,52.5,W. Sou. Central,Extrmly Conservative,Too Much
+55019,61,Female,73.300003,W. Sou. Central,Slightly Liberal,About Right
+55020,57,Male,62.200001,W. Sou. Central,Moderate,Too Little
+55021,59,Male,31.5,W. Sou. Central,Moderate,About Right
+55022,26,Female,38.900002,W. Sou. Central,Extrmly Conservative,Too Much
+55023,54,Male,29.5,W. Sou. Central,Moderate,About Right
+55024,29,Female,62.5,W. Sou. Central,Conservative,About Right
+55025,43,Female,33.099998,W. Sou. Central,Slightly Conservative,Too Little
+55026,59,Male,78.5,W. Sou. Central,Extrmly Conservative,About Right
+55027,83,Male,87.900002,W. Sou. Central,Conservative,Too Little
+55028,66,Female,48.5,W. Sou. Central,Moderate,About Right
+55029,36,Female,30.799999,South Atlantic,Slightly Conservative,Too Little
+55030,25,Female,38.900002,South Atlantic,Slightly Liberal,Too Little
+55031,20,Female,41.599998,South Atlantic,Moderate,About Right
+55032,61,Male,37.700001,South Atlantic,Slightly Conservative,Too Little
+55033,67,Female,26.4,South Atlantic,Slightly Conservative,Too Little
+55034,60,Female,55.099998,South Atlantic,Moderate,About Right
+55035,81,Male,44.700001,South Atlantic,Moderate,Too Little
+55036,45,Female,33.099998,South Atlantic,Slightly Conservative,Too Little
+55037,37,Male,63.5,South Atlantic,Moderate,About Right
+55038,86,Male,38.200001,South Atlantic,Liberal,Too Little
+55040,46,Female,41.599998,South Atlantic,Moderate,Too Little
+55041,34,Female,38.900002,South Atlantic,Slightly Liberal,About Right
+55043,70,Female,35.099998,South Atlantic,Slightly Liberal,Too Little
+55044,25,Female,40,South Atlantic,Moderate,About Right
+55045,52,Female,58.099998,South Atlantic,Liberal,Too Little
+55046,50,Female,63.5,South Atlantic,Conservative,Too Little
+55047,23,Male,83.699997,South Atlantic,Moderate,About Right
+55048,46,Female,38.400002,South Atlantic,Slightly Conservative,About Right
+55051,25,Male,38.5,Mountain,Conservative,About Right
+55055,56,Female,78.5,Mountain,Extremely Liberal,Too Little
+55056,63,Male,34.200001,Mountain,Moderate,About Right
+55057,53,Female,31.200001,Mountain,Extrmly Conservative,Too Little
+55058,50,Female,85.099998,Mountain,Liberal,Too Little
+55059,71,Male,31.4,Mountain,Moderate,About Right
+55061,19,Male,27.700001,Mountain,Liberal,Too Little
+55062,44,Male,53.900002,Mountain,Slightly Liberal,Too Much
+55065,30,Male,29.4,Mountain,Extrmly Conservative,About Right
+55067,42,Female,37.700001,Mountain,Moderate,About Right
+55068,25,Male,38.5,Mountain,Moderate,Too Little
+55070,65,Male,33.900002,Mountain,Slightly Conservative,Too Little
+55071,49,Female,28.4,Mountain,Moderate,About Right
+55072,69,Female,26.4,Pacific,Slightly Liberal,About Right
+55073,43,Female,63.5,Pacific,Moderate,Too Little
+55074,36,Male,37.900002,Pacific,Conservative,Too Little
+55075,34,Male,34.200001,Pacific,Slightly Liberal,About Right
+55076,43,Female,60.599998,Pacific,Extremely Liberal,Too Little
+55077,48,Female,38.400002,Pacific,Moderate,Too Little
+55078,23,Male,28.4,Pacific,Moderate,About Right
+55080,21,Female,32.400002,Pacific,Slightly Conservative,About Right
+55081,70,Male,29.4,Pacific,Moderate,Too Much
+55082,63,Male,32.299999,Pacific,Moderate,About Right
+55083,62,Male,80,Pacific,Slightly Conservative,About Right
+55084,66,Female,50.700001,Pacific,Extrmly Conservative,Too Little
+55085,54,Female,65.800003,Pacific,Slightly Liberal,About Right
+55086,57,Female,63.5,Pacific,Slightly Liberal,Too Little
+55087,30,Male,76.300003,Pacific,Moderate,Too Much
