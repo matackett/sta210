@@ -112,7 +112,7 @@ caseid,age,sex,sei,region,polviews,natmass
 53188,49,Female,96,Pacific,Slightly Conservative,About Right
 53190,70,Female,29.299999,Pacific,Moderate,Too Little
 53191,42,Male,31.4,Pacific,Slightly Liberal,About Right
-53192,35,Male,31.4,Pacific,Extrmly Conservative,Too Little
+53192,35,Male,31.4,Pacific,Extremely Conservative,Too Little
 53194,68,Male,38.900002,Pacific,Slightly Liberal,Too Little
 53195,34,Male,87.900002,Pacific,Slightly Conservative,About Right
 53196,30,Male,38.799999,Pacific,Liberal,About Right
@@ -169,7 +169,7 @@ caseid,age,sex,sei,region,polviews,natmass
 53253,34,Female,26.4,E. Nor. Central,Slightly Liberal,Too Little
 53255,35,Female,28.4,E. Nor. Central,Moderate,About Right
 53256,29,Female,33.099998,E. Nor. Central,Slightly Conservative,Too Little
-53257,32,Female,25.299999,E. Nor. Central,Extrmly Conservative,About Right
+53257,32,Female,25.299999,E. Nor. Central,Extremely Conservative,About Right
 53258,63,Female,69.199997,E. Nor. Central,Liberal,Too Much
 53259,80,Female,37.700001,E. Nor. Central,Slightly Liberal,About Right
 53260,52,Male,29.299999,E. Nor. Central,Conservative,About Right
@@ -187,7 +187,7 @@ caseid,age,sex,sei,region,polviews,natmass
 53273,75,Male,50.700001,E. Nor. Central,Moderate,Too Little
 53274,66,Male,50.700001,E. Nor. Central,Moderate,Too Little
 53275,76,Female,38.400002,E. Nor. Central,Moderate,Too Little
-53276,79,Male,62,E. Nor. Central,Extrmly Conservative,About Right
+53276,79,Male,62,E. Nor. Central,Extremely Conservative,About Right
 53277,29,Female,63.5,E. Nor. Central,Moderate,Too Little
 53278,60,Female,73.199997,E. Nor. Central,Extremely Liberal,Too Little
 53279,36,Female,63.5,E. Nor. Central,Moderate,Too Little
@@ -246,7 +246,7 @@ caseid,age,sex,sei,region,polviews,natmass
 53336,54,Female,64.199997,Pacific,Slightly Liberal,Too Little
 53337,64,Female,71.599998,Pacific,Extremely Liberal,Too Little
 53340,30,Male,30,Pacific,Moderate,Too Little
-53341,53,Female,33.099998,Pacific,Extrmly Conservative,About Right
+53341,53,Female,33.099998,Pacific,Extremely Conservative,About Right
 53342,39,Male,29.200001,Pacific,Slightly Conservative,About Right
 53343,39,Male,34.299999,Pacific,Moderate,About Right
 53344,50,Male,51,Pacific,Moderate,About Right
@@ -286,12 +286,12 @@ caseid,age,sex,sei,region,polviews,natmass
 53381,40,Female,50.5,Middle Atlantic,Liberal,Too Much
 53382,27,Male,66.099998,Middle Atlantic,Conservative,About Right
 53383,85,Female,44.299999,Middle Atlantic,Slightly Liberal,Too Little
-53384,62,Female,87,Middle Atlantic,Extrmly Conservative,Too Little
+53384,62,Female,87,Middle Atlantic,Extremely Conservative,Too Little
 53385,29,Female,64.800003,Middle Atlantic,Conservative,About Right
 53386,30,Male,29.200001,Middle Atlantic,Liberal,Too Little
 53387,28,Female,69.199997,Middle Atlantic,Extremely Liberal,About Right
 53389,27,Female,63.200001,Middle Atlantic,Moderate,About Right
-53391,35,Female,81,Middle Atlantic,Extrmly Conservative,About Right
+53391,35,Female,81,Middle Atlantic,Extremely Conservative,About Right
 53392,32,Male,29.200001,Middle Atlantic,Conservative,Too Little
 53393,67,Female,50.5,Middle Atlantic,Liberal,Too Little
 53394,69,Female,33.099998,Middle Atlantic,Slightly Conservative,About Right
@@ -330,10 +330,10 @@ caseid,age,sex,sei,region,polviews,natmass
 53434,43,Female,50.5,E. Nor. Central,Moderate,Too Much
 53435,48,Female,48.5,E. Nor. Central,Liberal,About Right
 53436,59,Male,50.5,E. Nor. Central,Slightly Conservative,Too Little
-53437,43,Male,50.700001,E. Nor. Central,Extrmly Conservative,About Right
+53437,43,Male,50.700001,E. Nor. Central,Extremely Conservative,About Right
 53439,67,Male,76.400002,E. Nor. Central,Slightly Conservative,Too Little
 53440,56,Female,37.700001,E. Nor. Central,Slightly Liberal,Too Much
-53441,65,Female,31.200001,E. Nor. Central,Extrmly Conservative,Too Little
+53441,65,Female,31.200001,E. Nor. Central,Extremely Conservative,Too Little
 53442,21,Female,38.900002,E. Nor. Central,Conservative,About Right
 53444,54,Female,29.299999,E. Nor. Central,Extremely Liberal,Too Little
 53445,62,Female,39.400002,E. Nor. Central,Extremely Liberal,Too Little
@@ -342,7 +342,7 @@ caseid,age,sex,sei,region,polviews,natmass
 53449,51,Female,29.299999,E. Nor. Central,Moderate,Too Little
 53450,54,Male,33.599998,E. Nor. Central,Slightly Liberal,Too Little
 53452,21,Male,87.900002,E. Nor. Central,Liberal,About Right
-53453,45,Male,28.4,E. Nor. Central,Extrmly Conservative,Too Little
+53453,45,Male,28.4,E. Nor. Central,Extremely Conservative,Too Little
 53454,62,Male,92.300003,E. Nor. Central,Moderate,About Right
 53456,70,Female,50.700001,E. Nor. Central,Slightly Conservative,About Right
 53457,28,Male,92.300003,W. Sou. Central,Slightly Conservative,Too Little
@@ -354,11 +354,11 @@ caseid,age,sex,sei,region,polviews,natmass
 53464,62,Male,56.5,W. Sou. Central,Extremely Liberal,Too Little
 53465,86,Male,38.900002,W. Sou. Central,Slightly Conservative,Too Much
 53466,43,Female,33.099998,W. Sou. Central,Liberal,About Right
-53467,34,Female,39.400002,W. Sou. Central,Extrmly Conservative,Too Little
+53467,34,Female,39.400002,W. Sou. Central,Extremely Conservative,Too Little
 53468,45,Male,37.599998,W. Sou. Central,Slightly Liberal,About Right
-53469,22,Male,40,W. Sou. Central,Extrmly Conservative,Too Much
-53470,37,Male,32.299999,W. Sou. Central,Extrmly Conservative,About Right
-53471,29,Female,30.799999,W. Sou. Central,Extrmly Conservative,About Right
+53469,22,Male,40,W. Sou. Central,Extremely Conservative,Too Much
+53470,37,Male,32.299999,W. Sou. Central,Extremely Conservative,About Right
+53471,29,Female,30.799999,W. Sou. Central,Extremely Conservative,About Right
 53472,37,Female,64.800003,W. Sou. Central,Conservative,Too Little
 53473,37,Female,51.900002,W. Sou. Central,Conservative,Too Little
 53474,69,Female,63.5,W. Sou. Central,Slightly Liberal,About Right
@@ -432,7 +432,7 @@ caseid,age,sex,sei,region,polviews,natmass
 53551,40,Male,32.299999,New England,Extremely Liberal,Too Little
 53552,56,Female,25.5,New England,Moderate,About Right
 53553,49,Male,48.5,New England,Slightly Conservative,Too Little
-53554,68,Male,63.5,New England,Extrmly Conservative,Too Much
+53554,68,Male,63.5,New England,Extremely Conservative,Too Much
 53555,53,Male,73.599998,New England,Moderate,About Right
 53556,59,Female,26.4,New England,Slightly Liberal,About Right
 53557,66,Female,60.599998,New England,Slightly Liberal,Too Little
@@ -446,11 +446,11 @@ caseid,age,sex,sei,region,polviews,natmass
 53566,71,Male,32.299999,New England,Conservative,Too Much
 53567,41,Female,63.5,New England,Moderate,About Right
 53568,56,Female,31.4,New England,Conservative,Too Little
-53569,44,Male,63.5,New England,Extrmly Conservative,About Right
+53569,44,Male,63.5,New England,Extremely Conservative,About Right
 53571,26,Female,39.599998,New England,Conservative,Too Much
 53572,39,Male,63.5,New England,Conservative,Too Little
 53573,41,Female,67,New England,Moderate,About Right
-53574,25,Male,63.200001,South Atlantic,Extrmly Conservative,Too Little
+53574,25,Male,63.200001,South Atlantic,Extremely Conservative,Too Little
 53576,55,Female,63.5,South Atlantic,Slightly Liberal,Too Little
 53577,21,Female,26.4,South Atlantic,Moderate,Too Little
 53578,21,Male,38.900002,South Atlantic,Liberal,About Right
@@ -460,7 +460,7 @@ caseid,age,sex,sei,region,polviews,natmass
 53583,47,Female,78.5,South Atlantic,Moderate,About Right
 53584,41,Female,39.400002,South Atlantic,Liberal,Too Little
 53585,65,Male,85.099998,South Atlantic,Conservative,Too Little
-53586,34,Male,31.200001,South Atlantic,Extrmly Conservative,Too Little
+53586,34,Male,31.200001,South Atlantic,Extremely Conservative,Too Little
 53587,26,Female,32.400002,South Atlantic,Moderate,Too Little
 53588,41,Female,73.199997,South Atlantic,Moderate,Too Little
 53589,39,Female,38.5,South Atlantic,Liberal,About Right
@@ -469,7 +469,7 @@ caseid,age,sex,sei,region,polviews,natmass
 53592,56,Female,51.900002,South Atlantic,Slightly Conservative,Too Much
 53594,48,Male,86.5,South Atlantic,Conservative,Too Little
 53597,33,Male,28.4,South Atlantic,Moderate,Too Little
-53598,54,Male,63.5,South Atlantic,Extrmly Conservative,Too Little
+53598,54,Male,63.5,South Atlantic,Extremely Conservative,Too Little
 53600,47,Male,63.5,South Atlantic,Slightly Liberal,Too Little
 53602,29,Female,29.299999,South Atlantic,Extremely Liberal,Too Little
 53603,37,Female,46.700001,South Atlantic,Moderate,Too Little
@@ -482,9 +482,9 @@ caseid,age,sex,sei,region,polviews,natmass
 53610,33,Male,36.5,Mountain,Moderate,Too Little
 53611,31,Female,26.4,Mountain,Conservative,Too Much
 53612,81,Female,64.199997,Mountain,Conservative,About Right
-53613,78,Female,30.200001,Mountain,Extrmly Conservative,Too Little
-53614,58,Male,31.299999,Mountain,Extrmly Conservative,About Right
-53615,89,Female,34.599998,Mountain,Extrmly Conservative,Too Much
+53613,78,Female,30.200001,Mountain,Extremely Conservative,Too Little
+53614,58,Male,31.299999,Mountain,Extremely Conservative,About Right
+53615,89,Female,34.599998,Mountain,Extremely Conservative,Too Much
 53616,88,Male,86.599998,Mountain,Conservative,About Right
 53617,18,Male,38.900002,Mountain,Extremely Liberal,Too Much
 53618,40,Male,82.699997,Mountain,Slightly Conservative,About Right
@@ -493,7 +493,7 @@ caseid,age,sex,sei,region,polviews,natmass
 53622,79,Female,38.400002,Mountain,Moderate,Too Little
 53623,58,Female,63.5,Mountain,Moderate,About Right
 53624,62,Female,33.299999,South Atlantic,Slightly Conservative,About Right
-53625,64,Male,32.299999,South Atlantic,Extrmly Conservative,About Right
+53625,64,Male,32.299999,South Atlantic,Extremely Conservative,About Right
 53627,31,Male,24.200001,South Atlantic,Moderate,About Right
 53628,65,Male,29.5,South Atlantic,Conservative,Too Much
 53629,62,Female,62.5,South Atlantic,Moderate,About Right
@@ -554,7 +554,7 @@ caseid,age,sex,sei,region,polviews,natmass
 53691,25,Male,36.400002,South Atlantic,Moderate,About Right
 53694,42,Female,22.5,South Atlantic,Moderate,Too Little
 53695,59,Female,80.300003,South Atlantic,Liberal,Too Little
-53696,84,Male,73.300003,South Atlantic,Extrmly Conservative,Too Little
+53696,84,Male,73.300003,South Atlantic,Extremely Conservative,Too Little
 53697,60,Female,76.400002,W. Nor. Central,Liberal,Too Little
 53698,26,Female,30.799999,W. Nor. Central,Moderate,Too Little
 53699,22,Female,32.400002,W. Nor. Central,Slightly Liberal,About Right
@@ -584,7 +584,7 @@ caseid,age,sex,sei,region,polviews,natmass
 53733,83,Male,65.800003,South Atlantic,Moderate,Too Little
 53734,88,Male,32.299999,South Atlantic,Moderate,Too Little
 53735,76,Male,63.5,South Atlantic,Slightly Liberal,Too Little
-53736,50,Female,43.700001,South Atlantic,Extrmly Conservative,About Right
+53736,50,Female,43.700001,South Atlantic,Extremely Conservative,About Right
 53737,49,Female,76.400002,South Atlantic,Liberal,About Right
 53738,43,Male,49.900002,South Atlantic,Conservative,Too Little
 53739,32,Male,76.400002,South Atlantic,Conservative,About Right
@@ -771,14 +771,14 @@ caseid,age,sex,sei,region,polviews,natmass
 53941,70,Female,32.400002,E. Nor. Central,Slightly Liberal,Too Much
 53942,60,Female,58.099998,E. Nor. Central,Extremely Liberal,Too Little
 53943,59,Female,76.300003,E. Nor. Central,Moderate,About Right
-53944,42,Female,32,E. Nor. Central,Extrmly Conservative,About Right
+53944,42,Female,32,E. Nor. Central,Extremely Conservative,About Right
 53945,37,Female,63.5,E. Nor. Central,Moderate,Too Little
 53946,29,Female,33.099998,E. Nor. Central,Conservative,Too Little
 53947,64,Male,88.800003,E. Nor. Central,Moderate,Too Little
 53949,72,Male,84.5,E. Nor. Central,Liberal,About Right
 53950,33,Male,61.900002,E. Nor. Central,Slightly Conservative,About Right
 53951,52,Female,78.5,E. Nor. Central,Conservative,About Right
-53952,56,Male,65.800003,E. Nor. Central,Extrmly Conservative,About Right
+53952,56,Male,65.800003,E. Nor. Central,Extremely Conservative,About Right
 53954,48,Female,31.200001,E. Nor. Central,Moderate,Too Little
 53955,20,Female,36.5,E. Nor. Central,Moderate,About Right
 53956,43,Male,48.5,E. Nor. Central,Moderate,Too Little
@@ -829,13 +829,13 @@ caseid,age,sex,sei,region,polviews,natmass
 54005,35,Male,86,E. Nor. Central,Slightly Conservative,Too Much
 54006,67,Female,38.400002,E. Nor. Central,Conservative,About Right
 54007,56,Female,50.5,E. Nor. Central,Conservative,Too Little
-54008,25,Male,43.700001,E. Nor. Central,Extrmly Conservative,About Right
+54008,25,Male,43.700001,E. Nor. Central,Extremely Conservative,About Right
 54009,32,Female,26.700001,E. Nor. Central,Moderate,About Right
 54010,25,Male,31.5,E. Nor. Central,Slightly Conservative,About Right
 54011,80,Female,63.5,E. Nor. Central,Conservative,Too Much
 54012,47,Female,36.5,E. Nor. Central,Slightly Conservative,Too Little
 54014,28,Female,33.099998,E. Nor. Central,Conservative,Too Little
-54016,61,Female,80.300003,E. Nor. Central,Extrmly Conservative,About Right
+54016,61,Female,80.300003,E. Nor. Central,Extremely Conservative,About Right
 54017,85,Female,37.700001,E. Nor. Central,Conservative,Too Little
 54018,53,Female,29.200001,E. Nor. Central,Moderate,Too Little
 54019,36,Female,64.099998,E. Nor. Central,Slightly Liberal,Too Little
@@ -871,10 +871,10 @@ caseid,age,sex,sei,region,polviews,natmass
 54052,45,Male,96,E. Nor. Central,Slightly Conservative,Too Little
 54053,49,Male,63.5,E. Nor. Central,Slightly Conservative,Too Little
 54054,51,Male,31.5,E. Nor. Central,Conservative,Too Little
-54055,57,Male,76.300003,E. Nor. Central,Extrmly Conservative,Too Much
+54055,57,Male,76.300003,E. Nor. Central,Extremely Conservative,Too Much
 54056,44,Male,64.099998,E. Nor. Central,Slightly Conservative,Too Little
 54057,31,Male,73.300003,E. Nor. Central,Moderate,Too Little
-54058,39,Female,37.700001,E. Nor. Central,Extrmly Conservative,Too Little
+54058,39,Female,37.700001,E. Nor. Central,Extremely Conservative,Too Little
 54059,39,Male,38.900002,E. Nor. Central,Conservative,Too Much
 54060,59,Male,27.700001,E. Nor. Central,Moderate,About Right
 54061,33,Male,32,E. Nor. Central,Slightly Conservative,About Right
@@ -903,23 +903,23 @@ caseid,age,sex,sei,region,polviews,natmass
 54088,57,Female,39.5,E. Nor. Central,Moderate,Too Little
 54089,24,Female,29.1,E. Nor. Central,Liberal,Too Little
 54090,70,Female,76.5,E. Nor. Central,Slightly Conservative,Too Little
-54091,52,Male,81,E. Nor. Central,Extrmly Conservative,About Right
+54091,52,Male,81,E. Nor. Central,Extremely Conservative,About Right
 54092,60,Female,61.900002,E. Nor. Central,Conservative,About Right
 54093,40,Female,63.5,E. Nor. Central,Slightly Conservative,About Right
 54094,64,Female,80.099998,E. Sou. Central,Moderate,About Right
 54095,49,Male,30.1,E. Sou. Central,Moderate,Too Much
 54096,66,Female,66.099998,E. Sou. Central,Moderate,About Right
 54097,23,Female,38.400002,E. Sou. Central,Slightly Liberal,Too Little
-54098,65,Female,50.700001,E. Sou. Central,Extrmly Conservative,About Right
+54098,65,Female,50.700001,E. Sou. Central,Extremely Conservative,About Right
 54099,52,Female,69.699997,E. Sou. Central,Moderate,Too Little
 54100,25,Female,53.299999,E. Sou. Central,Conservative,About Right
 54101,43,Male,53.099998,E. Sou. Central,Slightly Conservative,Too Little
-54102,34,Female,80.300003,E. Sou. Central,Extrmly Conservative,About Right
+54102,34,Female,80.300003,E. Sou. Central,Extremely Conservative,About Right
 54103,30,Female,62.5,E. Nor. Central,Moderate,About Right
 54104,67,Male,36.5,E. Nor. Central,Conservative,Too Little
 54105,50,Male,61.900002,E. Nor. Central,Moderate,Too Little
 54106,41,Male,83.699997,E. Nor. Central,Moderate,Too Little
-54107,46,Female,36.5,E. Nor. Central,Extrmly Conservative,About Right
+54107,46,Female,36.5,E. Nor. Central,Extremely Conservative,About Right
 54108,46,Female,66.099998,E. Nor. Central,Conservative,Too Little
 54109,66,Male,63.5,E. Nor. Central,Liberal,Too Little
 54110,23,Female,50.700001,W. Nor. Central,Moderate,About Right
@@ -976,8 +976,8 @@ caseid,age,sex,sei,region,polviews,natmass
 54167,29,Female,67,E. Sou. Central,Liberal,Too Little
 54168,62,Female,22.5,E. Sou. Central,Extremely Liberal,About Right
 54170,35,Male,64.099998,E. Sou. Central,Conservative,About Right
-54171,75,Male,35.099998,E. Sou. Central,Extrmly Conservative,About Right
-54172,69,Male,27.700001,E. Sou. Central,Extrmly Conservative,Too Little
+54171,75,Male,35.099998,E. Sou. Central,Extremely Conservative,About Right
+54172,69,Male,27.700001,E. Sou. Central,Extremely Conservative,Too Little
 54173,50,Female,28.4,E. Sou. Central,Moderate,Too Little
 54174,66,Female,37.5,E. Sou. Central,Moderate,About Right
 54175,50,Female,21.200001,E. Sou. Central,Moderate,Too Little
@@ -1031,7 +1031,7 @@ caseid,age,sex,sei,region,polviews,natmass
 54234,66,Female,50.5,South Atlantic,Conservative,Too Little
 54236,28,Female,29.299999,South Atlantic,Moderate,Too Little
 54237,27,Female,33.099998,South Atlantic,Slightly Liberal,About Right
-54238,37,Female,28.4,South Atlantic,Extrmly Conservative,About Right
+54238,37,Female,28.4,South Atlantic,Extremely Conservative,About Right
 54240,25,Female,37.299999,South Atlantic,Conservative,About Right
 54241,63,Male,63.200001,South Atlantic,Slightly Conservative,About Right
 54242,29,Female,26.4,South Atlantic,Liberal,About Right
@@ -1054,7 +1054,7 @@ caseid,age,sex,sei,region,polviews,natmass
 54265,58,Male,44.700001,W. Sou. Central,Slightly Conservative,Too Little
 54266,46,Male,40,W. Sou. Central,Liberal,Too Little
 54268,37,Female,32.400002,W. Sou. Central,Extremely Liberal,About Right
-54269,30,Male,28.4,W. Sou. Central,Extrmly Conservative,About Right
+54269,30,Male,28.4,W. Sou. Central,Extremely Conservative,About Right
 54270,81,Male,41.200001,W. Sou. Central,Slightly Liberal,Too Little
 54271,26,Female,34.599998,W. Sou. Central,Moderate,Too Little
 54272,52,Female,66.099998,W. Sou. Central,Moderate,Too Little
@@ -1105,7 +1105,7 @@ caseid,age,sex,sei,region,polviews,natmass
 54324,40,Male,63.5,South Atlantic,Moderate,About Right
 54325,44,Female,73.199997,South Atlantic,Moderate,About Right
 54326,72,Male,63.5,South Atlantic,Moderate,Too Little
-54327,78,Male,39,South Atlantic,Extrmly Conservative,About Right
+54327,78,Male,39,South Atlantic,Extremely Conservative,About Right
 54328,53,Male,34.200001,South Atlantic,Slightly Liberal,Too Little
 54329,89,Female,78.5,South Atlantic,Slightly Liberal,About Right
 54330,29,Male,31.299999,South Atlantic,Conservative,About Right
@@ -1115,7 +1115,7 @@ caseid,age,sex,sei,region,polviews,natmass
 54334,56,Male,25.9,E. Sou. Central,Slightly Liberal,Too Little
 54335,24,Male,59.299999,E. Sou. Central,Liberal,About Right
 54336,33,Female,33.099998,E. Sou. Central,Moderate,Too Little
-54337,43,Male,63.5,E. Sou. Central,Extrmly Conservative,Too Much
+54337,43,Male,63.5,E. Sou. Central,Extremely Conservative,Too Much
 54338,37,Female,63.5,E. Sou. Central,Moderate,Too Little
 54339,41,Female,57.099998,E. Sou. Central,Moderate,Too Little
 54340,42,Male,37.299999,E. Sou. Central,Moderate,Too Little
@@ -1124,7 +1124,7 @@ caseid,age,sex,sei,region,polviews,natmass
 54343,31,Male,50.5,E. Sou. Central,Moderate,Too Little
 54345,38,Female,63.5,E. Sou. Central,Conservative,About Right
 54346,28,Male,50.5,E. Sou. Central,Conservative,Too Much
-54347,31,Female,26.4,E. Sou. Central,Extrmly Conservative,About Right
+54347,31,Female,26.4,E. Sou. Central,Extremely Conservative,About Right
 54348,53,Male,73.199997,E. Sou. Central,Conservative,Too Little
 54349,51,Male,86.5,E. Sou. Central,Moderate,Too Much
 54350,31,Male,51.900002,E. Sou. Central,Slightly Conservative,Too Little
@@ -1133,14 +1133,14 @@ caseid,age,sex,sei,region,polviews,natmass
 54355,49,Female,36.900002,E. Sou. Central,Moderate,Too Little
 54356,23,Female,33.099998,E. Sou. Central,Moderate,Too Much
 54357,49,Female,32.400002,E. Sou. Central,Moderate,About Right
-54358,57,Female,26.4,E. Sou. Central,Extrmly Conservative,Too Little
+54358,57,Female,26.4,E. Sou. Central,Extremely Conservative,Too Little
 54359,30,Male,61.900002,E. Sou. Central,Conservative,Too Much
 54360,37,Male,34.200001,E. Sou. Central,Slightly Liberal,Too Little
 54362,64,Male,50.5,E. Sou. Central,Moderate,Too Little
 54363,56,Female,38,E. Sou. Central,Extremely Liberal,Too Little
 54365,34,Female,80.900002,E. Sou. Central,Slightly Conservative,About Right
 54366,68,Female,26.700001,E. Sou. Central,Moderate,Too Little
-54367,53,Male,38.900002,E. Sou. Central,Extrmly Conservative,Too Much
+54367,53,Male,38.900002,E. Sou. Central,Extremely Conservative,Too Much
 54368,45,Female,69.199997,E. Sou. Central,Slightly Conservative,About Right
 54369,40,Female,64.800003,E. Sou. Central,Conservative,About Right
 54370,33,Female,64.400002,E. Sou. Central,Conservative,About Right
@@ -1159,7 +1159,7 @@ caseid,age,sex,sei,region,polviews,natmass
 54385,49,Male,50.700001,W. Sou. Central,Moderate,About Right
 54387,43,Female,76.400002,W. Sou. Central,Slightly Conservative,About Right
 54388,59,Male,41.599998,W. Sou. Central,Moderate,About Right
-54389,44,Male,31.4,W. Sou. Central,Extrmly Conservative,Too Little
+54389,44,Male,31.4,W. Sou. Central,Extremely Conservative,Too Little
 54390,42,Female,22.5,W. Sou. Central,Moderate,About Right
 54391,43,Female,69.199997,W. Sou. Central,Moderate,About Right
 54392,49,Female,33.099998,W. Sou. Central,Moderate,About Right
@@ -1208,7 +1208,7 @@ caseid,age,sex,sei,region,polviews,natmass
 54443,26,Male,42.200001,South Atlantic,Moderate,About Right
 54444,65,Female,50.700001,South Atlantic,Moderate,Too Little
 54447,29,Female,21.200001,South Atlantic,Conservative,About Right
-54448,81,Female,30.799999,South Atlantic,Extrmly Conservative,About Right
+54448,81,Female,30.799999,South Atlantic,Extremely Conservative,About Right
 54449,28,Female,33.099998,South Atlantic,Slightly Liberal,About Right
 54450,27,Female,36.5,South Atlantic,Liberal,About Right
 54451,47,Male,28.6,South Atlantic,Moderate,Too Little
@@ -1256,7 +1256,7 @@ caseid,age,sex,sei,region,polviews,natmass
 54499,53,Female,29.299999,Pacific,Moderate,Too Much
 54500,52,Female,37.700001,Pacific,Conservative,Too Much
 54501,68,Male,63.5,Pacific,Moderate,Too Little
-54503,49,Male,62.5,Pacific,Extrmly Conservative,About Right
+54503,49,Male,62.5,Pacific,Extremely Conservative,About Right
 54504,24,Male,29.200001,Pacific,Slightly Liberal,Too Much
 54505,44,Female,36.900002,Pacific,Moderate,About Right
 54506,55,Male,28.6,Pacific,Liberal,About Right
@@ -1285,7 +1285,7 @@ caseid,age,sex,sei,region,polviews,natmass
 54531,89,Male,86,Pacific,Extremely Liberal,About Right
 54532,42,Male,50.700001,Pacific,Moderate,About Right
 54533,49,Male,50.700001,Mountain,Liberal,Too Little
-54534,89,Female,32.299999,Mountain,Extrmly Conservative,Too Much
+54534,89,Female,32.299999,Mountain,Extremely Conservative,Too Much
 54535,21,Male,50.700001,Mountain,Slightly Liberal,Too Little
 54536,39,Female,63.5,Mountain,Slightly Liberal,Too Little
 54537,60,Male,64,Mountain,Conservative,Too Little
@@ -1328,7 +1328,7 @@ caseid,age,sex,sei,region,polviews,natmass
 54577,37,Female,31.200001,Pacific,Slightly Liberal,Too Much
 54578,39,Male,31.4,Pacific,Moderate,About Right
 54579,41,Male,63.200001,Pacific,Conservative,Too Little
-54580,59,Female,38.5,Pacific,Extrmly Conservative,Too Much
+54580,59,Female,38.5,Pacific,Extremely Conservative,Too Much
 54581,76,Male,82.699997,Pacific,Conservative,Too Little
 54582,67,Female,63.5,Pacific,Moderate,About Right
 54583,64,Female,36.5,Pacific,Conservative,About Right
@@ -1400,7 +1400,7 @@ caseid,age,sex,sei,region,polviews,natmass
 54665,60,Male,38.200001,Middle Atlantic,Moderate,About Right
 54666,45,Male,64.099998,Middle Atlantic,Slightly Conservative,Too Little
 54667,63,Female,50.700001,Middle Atlantic,Liberal,Too Little
-54669,43,Male,73.599998,W. Nor. Central,Extrmly Conservative,Too Much
+54669,43,Male,73.599998,W. Nor. Central,Extremely Conservative,Too Much
 54671,60,Female,87,W. Nor. Central,Slightly Liberal,Too Little
 54672,47,Male,63.5,W. Nor. Central,Slightly Conservative,About Right
 54673,28,Female,73.900002,W. Nor. Central,Slightly Conservative,Too Little
@@ -1437,9 +1437,9 @@ caseid,age,sex,sei,region,polviews,natmass
 54708,58,Male,84,Mountain,Slightly Liberal,Too Little
 54709,41,Female,32.400002,Mountain,Liberal,About Right
 54710,72,Female,32.400002,Mountain,Moderate,About Right
-54711,50,Female,29.799999,Mountain,Extrmly Conservative,About Right
+54711,50,Female,29.799999,Mountain,Extremely Conservative,About Right
 54712,83,Male,31.5,Mountain,Moderate,About Right
-54713,82,Male,62,Mountain,Extrmly Conservative,Too Much
+54713,82,Male,62,Mountain,Extremely Conservative,Too Much
 54714,47,Female,73.199997,W. Nor. Central,Slightly Liberal,About Right
 54715,50,Female,33.099998,W. Nor. Central,Moderate,Too Little
 54717,88,Male,37.299999,W. Nor. Central,Moderate,About Right
@@ -1480,7 +1480,7 @@ caseid,age,sex,sei,region,polviews,natmass
 54761,24,Male,29.200001,E. Nor. Central,Extremely Liberal,Too Much
 54763,30,Male,63.5,E. Nor. Central,Conservative,Too Little
 54765,19,Male,69.199997,E. Nor. Central,Moderate,About Right
-54767,61,Male,45.799999,E. Nor. Central,Extrmly Conservative,About Right
+54767,61,Male,45.799999,E. Nor. Central,Extremely Conservative,About Right
 54768,67,Female,31.200001,E. Nor. Central,Moderate,About Right
 54769,50,Male,24.200001,E. Nor. Central,Liberal,About Right
 54770,35,Female,73.300003,E. Nor. Central,Conservative,Too Much
@@ -1505,10 +1505,10 @@ caseid,age,sex,sei,region,polviews,natmass
 54791,60,Male,29.6,E. Nor. Central,Conservative,About Right
 54792,66,Male,29.200001,E. Nor. Central,Liberal,About Right
 54794,35,Female,63.5,South Atlantic,Moderate,Too Little
-54795,42,Male,36.900002,South Atlantic,Extrmly Conservative,Too Much
+54795,42,Male,36.900002,South Atlantic,Extremely Conservative,Too Much
 54796,37,Male,20.1,South Atlantic,Slightly Liberal,Too Little
 54798,33,Male,80.900002,South Atlantic,Slightly Liberal,Too Little
-54799,62,Male,31.5,South Atlantic,Extrmly Conservative,Too Much
+54799,62,Male,31.5,South Atlantic,Extremely Conservative,Too Much
 54800,52,Male,26.6,South Atlantic,Moderate,Too Little
 54801,58,Female,78.5,South Atlantic,Liberal,About Right
 54802,49,Male,32.700001,South Atlantic,Extremely Liberal,About Right
@@ -1516,7 +1516,7 @@ caseid,age,sex,sei,region,polviews,natmass
 54804,47,Female,28.4,South Atlantic,Slightly Conservative,About Right
 54805,32,Female,22.9,South Atlantic,Conservative,About Right
 54806,42,Male,31.5,South Atlantic,Conservative,Too Little
-54807,30,Female,22.5,South Atlantic,Extrmly Conservative,Too Little
+54807,30,Female,22.5,South Atlantic,Extremely Conservative,Too Little
 54808,45,Female,22.700001,South Atlantic,Moderate,Too Little
 54809,61,Female,26.4,South Atlantic,Liberal,Too Little
 54810,26,Male,38.5,South Atlantic,Slightly Conservative,Too Little
@@ -1526,10 +1526,10 @@ caseid,age,sex,sei,region,polviews,natmass
 54816,42,Female,63.5,South Atlantic,Moderate,Too Much
 54818,37,Male,32.299999,South Atlantic,Slightly Conservative,Too Little
 54819,69,Female,30.700001,South Atlantic,Moderate,Too Little
-54820,61,Male,28.4,South Atlantic,Extrmly Conservative,About Right
+54820,61,Male,28.4,South Atlantic,Extremely Conservative,About Right
 54821,65,Female,17.6,South Atlantic,Moderate,About Right
 54823,67,Female,78.5,South Atlantic,Moderate,Too Little
-54824,62,Male,49.599998,South Atlantic,Extrmly Conservative,Too Much
+54824,62,Male,49.599998,South Atlantic,Extremely Conservative,Too Much
 54825,38,Male,26.4,South Atlantic,Moderate,About Right
 54826,60,Male,31.4,South Atlantic,Slightly Conservative,Too Little
 54827,45,Male,17.1,South Atlantic,Liberal,About Right
@@ -1547,7 +1547,7 @@ caseid,age,sex,sei,region,polviews,natmass
 54845,39,Male,38.099998,E. Sou. Central,Liberal,Too Much
 54846,64,Female,32.400002,E. Sou. Central,Conservative,About Right
 54849,21,Male,37.599998,E. Sou. Central,Moderate,About Right
-54850,37,Male,62,E. Sou. Central,Extrmly Conservative,About Right
+54850,37,Male,62,E. Sou. Central,Extremely Conservative,About Right
 54851,32,Female,29,E. Sou. Central,Conservative,About Right
 54854,46,Male,63.5,South Atlantic,Conservative,Too Little
 54856,48,Female,27.5,South Atlantic,Extremely Liberal,About Right
@@ -1597,7 +1597,7 @@ caseid,age,sex,sei,region,polviews,natmass
 54917,45,Female,50.5,South Atlantic,Moderate,About Right
 54918,25,Female,63.200001,South Atlantic,Liberal,Too Little
 54919,38,Female,67,South Atlantic,Moderate,About Right
-54920,53,Male,31.4,South Atlantic,Extrmly Conservative,Too Much
+54920,53,Male,31.4,South Atlantic,Extremely Conservative,Too Much
 54921,54,Female,29.299999,South Atlantic,Slightly Conservative,Too Much
 54922,68,Female,17.1,South Atlantic,Moderate,Too Much
 54924,53,Male,31.5,South Atlantic,Conservative,About Right
@@ -1624,10 +1624,10 @@ caseid,age,sex,sei,region,polviews,natmass
 54952,22,Female,38.900002,South Atlantic,Extremely Liberal,Too Little
 54957,52,Male,63.5,South Atlantic,Moderate,Too Much
 54958,59,Male,39.5,South Atlantic,Moderate,Too Much
-54959,40,Male,31.5,South Atlantic,Extrmly Conservative,About Right
+54959,40,Male,31.5,South Atlantic,Extremely Conservative,About Right
 54960,45,Male,53.700001,South Atlantic,Slightly Conservative,Too Little
 54962,62,Male,63.5,South Atlantic,Conservative,Too Much
-54963,67,Male,73.900002,South Atlantic,Extrmly Conservative,Too Much
+54963,67,Male,73.900002,South Atlantic,Extremely Conservative,Too Much
 54964,35,Female,38.900002,South Atlantic,Slightly Conservative,About Right
 54966,41,Male,29.200001,South Atlantic,Slightly Conservative,Too Little
 54967,38,Male,50.5,W. Sou. Central,Slightly Conservative,Too Little
@@ -1650,7 +1650,7 @@ caseid,age,sex,sei,region,polviews,natmass
 54985,67,Male,35.099998,E. Sou. Central,Conservative,Too Little
 54986,52,Female,38.400002,E. Sou. Central,Extremely Liberal,Too Little
 54988,51,Female,29.5,E. Sou. Central,Conservative,About Right
-54989,67,Female,71.599998,E. Sou. Central,Extrmly Conservative,About Right
+54989,67,Female,71.599998,E. Sou. Central,Extremely Conservative,About Right
 54990,32,Male,64.800003,E. Sou. Central,Moderate,Too Little
 54991,36,Female,65.800003,E. Sou. Central,Slightly Conservative,Too Little
 54992,63,Female,48.5,E. Sou. Central,Moderate,Too Little
@@ -1668,20 +1668,20 @@ caseid,age,sex,sei,region,polviews,natmass
 55009,28,Female,27.700001,E. Sou. Central,Slightly Liberal,Too Little
 55011,50,Male,26.700001,E. Sou. Central,Conservative,Too Much
 55012,37,Female,32.400002,W. Sou. Central,Moderate,About Right
-55013,52,Male,50.700001,W. Sou. Central,Extrmly Conservative,Too Much
+55013,52,Male,50.700001,W. Sou. Central,Extremely Conservative,Too Much
 55014,39,Female,53.700001,W. Sou. Central,Conservative,About Right
 55015,67,Male,32,W. Sou. Central,Moderate,Too Much
 55016,58,Female,63.5,W. Sou. Central,Moderate,About Right
-55017,60,Male,29.200001,W. Sou. Central,Extrmly Conservative,About Right
-55018,65,Male,52.5,W. Sou. Central,Extrmly Conservative,Too Much
+55017,60,Male,29.200001,W. Sou. Central,Extremely Conservative,About Right
+55018,65,Male,52.5,W. Sou. Central,Extremely Conservative,Too Much
 55019,61,Female,73.300003,W. Sou. Central,Slightly Liberal,About Right
 55020,57,Male,62.200001,W. Sou. Central,Moderate,Too Little
 55021,59,Male,31.5,W. Sou. Central,Moderate,About Right
-55022,26,Female,38.900002,W. Sou. Central,Extrmly Conservative,Too Much
+55022,26,Female,38.900002,W. Sou. Central,Extremely Conservative,Too Much
 55023,54,Male,29.5,W. Sou. Central,Moderate,About Right
 55024,29,Female,62.5,W. Sou. Central,Conservative,About Right
 55025,43,Female,33.099998,W. Sou. Central,Slightly Conservative,Too Little
-55026,59,Male,78.5,W. Sou. Central,Extrmly Conservative,About Right
+55026,59,Male,78.5,W. Sou. Central,Extremely Conservative,About Right
 55027,83,Male,87.900002,W. Sou. Central,Conservative,Too Little
 55028,66,Female,48.5,W. Sou. Central,Moderate,About Right
 55029,36,Female,30.799999,South Atlantic,Slightly Conservative,Too Little
@@ -1705,12 +1705,12 @@ caseid,age,sex,sei,region,polviews,natmass
 55051,25,Male,38.5,Mountain,Conservative,About Right
 55055,56,Female,78.5,Mountain,Extremely Liberal,Too Little
 55056,63,Male,34.200001,Mountain,Moderate,About Right
-55057,53,Female,31.200001,Mountain,Extrmly Conservative,Too Little
+55057,53,Female,31.200001,Mountain,Extremely Conservative,Too Little
 55058,50,Female,85.099998,Mountain,Liberal,Too Little
 55059,71,Male,31.4,Mountain,Moderate,About Right
 55061,19,Male,27.700001,Mountain,Liberal,Too Little
 55062,44,Male,53.900002,Mountain,Slightly Liberal,Too Much
-55065,30,Male,29.4,Mountain,Extrmly Conservative,About Right
+55065,30,Male,29.4,Mountain,Extremely Conservative,About Right
 55067,42,Female,37.700001,Mountain,Moderate,About Right
 55068,25,Male,38.5,Mountain,Moderate,Too Little
 55070,65,Male,33.900002,Mountain,Slightly Conservative,Too Little
@@ -1726,7 +1726,7 @@ caseid,age,sex,sei,region,polviews,natmass
 55081,70,Male,29.4,Pacific,Moderate,Too Much
 55082,63,Male,32.299999,Pacific,Moderate,About Right
 55083,62,Male,80,Pacific,Slightly Conservative,About Right
-55084,66,Female,50.700001,Pacific,Extrmly Conservative,Too Little
+55084,66,Female,50.700001,Pacific,Extremely Conservative,Too Little
 55085,54,Female,65.800003,Pacific,Slightly Liberal,About Right
 55086,57,Female,63.5,Pacific,Slightly Liberal,Too Little
 55087,30,Male,76.300003,Pacific,Moderate,Too Much
